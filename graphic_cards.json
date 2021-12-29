@@ -1,0 +1,6827 @@
+[
+  {
+    "name": "128 DDR Radeon 9700 TX w/TV-Out"
+  },
+  {
+    "name": "128 DDR Radeon 9800 Pro"
+  },
+  {
+    "name": "128MB DDR Radeon 9800 Pro"
+  },
+  {
+    "name": "128MB RADEON X600 SE"
+  },
+  {
+    "name": "15FF"
+  },
+  {
+    "name": "256MB DDR Radeon 9800 XT"
+  },
+  {
+    "name": "256MB RADEON X600"
+  },
+  {
+    "name": "3DP Edition"
+  },
+  {
+    "name": "64MB DDR GeForce3 Ti 200"
+  },
+  {
+    "name": "64MB GeForce2 MX with TV Out"
+  },
+  {
+    "name": "7900 MOD - Radeon HD 6520G"
+  },
+  {
+    "name": "7900 MOD - Radeon HD 6550D"
+  },
+  {
+    "name": "9xx Soldiers sans frontiers Sigma 2"
+  },
+  {
+    "name": "A10-8700P"
+  },
+  {
+    "name": "A6 Micro-6500T Quad-Core APU with RadeonR4"
+  },
+  {
+    "name": "ABIT Siluro T400"
+  },
+  {
+    "name": "ALL-IN-WONDER 9000"
+  },
+  {
+    "name": "ALL-IN-WONDER 9800"
+  },
+  {
+    "name": "ALL-IN-WONDER RADEON 8500DV"
+  },
+  {
+    "name": "All-in-Wonder X1800XL"
+  },
+  {
+    "name": "All-in-Wonder X1900"
+  },
+  {
+    "name": "ALL-IN-WONDER X800 GT"
+  },
+  {
+    "name": "AMIGAMERLIN 3.1-R1 For Voodoo 4 4500 PCI"
+  },
+  {
+    "name": "ASUS A7000"
+  },
+  {
+    "name": "ASUS AGP-V3800PRO v31.40H"
+  },
+  {
+    "name": "ASUS EAH4870x2"
+  },
+  {
+    "name": "Asus GTX 650 FML II EC-EGPU"
+  },
+  {
+    "name": "ASUS V9520-X V62.11"
+  },
+  {
+    "name": "B8DKMDAP"
+  },
+  {
+    "name": "Barco MXRT 1450"
+  },
+  {
+    "name": "Barco MXRT 2600"
+  },
+  {
+    "name": "Barco MXRT 5400"
+  },
+  {
+    "name": "Barco MXRT 5450"
+  },
+  {
+    "name": "Barco MXRT 5500"
+  },
+  {
+    "name": "Barco MXRT 7100"
+  },
+  {
+    "name": "Barco MXRT 7400"
+  },
+  {
+    "name": "Barco MXRT 7500"
+  },
+  {
+    "name": "Barco MXRT 7600"
+  },
+  {
+    "name": "BASICDISPLAY"
+  },
+  {
+    "name": "CARRIZO 9874"
+  },
+  {
+    "name": "Citrix Indirect Display Adapter"
+  },
+  {
+    "name": "CONNECT 3D RADEON X300"
+  },
+  {
+    "name": "Dell 8100"
+  },
+  {
+    "name": "Dell 8200"
+  },
+  {
+    "name": "Diamond X1300-PCIE 256MB"
+  },
+  {
+    "name": "EAH5450"
+  },
+  {
+    "name": "EG PARK"
+  },
+  {
+    "name": "EIZO Quadro MED-XN51LP"
+  },
+  {
+    "name": "Embedded Radeon E9173"
+  },
+  {
+    "name": "Extreme AX850 PRO"
+  },
+  {
+    "name": "Familia Intel Q33 Express Chipset"
+  },
+  {
+    "name": "Famille de jeu de puces Express Intel 946GZ"
+  },
+  {
+    "name": "FireGL T2-128"
+  },
+  {
+    "name": "FireGL V3100"
+  },
+  {
+    "name": "FireGL V3200"
+  },
+  {
+    "name": "FireGL V3300"
+  },
+  {
+    "name": "FireGL V3350"
+  },
+  {
+    "name": "FireGL V3400"
+  },
+  {
+    "name": "FireGL V3600"
+  },
+  {
+    "name": "FireGL V5100"
+  },
+  {
+    "name": "FireGL V5200"
+  },
+  {
+    "name": "FireGL V5600"
+  },
+  {
+    "name": "FireGL V7100"
+  },
+  {
+    "name": "FireGL V7200"
+  },
+  {
+    "name": "FireGL V7300"
+  },
+  {
+    "name": "FireGL V7350"
+  },
+  {
+    "name": "FireGL V7600"
+  },
+  {
+    "name": "FireGL V7700"
+  },
+  {
+    "name": "FireGL V8600"
+  },
+  {
+    "name": "FireGL V8650"
+  },
+  {
+    "name": "FireGL X1"
+  },
+  {
+    "name": "FireMV 2200 PCI"
+  },
+  {
+    "name": "FireMV 2200 PCIe"
+  },
+  {
+    "name": "FireMV 2250"
+  },
+  {
+    "name": "FireMV 2260"
+  },
+  {
+    "name": "FireMV 2400 PCIe"
+  },
+  {
+    "name": "FireMV 2450"
+  },
+  {
+    "name": "FirePro 2260"
+  },
+  {
+    "name": "FirePro 2270"
+  },
+  {
+    "name": "FirePro 2450"
+  },
+  {
+    "name": "FirePro 2460"
+  },
+  {
+    "name": "FirePro 3D V3700"
+  },
+  {
+    "name": "FirePro 3D V3750"
+  },
+  {
+    "name": "FirePro 3D V3800"
+  },
+  {
+    "name": "FirePro 3D V4800"
+  },
+  {
+    "name": "FirePro 3D V5700"
+  },
+  {
+    "name": "FirePro 3D V5800"
+  },
+  {
+    "name": "FirePro 3D V7750"
+  },
+  {
+    "name": "FirePro 3D V7800"
+  },
+  {
+    "name": "FirePro 3D V8700"
+  },
+  {
+    "name": "FirePro 3D V8750"
+  },
+  {
+    "name": "FirePro 3D V8800"
+  },
+  {
+    "name": "FirePro 3D V9800"
+  },
+  {
+    "name": "FirePro M2000"
+  },
+  {
+    "name": "FirePro M4000"
+  },
+  {
+    "name": "FirePro M4000 Mobility Pro"
+  },
+  {
+    "name": "FirePro M40003"
+  },
+  {
+    "name": "Firepro M4100"
+  },
+  {
+    "name": "FirePro M4150"
+  },
+  {
+    "name": "FirePro M4170"
+  },
+  {
+    "name": "FirePro M5100"
+  },
+  {
+    "name": "FirePro M5100 FireGL V"
+  },
+  {
+    "name": "FirePro M5950"
+  },
+  {
+    "name": "FirePro M6000"
+  },
+  {
+    "name": "FirePro M6000 Mobility Pro"
+  },
+  {
+    "name": "FirePro M6100"
+  },
+  {
+    "name": "FirePro M6100 FireGL V"
+  },
+  {
+    "name": "FirePro M7740"
+  },
+  {
+    "name": "FirePro R5000"
+  },
+  {
+    "name": "FirePro RG220"
+  },
+  {
+    "name": "FirePro S10000"
+  },
+  {
+    "name": "FirePro S7000"
+  },
+  {
+    "name": "FirePro S7150"
+  },
+  {
+    "name": "FirePro S9000"
+  },
+  {
+    "name": "FirePro S9050"
+  },
+  {
+    "name": "FirePro V3800"
+  },
+  {
+    "name": "FirePro V3900"
+  },
+  {
+    "name": "FirePro V4900"
+  },
+  {
+    "name": "FirePro V5700"
+  },
+  {
+    "name": "FirePro V5800"
+  },
+  {
+    "name": "FirePro V5900"
+  },
+  {
+    "name": "FirePro V7000"
+  },
+  {
+    "name": "FirePro V7800"
+  },
+  {
+    "name": "FirePro V7900"
+  },
+  {
+    "name": "FirePro V8700"
+  },
+  {
+    "name": "FirePro V8800"
+  },
+  {
+    "name": "FirePro V9800"
+  },
+  {
+    "name": "FirePro W2100"
+  },
+  {
+    "name": "FirePro W4100"
+  },
+  {
+    "name": "FirePro W4170M"
+  },
+  {
+    "name": "Firepro W4190M"
+  },
+  {
+    "name": "FirePro W4300"
+  },
+  {
+    "name": "FirePro W5000"
+  },
+  {
+    "name": "FirePro W5100"
+  },
+  {
+    "name": "FirePro W5130M"
+  },
+  {
+    "name": "Firepro W5170M"
+  },
+  {
+    "name": "FirePro W600"
+  },
+  {
+    "name": "FirePro W6150M"
+  },
+  {
+    "name": "FirePro W7000"
+  },
+  {
+    "name": "FirePro W7000 Adapter"
+  },
+  {
+    "name": "FirePro W7100"
+  },
+  {
+    "name": "FirePro W7170M"
+  },
+  {
+    "name": "FirePro W8000"
+  },
+  {
+    "name": "FirePro W8100"
+  },
+  {
+    "name": "FirePro W9000"
+  },
+  {
+    "name": "FirePro W9100"
+  },
+  {
+    "name": "FireStream 9170"
+  },
+  {
+    "name": "FireStream 9250"
+  },
+  {
+    "name": "FireStream 9270"
+  },
+  {
+    "name": "FireStream 9370"
+  },
+  {
+    "name": "GeCube RADEON 7000"
+  },
+  {
+    "name": "GeForce 205"
+  },
+  {
+    "name": "GeForce 210"
+  },
+  {
+    "name": "GeForce 240M GT"
+  },
+  {
+    "name": "GeForce 256"
+  },
+  {
+    "name": "GeForce 305M"
+  },
+  {
+    "name": "GeForce 310"
+  },
+  {
+    "name": "GeForce 310M"
+  },
+  {
+    "name": "GeForce 315"
+  },
+  {
+    "name": "GeForce 315M"
+  },
+  {
+    "name": "GeForce 320M"
+  },
+  {
+    "name": "GeForce 405"
+  },
+  {
+    "name": "GeForce 410M"
+  },
+  {
+    "name": "GeForce 505"
+  },
+  {
+    "name": "GeForce 510"
+  },
+  {
+    "name": "GeForce 605"
+  },
+  {
+    "name": "GeForce 6100"
+  },
+  {
+    "name": "GeForce 6100 nForce 400"
+  },
+  {
+    "name": "GeForce 6100 nForce 405"
+  },
+  {
+    "name": "GeForce 6100 nForce 420"
+  },
+  {
+    "name": "GeForce 6100 nForce 430"
+  },
+  {
+    "name": "GeForce 610M"
+  },
+  {
+    "name": "GeForce 615"
+  },
+  {
+    "name": "GeForce 6150"
+  },
+  {
+    "name": "GeForce 6150 LE"
+  },
+  {
+    "name": "GeForce 6150SE"
+  },
+  {
+    "name": "GeForce 6150SE nForce 430"
+  },
+  {
+    "name": "GeForce 6200"
+  },
+  {
+    "name": "GeForce 6200 A-LE"
+  },
+  {
+    "name": "GeForce 6200 LE"
+  },
+  {
+    "name": "GeForce 6200 TurboCache"
+  },
+  {
+    "name": "GeForce 6200A"
+  },
+  {
+    "name": "GeForce 6200SE TurboCache"
+  },
+  {
+    "name": "GeForce 6500"
+  },
+  {
+    "name": "GeForce 6600"
+  },
+  {
+    "name": "GeForce 6600 GT"
+  },
+  {
+    "name": "GeForce 6600 LE"
+  },
+  {
+    "name": "GeForce 6610 XL"
+  },
+  {
+    "name": "GeForce 6700 XL"
+  },
+  {
+    "name": "GeForce 6800"
+  },
+  {
+    "name": "GeForce 6800 GS"
+  },
+  {
+    "name": "GeForce 6800 GS/XT"
+  },
+  {
+    "name": "GeForce 6800 GT"
+  },
+  {
+    "name": "GeForce 6800 LE"
+  },
+  {
+    "name": "GeForce 6800 Ultra"
+  },
+  {
+    "name": "GeForce 6800 XE"
+  },
+  {
+    "name": "GeForce 6800 XT"
+  },
+  {
+    "name": "GeForce 7000M"
+  },
+  {
+    "name": "GeForce 7000M / nForce 610M"
+  },
+  {
+    "name": "GeForce 7025 / nForce 630a"
+  },
+  {
+    "name": "GeForce 7050 / nForce 610i"
+  },
+  {
+    "name": "GeForce 7050 / nForce 620i"
+  },
+  {
+    "name": "GeForce 7050 / nForce 630i"
+  },
+  {
+    "name": "GeForce 7050 PV / nForce 630a"
+  },
+  {
+    "name": "GeForce 705M"
+  },
+  {
+    "name": "GeForce 7100 / nForce 620i"
+  },
+  {
+    "name": "GeForce 7100 / nForce 630i"
+  },
+  {
+    "name": "GeForce 7100 GS"
+  },
+  {
+    "name": "GeForce 710A"
+  },
+  {
+    "name": "GeForce 710M"
+  },
+  {
+    "name": "GeForce 7150 / nForce 630i"
+  },
+  {
+    "name": "GeForce 7150M / nForce 630M"
+  },
+  {
+    "name": "GeForce 7200 GS"
+  },
+  {
+    "name": "GeForce 720A"
+  },
+  {
+    "name": "GeForce 7300 GS"
+  },
+  {
+    "name": "GeForce 7300 GT"
+  },
+  {
+    "name": "GeForce 7300 LE"
+  },
+  {
+    "name": "GeForce 7300 SE"
+  },
+  {
+    "name": "GeForce 7300 SE/7200 GS"
+  },
+  {
+    "name": "GeForce 730A"
+  },
+  {
+    "name": "GeForce 7350 LE"
+  },
+  {
+    "name": "GeForce 7500 LE"
+  },
+  {
+    "name": "GeForce 7600 GS"
+  },
+  {
+    "name": "GeForce 7600 GT"
+  },
+  {
+    "name": "GeForce 7650 GS"
+  },
+  {
+    "name": "GeForce 770M"
+  },
+  {
+    "name": "GeForce 7800 GS"
+  },
+  {
+    "name": "GeForce 7800 GT"
+  },
+  {
+    "name": "GeForce 7800 GTX"
+  },
+  {
+    "name": "GeForce 7900 GS"
+  },
+  {
+    "name": "GeForce 7900 GT"
+  },
+  {
+    "name": "GeForce 7900 GT/GTO"
+  },
+  {
+    "name": "GeForce 7900 GTX"
+  },
+  {
+    "name": "GeForce 7950 GT"
+  },
+  {
+    "name": "GeForce 7950 GX2"
+  },
+  {
+    "name": "GeForce 7950 Xtreme"
+  },
+  {
+    "name": "GeForce 800A"
+  },
+  {
+    "name": "GeForce 800M"
+  },
+  {
+    "name": "GeForce 8100 / nForce 720a"
+  },
+  {
+    "name": "GeForce 810A"
+  },
+  {
+    "name": "GeForce 810M"
+  },
+  {
+    "name": "GeForce 8200"
+  },
+  {
+    "name": "GeForce 8200M G"
+  },
+  {
+    "name": "GeForce 820A"
+  },
+  {
+    "name": "GeForce 820M"
+  },
+  {
+    "name": "GeForce 825M"
+  },
+  {
+    "name": "GeForce 8300"
+  },
+  {
+    "name": "GeForce 8300 GS"
+  },
+  {
+    "name": "GeForce 830A"
+  },
+  {
+    "name": "GeForce 830M"
+  },
+  {
+    "name": "GeForce 8400"
+  },
+  {
+    "name": "GeForce 8400 GS"
+  },
+  {
+    "name": "GeForce 8400 SE"
+  },
+  {
+    "name": "GeForce 8400M G"
+  },
+  {
+    "name": "GeForce 8400M GS"
+  },
+  {
+    "name": "GeForce 8400M GT"
+  },
+  {
+    "name": "GeForce 840A"
+  },
+  {
+    "name": "GeForce 840M"
+  },
+  {
+    "name": "GeForce 845M"
+  },
+  {
+    "name": "GeForce 8500 GT"
+  },
+  {
+    "name": "GeForce 8600 GS"
+  },
+  {
+    "name": "GeForce 8600 GT"
+  },
+  {
+    "name": "GeForce 8600 GTS"
+  },
+  {
+    "name": "GeForce 8600M GS"
+  },
+  {
+    "name": "GeForce 8600M GT"
+  },
+  {
+    "name": "GeForce 8700M GT"
+  },
+  {
+    "name": "GeForce 8800 GS"
+  },
+  {
+    "name": "GeForce 8800 GT"
+  },
+  {
+    "name": "GeForce 8800 GTS"
+  },
+  {
+    "name": "GeForce 8800 GTS 512"
+  },
+  {
+    "name": "GeForce 8800 GTX"
+  },
+  {
+    "name": "GeForce 8800 Ultra"
+  },
+  {
+    "name": "GeForce 8800M GTS"
+  },
+  {
+    "name": "GeForce 8800M GTX"
+  },
+  {
+    "name": "GeForce 9100"
+  },
+  {
+    "name": "GeForce 9100M G"
+  },
+  {
+    "name": "GeForce 910M"
+  },
+  {
+    "name": "GeForce 9200"
+  },
+  {
+    "name": "GeForce 9200M GE"
+  },
+  {
+    "name": "GeForce 9200M GS"
+  },
+  {
+    "name": "GeForce 920A"
+  },
+  {
+    "name": "GeForce 920M"
+  },
+  {
+    "name": "GeForce 920MX"
+  },
+  {
+    "name": "GeForce 9300"
+  },
+  {
+    "name": "GeForce 9300 / nForce 730i"
+  },
+  {
+    "name": "GeForce 9300 GE"
+  },
+  {
+    "name": "GeForce 9300 GS"
+  },
+  {
+    "name": "GeForce 9300 SE"
+  },
+  {
+    "name": "GeForce 9300GE"
+  },
+  {
+    "name": "GeForce 9300M G"
+  },
+  {
+    "name": "GeForce 9300M GS"
+  },
+  {
+    "name": "GeForce 930A"
+  },
+  {
+    "name": "GeForce 930M"
+  },
+  {
+    "name": "GeForce 930MX"
+  },
+  {
+    "name": "GeForce 9400"
+  },
+  {
+    "name": "GeForce 9400 GT"
+  },
+  {
+    "name": "GeForce 9400M"
+  },
+  {
+    "name": "GeForce 9400M G"
+  },
+  {
+    "name": "GeForce 940A"
+  },
+  {
+    "name": "GeForce 940M"
+  },
+  {
+    "name": "GeForce 940MX"
+  },
+  {
+    "name": "GeForce 9450"
+  },
+  {
+    "name": "GeForce 945A"
+  },
+  {
+    "name": "GeForce 945M"
+  },
+  {
+    "name": "GeForce 9500 GS"
+  },
+  {
+    "name": "GeForce 9500 GT"
+  },
+  {
+    "name": "GeForce 9500M"
+  },
+  {
+    "name": "GeForce 9500M G"
+  },
+  {
+    "name": "GeForce 9500M GS"
+  },
+  {
+    "name": "GeForce 9600 GS"
+  },
+  {
+    "name": "GeForce 9600 GSO"
+  },
+  {
+    "name": "GeForce 9600 GSO 512"
+  },
+  {
+    "name": "GeForce 9600 GT"
+  },
+  {
+    "name": "GeForce 9600M GS"
+  },
+  {
+    "name": "GeForce 9600M GT"
+  },
+  {
+    "name": "GeForce 9600M GT / GeForce GT 220M"
+  },
+  {
+    "name": "GeForce 9650M GS"
+  },
+  {
+    "name": "GeForce 9650M GT"
+  },
+  {
+    "name": "GeForce 9700M GT"
+  },
+  {
+    "name": "GeForce 9700M GTS"
+  },
+  {
+    "name": "GeForce 9800 GT"
+  },
+  {
+    "name": "GeForce 9800 GT 1024MB"
+  },
+  {
+    "name": "GeForce 9800 GTX"
+  },
+  {
+    "name": "GeForce 9800 GTX+"
+  },
+  {
+    "name": "GeForce 9800 GTX/9800 GTX+"
+  },
+  {
+    "name": "GeForce 9800 GX2"
+  },
+  {
+    "name": "GeForce 9800 S"
+  },
+  {
+    "name": "GeForce 9800M GS"
+  },
+  {
+    "name": "GeForce 9800M GT"
+  },
+  {
+    "name": "GeForce 9800M GTS"
+  },
+  {
+    "name": "GeForce 9800M GTX"
+  },
+  {
+    "name": "GeForce 999 GTX"
+  },
+  {
+    "name": "GeForce FX 5100"
+  },
+  {
+    "name": "GeForce FX 5200"
+  },
+  {
+    "name": "GeForce FX 5200 Ultra"
+  },
+  {
+    "name": "GeForce FX 5200LE"
+  },
+  {
+    "name": "GeForce FX 5200SE"
+  },
+  {
+    "name": "GeForce FX 5500"
+  },
+  {
+    "name": "GeForce FX 5600"
+  },
+  {
+    "name": "GeForce FX 5600 Ultra"
+  },
+  {
+    "name": "GeForce FX 5600XT"
+  },
+  {
+    "name": "GeForce FX 5700"
+  },
+  {
+    "name": "GeForce FX 5700 Ultra"
+  },
+  {
+    "name": "GeForce FX 5700LE"
+  },
+  {
+    "name": "GeForce FX 5700VE"
+  },
+  {
+    "name": "GeForce FX 5900"
+  },
+  {
+    "name": "GeForce FX 5900 Ultra"
+  },
+  {
+    "name": "GeForce FX 5900XT"
+  },
+  {
+    "name": "GeForce FX 5900ZT"
+  },
+  {
+    "name": "GeForce FX 5950 Ultra"
+  },
+  {
+    "name": "GeForce FX Go 5200"
+  },
+  {
+    "name": "GeForce FX Go 5600"
+  },
+  {
+    "name": "GeForce FX Go5300"
+  },
+  {
+    "name": "GeForce FX Go5650"
+  },
+  {
+    "name": "GeForce FX Go5700"
+  },
+  {
+    "name": "GeForce G 103M"
+  },
+  {
+    "name": "GeForce G 105M"
+  },
+  {
+    "name": "GeForce G100"
+  },
+  {
+    "name": "GeForce G102M"
+  },
+  {
+    "name": "GeForce G105M"
+  },
+  {
+    "name": "GeForce G200"
+  },
+  {
+    "name": "GeForce G205M"
+  },
+  {
+    "name": "GeForce G210"
+  },
+  {
+    "name": "GeForce G210M"
+  },
+  {
+    "name": "GeForce Go 6100"
+  },
+  {
+    "name": "GeForce Go 6150"
+  },
+  {
+    "name": "GeForce Go 6200"
+  },
+  {
+    "name": "GeForce Go 6400"
+  },
+  {
+    "name": "GeForce Go 6600"
+  },
+  {
+    "name": "GeForce Go 6600 TE/6200 TE"
+  },
+  {
+    "name": "GeForce Go 6800"
+  },
+  {
+    "name": "GeForce Go 6800 Ultra"
+  },
+  {
+    "name": "GeForce Go 7200"
+  },
+  {
+    "name": "GeForce Go 7300"
+  },
+  {
+    "name": "GeForce Go 7400"
+  },
+  {
+    "name": "GeForce Go 7600"
+  },
+  {
+    "name": "GeForce Go 7600 GT"
+  },
+  {
+    "name": "GeForce Go 7700"
+  },
+  {
+    "name": "GeForce Go 7800"
+  },
+  {
+    "name": "GeForce Go 7800 GTX"
+  },
+  {
+    "name": "GeForce Go 7900 GS"
+  },
+  {
+    "name": "GeForce Go 7900 GTX"
+  },
+  {
+    "name": "GeForce Go 7950 GTX"
+  },
+  {
+    "name": "GeForce GPU"
+  },
+  {
+    "name": "GeForce GT 1030"
+  },
+  {
+    "name": "GeForce GT 120"
+  },
+  {
+    "name": "GeForce GT 120 / 9500 GT"
+  },
+  {
+    "name": "GeForce GT 120M"
+  },
+  {
+    "name": "GeForce GT 130"
+  },
+  {
+    "name": "GeForce GT 130M"
+  },
+  {
+    "name": "GeForce GT 140"
+  },
+  {
+    "name": "GeForce GT 220"
+  },
+  {
+    "name": "GeForce GT 220M"
+  },
+  {
+    "name": "GeForce GT 230"
+  },
+  {
+    "name": "GeForce GT 230M"
+  },
+  {
+    "name": "GeForce GT 240"
+  },
+  {
+    "name": "GeForce GT 240M"
+  },
+  {
+    "name": "GeForce GT 320"
+  },
+  {
+    "name": "GeForce GT 320M"
+  },
+  {
+    "name": "GeForce GT 325M"
+  },
+  {
+    "name": "GeForce GT 330"
+  },
+  {
+    "name": "GeForce GT 330M"
+  },
+  {
+    "name": "GeForce GT 335M"
+  },
+  {
+    "name": "GeForce GT 340"
+  },
+  {
+    "name": "GeForce GT 415"
+  },
+  {
+    "name": "GeForce GT 415M"
+  },
+  {
+    "name": "GeForce GT 420"
+  },
+  {
+    "name": "GeForce GT 420M"
+  },
+  {
+    "name": "GeForce GT 425M"
+  },
+  {
+    "name": "GeForce GT 430"
+  },
+  {
+    "name": "GeForce GT 435M"
+  },
+  {
+    "name": "GeForce GT 440"
+  },
+  {
+    "name": "GeForce GT 445M"
+  },
+  {
+    "name": "GeForce GT 520"
+  },
+  {
+    "name": "GeForce GT 520M"
+  },
+  {
+    "name": "GeForce GT 520MX"
+  },
+  {
+    "name": "GeForce GT 525M"
+  },
+  {
+    "name": "GeForce GT 530"
+  },
+  {
+    "name": "GeForce GT 540M"
+  },
+  {
+    "name": "GeForce GT 545"
+  },
+  {
+    "name": "GeForce GT 550M"
+  },
+  {
+    "name": "GeForce GT 555M"
+  },
+  {
+    "name": "GeForce GT 610"
+  },
+  {
+    "name": "GeForce GT 610M / GT 620M / GT 710M / GT 720M / GT"
+  },
+  {
+    "name": "GeForce GT 620"
+  },
+  {
+    "name": "GeForce GT 620M"
+  },
+  {
+    "name": "GeForce GT 625"
+  },
+  {
+    "name": "GeForce GT 625M"
+  },
+  {
+    "name": "GeForce GT 630"
+  },
+  {
+    "name": "GeForce GT 630M"
+  },
+  {
+    "name": "GeForce GT 635"
+  },
+  {
+    "name": "GeForce GT 635M"
+  },
+  {
+    "name": "GeForce GT 640"
+  },
+  {
+    "name": "GeForce GT 640M"
+  },
+  {
+    "name": "GeForce GT 640M LE"
+  },
+  {
+    "name": "GeForce GT 645"
+  },
+  {
+    "name": "GeForce GT 645M"
+  },
+  {
+    "name": "GeForce GT 650M"
+  },
+  {
+    "name": "GeForce GT 705"
+  },
+  {
+    "name": "GeForce GT 710"
+  },
+  {
+    "name": "GeForce GT 710M"
+  },
+  {
+    "name": "GeForce GT 720"
+  },
+  {
+    "name": "GeForce GT 720A"
+  },
+  {
+    "name": "GeForce GT 720M"
+  },
+  {
+    "name": "GeForce GT 730"
+  },
+  {
+    "name": "GeForce GT 730A"
+  },
+  {
+    "name": "GeForce GT 730M"
+  },
+  {
+    "name": "GeForce GT 735M"
+  },
+  {
+    "name": "GeForce GT 740"
+  },
+  {
+    "name": "GeForce GT 740A"
+  },
+  {
+    "name": "GeForce GT 740M"
+  },
+  {
+    "name": "GeForce GT 745A"
+  },
+  {
+    "name": "GeForce GT 745M"
+  },
+  {
+    "name": "GeForce GT 750M"
+  },
+  {
+    "name": "GeForce GT 755M"
+  },
+  {
+    "name": "GeForce GT 820M"
+  },
+  {
+    "name": "GeForce GT625M"
+  },
+  {
+    "name": "GeForce GTS 150M"
+  },
+  {
+    "name": "GeForce GTS 160M"
+  },
+  {
+    "name": "GeForce GTS 240"
+  },
+  {
+    "name": "GeForce GTS 250"
+  },
+  {
+    "name": "GeForce GTS 250M"
+  },
+  {
+    "name": "GeForce GTS 350M"
+  },
+  {
+    "name": "GeForce GTS 360M"
+  },
+  {
+    "name": "GeForce GTS 450"
+  },
+  {
+    "name": "GeForce GTX 1050"
+  },
+  {
+    "name": "GeForce GTX 1050 (Mobile)"
+  },
+  {
+    "name": "GeForce GTX 1050 Ti"
+  },
+  {
+    "name": "GeForce GTX 1050 Ti (Mobile)"
+  },
+  {
+    "name": "GeForce GTX 1050 Ti with Max-Q Design"
+  },
+  {
+    "name": "GeForce GTX 1050 with Max-Q Design"
+  },
+  {
+    "name": "GeForce GTX 1060"
+  },
+  {
+    "name": "GeForce GTX 1060 (Mobile)"
+  },
+  {
+    "name": "GeForce GTX 1060 3GB"
+  },
+  {
+    "name": "GeForce GTX 1060 5GB"
+  },
+  {
+    "name": "GeForce GTX 1060 with Max-Q Design"
+  },
+  {
+    "name": "GeForce GTX 1070"
+  },
+  {
+    "name": "GeForce GTX 1070 (Mobile)"
+  },
+  {
+    "name": "GeForce GTX 1070 Ti"
+  },
+  {
+    "name": "GeForce GTX 1070 with Max-Q Design"
+  },
+  {
+    "name": "GeForce GTX 1080"
+  },
+  {
+    "name": "GeForce GTX 1080 Ti"
+  },
+  {
+    "name": "GeForce GTX 1080 with Max-Q Design"
+  },
+  {
+    "name": "GeForce GTX 1650"
+  },
+  {
+    "name": "GeForce GTX 1650 (Mobile)"
+  },
+  {
+    "name": "GeForce GTX 1650 SUPER"
+  },
+  {
+    "name": "GeForce GTX 1650 Ti"
+  },
+  {
+    "name": "GeForce GTX 1650 Ti with Max-Q Design"
+  },
+  {
+    "name": "GeForce GTX 1650 with Max-Q Design"
+  },
+  {
+    "name": "GeForce GTX 1660"
+  },
+  {
+    "name": "GeForce GTX 1660 SUPER"
+  },
+  {
+    "name": "GeForce GTX 1660 Ti"
+  },
+  {
+    "name": "GeForce GTX 1660 Ti (Mobile)"
+  },
+  {
+    "name": "GeForce GTX 1660 Ti with Max-Q Design"
+  },
+  {
+    "name": "GeForce GTX 260"
+  },
+  {
+    "name": "GeForce GTX 260M"
+  },
+  {
+    "name": "GeForce GTX 275"
+  },
+  {
+    "name": "GeForce GTX 280"
+  },
+  {
+    "name": "GeForce GTX 280M"
+  },
+  {
+    "name": "GeForce GTX 285"
+  },
+  {
+    "name": "GeForce GTX 285M"
+  },
+  {
+    "name": "GeForce GTX 295"
+  },
+  {
+    "name": "GeForce GTX 460"
+  },
+  {
+    "name": "GeForce GTX 460 SE"
+  },
+  {
+    "name": "GeForce GTX 460 v2"
+  },
+  {
+    "name": "GeForce GTX 460M"
+  },
+  {
+    "name": "GeForce GTX 465"
+  },
+  {
+    "name": "GeForce GTX 470"
+  },
+  {
+    "name": "GeForce GTX 470M"
+  },
+  {
+    "name": "GeForce GTX 480"
+  },
+  {
+    "name": "GeForce GTX 480M"
+  },
+  {
+    "name": "GeForce GTX 485M"
+  },
+  {
+    "name": "GeForce GTX 550 Ti"
+  },
+  {
+    "name": "GeForce GTX 555"
+  },
+  {
+    "name": "GeForce GTX 560"
+  },
+  {
+    "name": "GeForce GTX 560 SE"
+  },
+  {
+    "name": "GeForce GTX 560 Ti"
+  },
+  {
+    "name": "GeForce GTX 560M"
+  },
+  {
+    "name": "GeForce GTX 570"
+  },
+  {
+    "name": "GeForce GTX 570M"
+  },
+  {
+    "name": "GeForce GTX 580"
+  },
+  {
+    "name": "GeForce GTX 580M"
+  },
+  {
+    "name": "GeForce GTX 590"
+  },
+  {
+    "name": "GeForce GTX 645"
+  },
+  {
+    "name": "GeForce GTX 650"
+  },
+  {
+    "name": "GeForce GTX 650 Ti"
+  },
+  {
+    "name": "GeForce GTX 650 Ti BOOST"
+  },
+  {
+    "name": "GeForce GTX 660"
+  },
+  {
+    "name": "GeForce GTX 660 Ti"
+  },
+  {
+    "name": "GeForce GTX 660M"
+  },
+  {
+    "name": "GeForce GTX 670"
+  },
+  {
+    "name": "GeForce GTX 670M"
+  },
+  {
+    "name": "GeForce GTX 670MX"
+  },
+  {
+    "name": "GeForce GTX 675M"
+  },
+  {
+    "name": "GeForce GTX 675MX"
+  },
+  {
+    "name": "GeForce GTX 680"
+  },
+  {
+    "name": "GeForce GTX 680M"
+  },
+  {
+    "name": "GeForce GTX 680M KY_Bullet Edition"
+  },
+  {
+    "name": "GeForce GTX 680MX"
+  },
+  {
+    "name": "GeForce GTX 690"
+  },
+  {
+    "name": "GeForce GTX 745"
+  },
+  {
+    "name": "GeForce GTX 750"
+  },
+  {
+    "name": "GeForce GTX 750 Ti"
+  },
+  {
+    "name": "GeForce GTX 760"
+  },
+  {
+    "name": "GeForce GTX 760 Ti"
+  },
+  {
+    "name": "GeForce GTX 760 Ti OEM"
+  },
+  {
+    "name": "GeForce GTX 760A"
+  },
+  {
+    "name": "GeForce GTX 760M"
+  },
+  {
+    "name": "GeForce GTX 765M"
+  },
+  {
+    "name": "GeForce GTX 770"
+  },
+  {
+    "name": "GeForce GTX 770M"
+  },
+  {
+    "name": "GeForce GTX 775M"
+  },
+  {
+    "name": "GeForce GTX 780"
+  },
+  {
+    "name": "GeForce GTX 780 Ti"
+  },
+  {
+    "name": "GeForce GTX 780M"
+  },
+  {
+    "name": "GeForce GTX 850A"
+  },
+  {
+    "name": "GeForce GTX 850M"
+  },
+  {
+    "name": "GeForce GTX 850M - MODDED"
+  },
+  {
+    "name": "GeForce GTX 860M"
+  },
+  {
+    "name": "GeForce GTX 870M"
+  },
+  {
+    "name": "GeForce GTX 880M"
+  },
+  {
+    "name": "GeForce GTX 950"
+  },
+  {
+    "name": "GeForce GTX 950A"
+  },
+  {
+    "name": "GeForce GTX 950M"
+  },
+  {
+    "name": "GeForce GTX 960"
+  },
+  {
+    "name": "GeForce GTX 960A"
+  },
+  {
+    "name": "GeForce GTX 960M"
+  },
+  {
+    "name": "GeForce GTX 965M"
+  },
+  {
+    "name": "GeForce GTX 970"
+  },
+  {
+    "name": "GeForce GTX 970M"
+  },
+  {
+    "name": "GeForce GTX 970XM FORCE"
+  },
+  {
+    "name": "GeForce GTX 980"
+  },
+  {
+    "name": "GeForce GTX 980 Ti"
+  },
+  {
+    "name": "GeForce GTX 980M"
+  },
+  {
+    "name": "GeForce GTX Titan"
+  },
+  {
+    "name": "GeForce GTX TITAN Black"
+  },
+  {
+    "name": "GeForce GTX TITAN X"
+  },
+  {
+    "name": "GeForce GTX TITAN Z"
+  },
+  {
+    "name": "GeForce MX110"
+  },
+  {
+    "name": "GeForce MX130"
+  },
+  {
+    "name": "GeForce MX150"
+  },
+  {
+    "name": "GeForce MX230"
+  },
+  {
+    "name": "GeForce MX250"
+  },
+  {
+    "name": "GeForce MX330"
+  },
+  {
+    "name": "GeForce MX350"
+  },
+  {
+    "name": "GeForce MX450"
+  },
+  {
+    "name": "GeForce PCX 5300"
+  },
+  {
+    "name": "GeForce PCX 5750"
+  },
+  {
+    "name": "GeForce PCX 5900"
+  },
+  {
+    "name": "GeForce RTX 2060"
+  },
+  {
+    "name": "GeForce RTX 2060 (Mobile)"
+  },
+  {
+    "name": "GeForce RTX 2060 SUPER"
+  },
+  {
+    "name": "GeForce RTX 2060 with Max-Q Design"
+  },
+  {
+    "name": "GeForce RTX 2070"
+  },
+  {
+    "name": "GeForce RTX 2070 (Mobile)"
+  },
+  {
+    "name": "GeForce RTX 2070 SUPER"
+  },
+  {
+    "name": "GeForce RTX 2070 Super with Max-Q Design"
+  },
+  {
+    "name": "GeForce RTX 2070 with Max-Q Design"
+  },
+  {
+    "name": "GeForce RTX 2080"
+  },
+  {
+    "name": "GeForce RTX 2080 (Mobile)"
+  },
+  {
+    "name": "GeForce RTX 2080 SUPER"
+  },
+  {
+    "name": "GeForce RTX 2080 Super with Max-Q Design"
+  },
+  {
+    "name": "GeForce RTX 2080 Ti"
+  },
+  {
+    "name": "GeForce RTX 2080 with Max-Q Design"
+  },
+  {
+    "name": "GeForce RTX 3050 Laptop GPU"
+  },
+  {
+    "name": "GeForce RTX 3050 Ti Laptop GPU"
+  },
+  {
+    "name": "GeForce RTX 3060"
+  },
+  {
+    "name": "GeForce RTX 3060 Laptop GPU"
+  },
+  {
+    "name": "GeForce RTX 3060 Ti"
+  },
+  {
+    "name": "GeForce RTX 3070"
+  },
+  {
+    "name": "GeForce RTX 3070 Laptop GPU"
+  },
+  {
+    "name": "GeForce RTX 3070 Ti"
+  },
+  {
+    "name": "GeForce RTX 3080"
+  },
+  {
+    "name": "GeForce RTX 3080 Laptop GPU"
+  },
+  {
+    "name": "GeForce RTX 3080 Ti"
+  },
+  {
+    "name": "GeForce RTX 3090"
+  },
+  {
+    "name": "GeForce2 Go"
+  },
+  {
+    "name": "GeForce2 GTS/GeForce2 Pro"
+  },
+  {
+    "name": "GeForce2 Integrated GPU"
+  },
+  {
+    "name": "GeForce2 MX"
+  },
+  {
+    "name": "GeForce2 MX 100/200"
+  },
+  {
+    "name": "GeForce2 MX with DVI-D and TV-out"
+  },
+  {
+    "name": "GeForce2 MX/MX 400"
+  },
+  {
+    "name": "GeForce2 Ti"
+  },
+  {
+    "name": "GeForce2 Ultra"
+  },
+  {
+    "name": "GeForce3"
+  },
+  {
+    "name": "GeForce3 Ti 200"
+  },
+  {
+    "name": "GeForce3 Ti 500"
+  },
+  {
+    "name": "GeForce4 420 Go"
+  },
+  {
+    "name": "GeForce4 420 Go 32M"
+  },
+  {
+    "name": "GeForce4 4200 Go"
+  },
+  {
+    "name": "GeForce4 440"
+  },
+  {
+    "name": "GeForce4 440 Go"
+  },
+  {
+    "name": "GeForce4 440 Go 64M"
+  },
+  {
+    "name": "GeForce4 448 Go"
+  },
+  {
+    "name": "GeForce4 MX 4000"
+  },
+  {
+    "name": "GeForce4 MX 420"
+  },
+  {
+    "name": "GeForce4 MX 440"
+  },
+  {
+    "name": "GeForce4 MX 440 with AGP8X"
+  },
+  {
+    "name": "GeForce4 MX 440SE"
+  },
+  {
+    "name": "GeForce4 MX 460"
+  },
+  {
+    "name": "GeForce4 MX Integrated GPU"
+  },
+  {
+    "name": "GeForce4 Ti 4200"
+  },
+  {
+    "name": "GeForce4 Ti 4400"
+  },
+  {
+    "name": "GeForce4 Ti 4600"
+  },
+  {
+    "name": "GeForce4 Ti 4800"
+  },
+  {
+    "name": "GeForce4 Ti 4800 SE"
+  },
+  {
+    "name": "GeForce9400M"
+  },
+  {
+    "name": "GF117"
+  },
+  {
+    "name": "GIGABYTE RADEON 9600 PRO"
+  },
+  {
+    "name": "Gigabyte RADEON X300"
+  },
+  {
+    "name": "GRID GTX P40-6"
+  },
+  {
+    "name": "GRID K1"
+  },
+  {
+    "name": "GRID K120Q"
+  },
+  {
+    "name": "GRID K140Q"
+  },
+  {
+    "name": "GRID K160Q"
+  },
+  {
+    "name": "GRID K180Q"
+  },
+  {
+    "name": "GRID K2"
+  },
+  {
+    "name": "GRID K220Q"
+  },
+  {
+    "name": "GRID K240Q"
+  },
+  {
+    "name": "GRID K260Q"
+  },
+  {
+    "name": "GRID K280Q"
+  },
+  {
+    "name": "GRID K520"
+  },
+  {
+    "name": "GRID M10-0Q"
+  },
+  {
+    "name": "GRID M10-1B"
+  },
+  {
+    "name": "GRID M10-1Q"
+  },
+  {
+    "name": "GRID M10-2B"
+  },
+  {
+    "name": "GRID M10-2Q"
+  },
+  {
+    "name": "GRID M10-4Q"
+  },
+  {
+    "name": "GRID M10-8Q"
+  },
+  {
+    "name": "GRID M6-0B"
+  },
+  {
+    "name": "GRID M6-1Q"
+  },
+  {
+    "name": "GRID M6-8Q"
+  },
+  {
+    "name": "GRID M60-0B"
+  },
+  {
+    "name": "GRID M60-0Q"
+  },
+  {
+    "name": "GRID M60-1B"
+  },
+  {
+    "name": "GRID M60-1Q"
+  },
+  {
+    "name": "GRID M60-2Q"
+  },
+  {
+    "name": "GRID M60-4Q"
+  },
+  {
+    "name": "GRID M60-8A"
+  },
+  {
+    "name": "GRID M60-8Q"
+  },
+  {
+    "name": "GRID P100-16Q"
+  },
+  {
+    "name": "GRID P100-1B"
+  },
+  {
+    "name": "GRID P100-8Q"
+  },
+  {
+    "name": "GRID P40-24Q"
+  },
+  {
+    "name": "GRID P40-2B"
+  },
+  {
+    "name": "GRID P40-2Q"
+  },
+  {
+    "name": "GRID P40-3Q"
+  },
+  {
+    "name": "GRID P40-4Q"
+  },
+  {
+    "name": "GRID P6-2Q"
+  },
+  {
+    "name": "GRID P6-4Q"
+  },
+  {
+    "name": "GRID RTX6000P-4Q"
+  },
+  {
+    "name": "GRID RTX6000P-6Q"
+  },
+  {
+    "name": "GRID RTX8000-2Q"
+  },
+  {
+    "name": "GRID RTX8000-4Q"
+  },
+  {
+    "name": "GRID RTX8000P-2Q"
+  },
+  {
+    "name": "GRID T4-1Q"
+  },
+  {
+    "name": "GRID T4-2Q"
+  },
+  {
+    "name": "GRID T4-4Q"
+  },
+  {
+    "name": "GRID T4-8Q"
+  },
+  {
+    "name": "GRID V100-8Q"
+  },
+  {
+    "name": "GRID V100D-8Q"
+  },
+  {
+    "name": "GT 430"
+  },
+  {
+    "name": "HD6450"
+  },
+  {
+    "name": "HIS DIGITAL HD 4650 AGP"
+  },
+  {
+    "name": "IGP 340M"
+  },
+  {
+    "name": "IncrediblE HD"
+  },
+  {
+    "name": "IncrediblE HD 3000"
+  },
+  {
+    "name": "IncrediblE HD 4000"
+  },
+  {
+    "name": "IncrediblE HD 4600"
+  },
+  {
+    "name": "Intel - Express Chipset G41"
+  },
+  {
+    "name": "Intel - Express Chipset Q45/Q43"
+  },
+  {
+    "name": "Intel 2nd Generation SandyBridge HD"
+  },
+  {
+    "name": "Intel 2nd Generation SandyBridge HD 3000"
+  },
+  {
+    "name": "Intel 4th Generation Haswell HD"
+  },
+  {
+    "name": "Intel 82845G Controller"
+  },
+  {
+    "name": "Intel 82845G/GL Controller"
+  },
+  {
+    "name": "Intel 82845G/GL/GE/PE/GV Controller"
+  },
+  {
+    "name": "Intel 82852/82855 GM/GME Controller"
+  },
+  {
+    "name": "Intel 82865G Controller"
+  },
+  {
+    "name": "Intel 82915G Express"
+  },
+  {
+    "name": "Intel 82915G/915GV/910GL"
+  },
+  {
+    "name": "Intel 82915G/GV/910GL Advanced v3.5"
+  },
+  {
+    "name": "Intel 82915G/GV/910GL Express"
+  },
+  {
+    "name": "Intel 82945G Express"
+  },
+  {
+    "name": "Intel 82945G Express-Chipsatzfamilie"
+  },
+  {
+    "name": "Intel 865 Embedded Controller"
+  },
+  {
+    "name": "Intel 915G,910G Express"
+  },
+  {
+    "name": "Intel 915G/915GV/910GL Embedded Controller Functio"
+  },
+  {
+    "name": "Intel 945G Embedded Chipset Function 0"
+  },
+  {
+    "name": "Intel 946GZ Embedded Chipset Function 0"
+  },
+  {
+    "name": "Intel 946GZ Express"
+  },
+  {
+    "name": "Intel B43 Express Chipset"
+  },
+  {
+    "name": "Intel Coffee Lake UHD"
+  },
+  {
+    "name": "Intel Extreme Controller"
+  },
+  {
+    "name": "Intel G33/G31 Express"
+  },
+  {
+    "name": "Intel G35 Express"
+  },
+  {
+    "name": "Intel G41 Express Chipset"
+  },
+  {
+    "name": "Intel G41 Express-Chipsatz"
+  },
+  {
+    "name": "Intel G45/G43 Express Chipset"
+  },
+  {
+    "name": "Intel G45/G43/G41 Express Chipset"
+  },
+  {
+    "name": "Intel G965 Express"
+  },
+  {
+    "name": "Intel GMA 3150 Express"
+  },
+  {
+    "name": "Intel Haswell HD - GT1"
+  },
+  {
+    "name": "Intel Haswell HD - GT2"
+  },
+  {
+    "name": "Intel HD 2000"
+  },
+  {
+    "name": "Intel HD 3000"
+  },
+  {
+    "name": "Intel HD 4000"
+  },
+  {
+    "name": "Intel HD 4400"
+  },
+  {
+    "name": "Intel HD 4600"
+  },
+  {
+    "name": "Intel HD 500"
+  },
+  {
+    "name": "Intel HD 5000"
+  },
+  {
+    "name": "Intel HD 505"
+  },
+  {
+    "name": "Intel HD 510"
+  },
+  {
+    "name": "Intel HD 515"
+  },
+  {
+    "name": "Intel HD 520"
+  },
+  {
+    "name": "Intel HD 5200"
+  },
+  {
+    "name": "Intel HD 530"
+  },
+  {
+    "name": "Intel HD 5300"
+  },
+  {
+    "name": "Intel HD 5500"
+  },
+  {
+    "name": "Intel HD 5600"
+  },
+  {
+    "name": "Intel HD 6000"
+  },
+  {
+    "name": "Intel HD 610"
+  },
+  {
+    "name": "Intel HD 615"
+  },
+  {
+    "name": "Intel HD 630"
+  },
+  {
+    "name": "Intel HD Family"
+  },
+  {
+    "name": "Intel HD Graphics 620"
+  },
+  {
+    "name": "Intel HD manual-15.28-1861"
+  },
+  {
+    "name": "Intel HD manual-gen9_2015-133271"
+  },
+  {
+    "name": "Intel HD Modded"
+  },
+  {
+    "name": "Intel HD P3000"
+  },
+  {
+    "name": "Intel HD P4000"
+  },
+  {
+    "name": "Intel HD P4600"
+  },
+  {
+    "name": "Intel HD P4600/P4700"
+  },
+  {
+    "name": "Intel HD P530"
+  },
+  {
+    "name": "Intel HD P630"
+  },
+  {
+    "name": "Intel i gfx-driver-ci-master-9938"
+  },
+  {
+    "name": "Intel Infoshock HD"
+  },
+  {
+    "name": "Intel Iris 5100"
+  },
+  {
+    "name": "Intel Iris 540"
+  },
+  {
+    "name": "Intel Iris 550"
+  },
+  {
+    "name": "Intel Iris 6100"
+  },
+  {
+    "name": "Intel Iris 650"
+  },
+  {
+    "name": "Intel Iris Plus"
+  },
+  {
+    "name": "Intel Iris Plus 640"
+  },
+  {
+    "name": "Intel Iris Plus 645"
+  },
+  {
+    "name": "Intel Iris Plus 650"
+  },
+  {
+    "name": "Intel Iris Plus 655"
+  },
+  {
+    "name": "Intel Iris Pro 5200"
+  },
+  {
+    "name": "Intel Iris Pro 580"
+  },
+  {
+    "name": "Intel Iris Pro 6100"
+  },
+  {
+    "name": "Intel Iris Pro Graphics 6200"
+  },
+  {
+    "name": "Intel Iris Pro P580"
+  },
+  {
+    "name": "Intel Iris Pro P6300"
+  },
+  {
+    "name": "Intel Iris Xe"
+  },
+  {
+    "name": "Intel Media Accelerator"
+  },
+  {
+    "name": "Intel Media Accelerator 3150"
+  },
+  {
+    "name": "Intel Media Accelerator 500"
+  },
+  {
+    "name": "Intel Media Accelerator 600"
+  },
+  {
+    "name": "Intel Media Accelerator HD"
+  },
+  {
+    "name": "Intel Poison Ivy"
+  },
+  {
+    "name": "Intel Q33 Express"
+  },
+  {
+    "name": "Intel Q35 Embedded"
+  },
+  {
+    "name": "Intel Q35 Express"
+  },
+  {
+    "name": "Intel Q45/Q43 Express Chipset"
+  },
+  {
+    "name": "Intel Q45/Q43 Express-Chipsatz"
+  },
+  {
+    "name": "Intel Q965/Q963 Express"
+  },
+  {
+    "name": "Intel Skylake HD DT GT2"
+  },
+  {
+    "name": "Intel UHD"
+  },
+  {
+    "name": "Intel UHD 600"
+  },
+  {
+    "name": "Intel UHD 605"
+  },
+  {
+    "name": "Intel UHD 610"
+  },
+  {
+    "name": "Intel UHD 615"
+  },
+  {
+    "name": "Intel UHD 617"
+  },
+  {
+    "name": "Intel UHD 620"
+  },
+  {
+    "name": "Intel UHD 630"
+  },
+  {
+    "name": "Intel UHD 730"
+  },
+  {
+    "name": "Intel UHD 750"
+  },
+  {
+    "name": "Intel UHD 770"
+  },
+  {
+    "name": "Intel UHD Graphics 620"
+  },
+  {
+    "name": "Intel UHD P630"
+  },
+  {
+    "name": "Intel UHD P750"
+  },
+  {
+    "name": "Intel US15 Embedded Media and Controller"
+  },
+  {
+    "name": "ION"
+  },
+  {
+    "name": "ION LE"
+  },
+  {
+    "name": "KV SPECTRE LITE MOBILE 25W"
+  },
+  {
+    "name": "LMIMIRR"
+  },
+  {
+    "name": "M71-M"
+  },
+  {
+    "name": "M76M"
+  },
+  {
+    "name": "M860G with Mobility Radeon 4100"
+  },
+  {
+    "name": "M880G with Mobility Radeon HD 4200"
+  },
+  {
+    "name": "M880G with Mobility Radeon HD 4225"
+  },
+  {
+    "name": "M880G with Mobility Radeon HD 4250"
+  },
+  {
+    "name": "Master X3100 Driver"
+  },
+  {
+    "name": "Matrox C420 LP PCIe x16"
+  },
+  {
+    "name": "Matrox C680 PCIe x16"
+  },
+  {
+    "name": "Matrox C900 PCIe x16"
+  },
+  {
+    "name": "Matrox G200e WDDM 1.2"
+  },
+  {
+    "name": "Matrox G200e WDDM 2.0"
+  },
+  {
+    "name": "Matrox G200eh"
+  },
+  {
+    "name": "Matrox G200eh WDDM 1.2"
+  },
+  {
+    "name": "Matrox G200eh WDDM 2.0"
+  },
+  {
+    "name": "Matrox G200eR"
+  },
+  {
+    "name": "Matrox G200eR WDDM 1.2"
+  },
+  {
+    "name": "Matrox G200eR WDDM 2.0"
+  },
+  {
+    "name": "Matrox G200eW"
+  },
+  {
+    "name": "Matrox G200eW WDDM 1.2"
+  },
+  {
+    "name": "Matrox G200eW3 WDDM 2.0"
+  },
+  {
+    "name": "Matrox M9120 PCIe x16"
+  },
+  {
+    "name": "Matrox M9120 Plus LP PCIe x16"
+  },
+  {
+    "name": "Matrox M9125 PCIe x16"
+  },
+  {
+    "name": "Matrox M9128 LP PCIe x16"
+  },
+  {
+    "name": "Matrox M9138 LP PCIe x16"
+  },
+  {
+    "name": "Matrox M9140 LP PCIe x16"
+  },
+  {
+    "name": "Matrox M9148 LP PCIe x16"
+  },
+  {
+    "name": "Matrox Millennium P650 PCIe 128"
+  },
+  {
+    "name": "Matrox Millennium P690 PCIe x16"
+  },
+  {
+    "name": "Matrox Millennium P690 Plus LP PCIe x16"
+  },
+  {
+    "name": "Matrox Parhelia 128MB"
+  },
+  {
+    "name": "Matrox Parhelia 256MB"
+  },
+  {
+    "name": "Matrox Parhelia APVe"
+  },
+  {
+    "name": "MCT USB3.0 External Device"
+  },
+  {
+    "name": "MEDION RADEON 9800 XXL"
+  },
+  {
+    "name": "MEDION RADEON X740XL"
+  },
+  {
+    "name": "MIRRORV3"
+  },
+  {
+    "name": "Mobile Intel - famiglia Express Chipset 45"
+  },
+  {
+    "name": "Mobile Intel 4 Express-Chipsatzfamilie"
+  },
+  {
+    "name": "Mobile Intel 45 Express"
+  },
+  {
+    "name": "Mobile Intel 45 Express-Chipsatzfamilie"
+  },
+  {
+    "name": "Mobile Intel 915GM/GMS/910GML Express"
+  },
+  {
+    "name": "Mobile Intel 945 Express"
+  },
+  {
+    "name": "Mobile Intel 945GM Express"
+  },
+  {
+    "name": "Mobile Intel 945GM/GU Express"
+  },
+  {
+    "name": "Mobile Intel 965 Express"
+  },
+  {
+    "name": "Mobile Intel 965 Express - BR-0907-0461 v1839"
+  },
+  {
+    "name": "Mobile Intel 965 Express-Chipsatzfamilie"
+  },
+  {
+    "name": "Mobile Intel HD"
+  },
+  {
+    "name": "Mobile Intel serie 4 Express"
+  },
+  {
+    "name": "Mobile Intel965 Express"
+  },
+  {
+    "name": "MOBILITY FIREGL 7800"
+  },
+  {
+    "name": "MOBILITY FIREGL T2"
+  },
+  {
+    "name": "MOBILITY FIREGL T2/T2e"
+  },
+  {
+    "name": "MOBILITY FireGL V3200"
+  },
+  {
+    "name": "MOBILITY FireGL V5000"
+  },
+  {
+    "name": "MOBILITY FireGL V5200"
+  },
+  {
+    "name": "MOBILITY FireGL V5250"
+  },
+  {
+    "name": "Mobility FireGL V5725"
+  },
+  {
+    "name": "MOBILITY IGP 9000/9100"
+  },
+  {
+    "name": "Mobility Radeon 4100"
+  },
+  {
+    "name": "MOBILITY RADEON 7000 IGP"
+  },
+  {
+    "name": "MOBILITY RADEON 7500"
+  },
+  {
+    "name": "MOBILITY RADEON 9000"
+  },
+  {
+    "name": "MOBILITY RADEON 9000 IGP"
+  },
+  {
+    "name": "MOBILITY RADEON 9000/9100 IGP"
+  },
+  {
+    "name": "MOBILITY RADEON 9100 IGP"
+  },
+  {
+    "name": "MOBILITY RADEON 9200"
+  },
+  {
+    "name": "MOBILITY RADEON 9550"
+  },
+  {
+    "name": "MOBILITY RADEON 9600"
+  },
+  {
+    "name": "MOBILITY RADEON 9600 PRO TURBO"
+  },
+  {
+    "name": "MOBILITY RADEON 9600/9700"
+  },
+  {
+    "name": "MOBILITY RADEON 9700"
+  },
+  {
+    "name": "MOBILITY RADEON 9800"
+  },
+  {
+    "name": "Mobility Radeon HD 2300"
+  },
+  {
+    "name": "Mobility Radeon HD 2400"
+  },
+  {
+    "name": "Mobility Radeon HD 2400 XT"
+  },
+  {
+    "name": "Mobility Radeon HD 2600"
+  },
+  {
+    "name": "Mobility Radeon HD 2600 XT"
+  },
+  {
+    "name": "Mobility Radeon HD 3400 Serisi"
+  },
+  {
+    "name": "Mobility Radeon HD 3410"
+  },
+  {
+    "name": "Mobility Radeon HD 3430"
+  },
+  {
+    "name": "Mobility Radeon HD 3450"
+  },
+  {
+    "name": "Mobility Radeon HD 3470"
+  },
+  {
+    "name": "Mobility Radeon HD 3470 Hybrid X2"
+  },
+  {
+    "name": "Mobility Radeon HD 3650"
+  },
+  {
+    "name": "Mobility Radeon HD 3670"
+  },
+  {
+    "name": "Mobility Radeon HD 3850"
+  },
+  {
+    "name": "Mobility Radeon HD 3870"
+  },
+  {
+    "name": "Mobility Radeon HD 3870 X2"
+  },
+  {
+    "name": "Mobility Radeon HD 4200"
+  },
+  {
+    "name": "Mobility Radeon HD 4225"
+  },
+  {
+    "name": "Mobility Radeon HD 4250"
+  },
+  {
+    "name": "Mobility Radeon HD 4270"
+  },
+  {
+    "name": "Mobility Radeon HD 4300 Serisi"
+  },
+  {
+    "name": "Mobility Radeon HD 4330"
+  },
+  {
+    "name": "Mobility Radeon HD 4350"
+  },
+  {
+    "name": "Mobility Radeon HD 4550"
+  },
+  {
+    "name": "Mobility Radeon HD 4570"
+  },
+  {
+    "name": "Mobility Radeon HD 4650"
+  },
+  {
+    "name": "Mobility Radeon HD 4670"
+  },
+  {
+    "name": "Mobility Radeon HD 4830"
+  },
+  {
+    "name": "Mobility Radeon HD 4850"
+  },
+  {
+    "name": "Mobility Radeon HD 4870"
+  },
+  {
+    "name": "Mobility Radeon HD 5000"
+  },
+  {
+    "name": "Mobility Radeon HD 5000 Serisi"
+  },
+  {
+    "name": "Mobility Radeon HD 5165"
+  },
+  {
+    "name": "Mobility Radeon HD 530v"
+  },
+  {
+    "name": "Mobility Radeon HD 540v"
+  },
+  {
+    "name": "Mobility Radeon HD 5430"
+  },
+  {
+    "name": "Mobility Radeon HD 5450"
+  },
+  {
+    "name": "Mobility Radeon HD 545v"
+  },
+  {
+    "name": "Mobility Radeon HD 5470"
+  },
+  {
+    "name": "Mobility Radeon HD 550v"
+  },
+  {
+    "name": "Mobility Radeon HD 5570"
+  },
+  {
+    "name": "Mobility Radeon HD 560v"
+  },
+  {
+    "name": "Mobility Radeon HD 5650"
+  },
+  {
+    "name": "Mobility Radeon HD 565v"
+  },
+  {
+    "name": "Mobility Radeon HD 5730"
+  },
+  {
+    "name": "Mobility Radeon HD 5850"
+  },
+  {
+    "name": "Mobility Radeon HD 5870"
+  },
+  {
+    "name": "Mobility Radeon HD serie 4200"
+  },
+  {
+    "name": "Mobility Radeon X1300"
+  },
+  {
+    "name": "Mobility Radeon X1350"
+  },
+  {
+    "name": "Mobility Radeon X1400"
+  },
+  {
+    "name": "Mobility Radeon X1450"
+  },
+  {
+    "name": "Mobility Radeon X1600"
+  },
+  {
+    "name": "Mobility Radeon X1700"
+  },
+  {
+    "name": "MOBILITY RADEON X1800"
+  },
+  {
+    "name": "Mobility Radeon X1900"
+  },
+  {
+    "name": "Mobility Radeon X2300"
+  },
+  {
+    "name": "Mobility Radeon X2300 HD"
+  },
+  {
+    "name": "Mobility Radeon X2500"
+  },
+  {
+    "name": "MOBILITY RADEON X300"
+  },
+  {
+    "name": "MOBILITY RADEON X600"
+  },
+  {
+    "name": "MOBILITY RADEON X600 SE"
+  },
+  {
+    "name": "MOBILITY RADEON X700"
+  },
+  {
+    "name": "MOBILITY RADEON X700 XL"
+  },
+  {
+    "name": "MOBILITY RADEON XPRESS 200"
+  },
+  {
+    "name": "Mobility Radeon. HD 5470"
+  },
+  {
+    "name": "MOBILITY/RADEON 9000"
+  },
+  {
+    "name": "MONSTER GeForce GTX 675M"
+  },
+  {
+    "name": "MxGPU"
+  },
+  {
+    "name": "N16P-GX"
+  },
+  {
+    "name": "N18E-Q1"
+  },
+  {
+    "name": "nForce 750a SLI"
+  },
+  {
+    "name": "nForce 760i SLI"
+  },
+  {
+    "name": "nForce 780a SLI"
+  },
+  {
+    "name": "nForce 980a/780a SLI"
+  },
+  {
+    "name": "NV44"
+  },
+  {
+    "name": "NVIDIA TITAN X"
+  },
+  {
+    "name": "NVIDIA TITAN Xp"
+  },
+  {
+    "name": "NVS 2100M"
+  },
+  {
+    "name": "NVS 300"
+  },
+  {
+    "name": "NVS 310"
+  },
+  {
+    "name": "NVS 3100M"
+  },
+  {
+    "name": "NVS 315"
+  },
+  {
+    "name": "NVS 4200M"
+  },
+  {
+    "name": "NVS 510"
+  },
+  {
+    "name": "NVS 5100M"
+  },
+  {
+    "name": "NVS 5200M"
+  },
+  {
+    "name": "NVS 5400M"
+  },
+  {
+    "name": "NVS 810"
+  },
+  {
+    "name": "OPAL XT/GL"
+  },
+  {
+    "name": "OpenXT Display Driver"
+  },
+  {
+    "name": "P104-100"
+  },
+  {
+    "name": "P106-090"
+  },
+  {
+    "name": "P106-100"
+  },
+  {
+    "name": "PHDGD Ivy 4"
+  },
+  {
+    "name": "PHDGD Ivy 5"
+  },
+  {
+    "name": "PHDGD Quantic C3"
+  },
+  {
+    "name": "PHDGD Sapphire GR for Mobile Intel 965"
+  },
+  {
+    "name": "PHDGD Solo 1.2.0 x86"
+  },
+  {
+    "name": "PHDGD Solo 2 x64"
+  },
+  {
+    "name": "Professional HD Driver"
+  },
+  {
+    "name": "Q12U-1"
+  },
+  {
+    "name": "Quadro 1000M"
+  },
+  {
+    "name": "Quadro 1100M"
+  },
+  {
+    "name": "Quadro 2000"
+  },
+  {
+    "name": "Quadro 2000 D"
+  },
+  {
+    "name": "Quadro 2000D"
+  },
+  {
+    "name": "Quadro 2000M"
+  },
+  {
+    "name": "Quadro 2100M"
+  },
+  {
+    "name": "Quadro 280 NVS PCIe"
+  },
+  {
+    "name": "Quadro 3000M"
+  },
+  {
+    "name": "Quadro 400"
+  },
+  {
+    "name": "Quadro 4000"
+  },
+  {
+    "name": "Quadro 4000M"
+  },
+  {
+    "name": "Quadro 410"
+  },
+  {
+    "name": "Quadro 5000"
+  },
+  {
+    "name": "Quadro 5000M"
+  },
+  {
+    "name": "Quadro 500M"
+  },
+  {
+    "name": "Quadro 5010M"
+  },
+  {
+    "name": "Quadro 600"
+  },
+  {
+    "name": "Quadro 6000"
+  },
+  {
+    "name": "Quadro 7000"
+  },
+  {
+    "name": "Quadro CX"
+  },
+  {
+    "name": "Quadro FX 1000"
+  },
+  {
+    "name": "Quadro FX 1100"
+  },
+  {
+    "name": "Quadro FX 1300"
+  },
+  {
+    "name": "Quadro FX 1400"
+  },
+  {
+    "name": "Quadro FX 1500"
+  },
+  {
+    "name": "Quadro FX 1500M"
+  },
+  {
+    "name": "Quadro FX 1600M"
+  },
+  {
+    "name": "Quadro FX 1700"
+  },
+  {
+    "name": "Quadro FX 1700M"
+  },
+  {
+    "name": "Quadro FX 1800"
+  },
+  {
+    "name": "Quadro FX 1800M"
+  },
+  {
+    "name": "Quadro FX 2000"
+  },
+  {
+    "name": "Quadro FX 2500M"
+  },
+  {
+    "name": "Quadro FX 2700"
+  },
+  {
+    "name": "Quadro FX 2700M"
+  },
+  {
+    "name": "Quadro FX 2800M"
+  },
+  {
+    "name": "Quadro FX 3000"
+  },
+  {
+    "name": "Quadro FX 3400/4400"
+  },
+  {
+    "name": "Quadro FX 3450"
+  },
+  {
+    "name": "Quadro FX 3450/4000 SDI"
+  },
+  {
+    "name": "Quadro FX 350"
+  },
+  {
+    "name": "Quadro FX 3500"
+  },
+  {
+    "name": "Quadro FX 3500M"
+  },
+  {
+    "name": "Quadro FX 350M"
+  },
+  {
+    "name": "Quadro FX 3600M"
+  },
+  {
+    "name": "Quadro FX 360M"
+  },
+  {
+    "name": "Quadro FX 370"
+  },
+  {
+    "name": "Quadro FX 370 Low Profile"
+  },
+  {
+    "name": "Quadro FX 370 LP"
+  },
+  {
+    "name": "Quadro FX 3700"
+  },
+  {
+    "name": "Quadro FX 3700M"
+  },
+  {
+    "name": "Quadro FX 370M"
+  },
+  {
+    "name": "Quadro FX 380"
+  },
+  {
+    "name": "Quadro FX 380 LP"
+  },
+  {
+    "name": "Quadro FX 3800"
+  },
+  {
+    "name": "Quadro FX 3800M"
+  },
+  {
+    "name": "Quadro FX 380M"
+  },
+  {
+    "name": "Quadro FX 4000"
+  },
+  {
+    "name": "Quadro FX 4500"
+  },
+  {
+    "name": "Quadro FX 4500 X2"
+  },
+  {
+    "name": "Quadro FX 4600"
+  },
+  {
+    "name": "Quadro FX 4700 X2"
+  },
+  {
+    "name": "Quadro FX 4800"
+  },
+  {
+    "name": "Quadro FX 500/600 PCI"
+  },
+  {
+    "name": "Quadro FX 500/FX 600"
+  },
+  {
+    "name": "Quadro FX 540"
+  },
+  {
+    "name": "Quadro FX 550"
+  },
+  {
+    "name": "Quadro FX 5500"
+  },
+  {
+    "name": "Quadro FX 560"
+  },
+  {
+    "name": "Quadro FX 5600"
+  },
+  {
+    "name": "Quadro FX 570"
+  },
+  {
+    "name": "Quadro FX 570M"
+  },
+  {
+    "name": "Quadro FX 580"
+  },
+  {
+    "name": "Quadro FX 5800"
+  },
+  {
+    "name": "Quadro FX 770M"
+  },
+  {
+    "name": "Quadro FX 880M"
+  },
+  {
+    "name": "Quadro FX Go1400"
+  },
+  {
+    "name": "Quadro GP100"
+  },
+  {
+    "name": "Quadro GV100"
+  },
+  {
+    "name": "Quadro K1000M"
+  },
+  {
+    "name": "Quadro K1100M"
+  },
+  {
+    "name": "Quadro K1200"
+  },
+  {
+    "name": "Quadro K2000"
+  },
+  {
+    "name": "Quadro K2000D"
+  },
+  {
+    "name": "Quadro K2000M"
+  },
+  {
+    "name": "Quadro K2100M"
+  },
+  {
+    "name": "Quadro K2200"
+  },
+  {
+    "name": "Quadro K2200M"
+  },
+  {
+    "name": "Quadro K3000M"
+  },
+  {
+    "name": "Quadro K3100M"
+  },
+  {
+    "name": "Quadro K4000"
+  },
+  {
+    "name": "Quadro K4000M"
+  },
+  {
+    "name": "Quadro K4100M"
+  },
+  {
+    "name": "Quadro K420"
+  },
+  {
+    "name": "Quadro K4200"
+  },
+  {
+    "name": "Quadro K5000"
+  },
+  {
+    "name": "Quadro K5000M"
+  },
+  {
+    "name": "Quadro K500M"
+  },
+  {
+    "name": "Quadro K5100M"
+  },
+  {
+    "name": "Quadro K510M"
+  },
+  {
+    "name": "Quadro K5200"
+  },
+  {
+    "name": "Quadro K600"
+  },
+  {
+    "name": "Quadro K6000"
+  },
+  {
+    "name": "Quadro K610M"
+  },
+  {
+    "name": "Quadro K620"
+  },
+  {
+    "name": "Quadro K620M"
+  },
+  {
+    "name": "Quadro M1000M"
+  },
+  {
+    "name": "Quadro M1200"
+  },
+  {
+    "name": "Quadro M2000"
+  },
+  {
+    "name": "Quadro M2000M"
+  },
+  {
+    "name": "Quadro M2200"
+  },
+  {
+    "name": "Quadro M3000M"
+  },
+  {
+    "name": "Quadro M4000"
+  },
+  {
+    "name": "Quadro M4000M"
+  },
+  {
+    "name": "Quadro M5000"
+  },
+  {
+    "name": "Quadro M5000M"
+  },
+  {
+    "name": "Quadro M500M"
+  },
+  {
+    "name": "Quadro M520"
+  },
+  {
+    "name": "Quadro M5500"
+  },
+  {
+    "name": "Quadro M6000"
+  },
+  {
+    "name": "Quadro M6000 24GB"
+  },
+  {
+    "name": "Quadro M600M"
+  },
+  {
+    "name": "Quadro M620"
+  },
+  {
+    "name": "Quadro NVS 110M"
+  },
+  {
+    "name": "Quadro NVS 120M"
+  },
+  {
+    "name": "Quadro NVS 130M"
+  },
+  {
+    "name": "Quadro NVS 135M"
+  },
+  {
+    "name": "Quadro NVS 140M"
+  },
+  {
+    "name": "Quadro NVS 150M"
+  },
+  {
+    "name": "Quadro NVS 160M"
+  },
+  {
+    "name": "Quadro NVS 210S"
+  },
+  {
+    "name": "Quadro NVS 210S / GeForce 6150LE"
+  },
+  {
+    "name": "Quadro NVS 280 PCI"
+  },
+  {
+    "name": "Quadro NVS 280 SD"
+  },
+  {
+    "name": "Quadro NVS 285"
+  },
+  {
+    "name": "Quadro NVS 285 128MB"
+  },
+  {
+    "name": "Quadro NVS 290"
+  },
+  {
+    "name": "Quadro NVS 295"
+  },
+  {
+    "name": "Quadro NVS 320M"
+  },
+  {
+    "name": "Quadro NVS 420"
+  },
+  {
+    "name": "Quadro NVS 440"
+  },
+  {
+    "name": "Quadro NVS 450"
+  },
+  {
+    "name": "Quadro NVS 510M"
+  },
+  {
+    "name": "Quadro NVS 55/280 PCI"
+  },
+  {
+    "name": "Quadro P1000"
+  },
+  {
+    "name": "Quadro P2000"
+  },
+  {
+    "name": "Quadro P2000 with Max-Q Design"
+  },
+  {
+    "name": "Quadro P2200"
+  },
+  {
+    "name": "Quadro P3000"
+  },
+  {
+    "name": "Quadro P3200"
+  },
+  {
+    "name": "Quadro P3200 with Max-Q Design"
+  },
+  {
+    "name": "Quadro P400"
+  },
+  {
+    "name": "Quadro P4000"
+  },
+  {
+    "name": "Quadro P4000 with Max-Q Design"
+  },
+  {
+    "name": "Quadro P4200"
+  },
+  {
+    "name": "Quadro P4200 with Max-Q Design"
+  },
+  {
+    "name": "Quadro P500"
+  },
+  {
+    "name": "Quadro P5000"
+  },
+  {
+    "name": "Quadro P520"
+  },
+  {
+    "name": "Quadro P5200"
+  },
+  {
+    "name": "Quadro P5200 with Max-Q Design"
+  },
+  {
+    "name": "Quadro P600"
+  },
+  {
+    "name": "Quadro P6000"
+  },
+  {
+    "name": "Quadro P620"
+  },
+  {
+    "name": "Quadro RTX 3000"
+  },
+  {
+    "name": "Quadro RTX 3000 with Max-Q Design"
+  },
+  {
+    "name": "Quadro RTX 4000"
+  },
+  {
+    "name": "Quadro RTX 4000 (Mobile)"
+  },
+  {
+    "name": "Quadro RTX 4000 with Max-Q Design"
+  },
+  {
+    "name": "Quadro RTX 5000"
+  },
+  {
+    "name": "Quadro RTX 5000 (Mobile)"
+  },
+  {
+    "name": "Quadro RTX 5000 with Max-Q Design"
+  },
+  {
+    "name": "Quadro RTX 6000"
+  },
+  {
+    "name": "Quadro RTX 8000"
+  },
+  {
+    "name": "Quadro T1000"
+  },
+  {
+    "name": "Quadro T1000 with Max-Q Design"
+  },
+  {
+    "name": "Quadro T2000"
+  },
+  {
+    "name": "Quadro T2000 with Max-Q Design"
+  },
+  {
+    "name": "Quadro2 MXR/EX"
+  },
+  {
+    "name": "Quadro2 Pro"
+  },
+  {
+    "name": "Quadro4 380 XGL"
+  },
+  {
+    "name": "Quadro4 900 XGL"
+  },
+  {
+    "name": "Quadro4 980 XGL"
+  },
+  {
+    "name": "Qualcomm Adreno 540 GPU"
+  },
+  {
+    "name": "Qualcomm Adreno 618 GPU"
+  },
+  {
+    "name": "Qualcomm Adreno 630 GPU"
+  },
+  {
+    "name": "Qualcomm Adreno 680 GPU"
+  },
+  {
+    "name": "QXL KMDOD"
+  },
+  {
+    "name": "Radeon 2100"
+  },
+  {
+    "name": "Radeon 3000"
+  },
+  {
+    "name": "Radeon 3100"
+  },
+  {
+    "name": "Radeon 520"
+  },
+  {
+    "name": "Radeon 530"
+  },
+  {
+    "name": "Radeon 535"
+  },
+  {
+    "name": "Radeon 535DX"
+  },
+  {
+    "name": "Radeon 540"
+  },
+  {
+    "name": "Radeon 540X"
+  },
+  {
+    "name": "Radeon 550X"
+  },
+  {
+    "name": "Radeon 620"
+  },
+  {
+    "name": "Radeon 625"
+  },
+  {
+    "name": "Radeon 630"
+  },
+  {
+    "name": "Radeon 6600M"
+  },
+  {
+    "name": "Radeon 6750M"
+  },
+  {
+    "name": "Radeon 7000 / Radeon VE"
+  },
+  {
+    "name": "RADEON 7000 / RADEON VE Family"
+  },
+  {
+    "name": "RADEON 7200"
+  },
+  {
+    "name": "RADEON 7500"
+  },
+  {
+    "name": "RADEON 7500 Family"
+  },
+  {
+    "name": "RADEON 8500 Family"
+  },
+  {
+    "name": "RADEON 9000"
+  },
+  {
+    "name": "RADEON 9000 Family"
+  },
+  {
+    "name": "RADEON 9100 Family"
+  },
+  {
+    "name": "RADEON 9100 IGP"
+  },
+  {
+    "name": "RADEON 9200"
+  },
+  {
+    "name": "RADEON 9200 LE Family"
+  },
+  {
+    "name": "RADEON 9200 PRO Family"
+  },
+  {
+    "name": "RADEON 9200 SE"
+  },
+  {
+    "name": "RADEON 9250"
+  },
+  {
+    "name": "RADEON 9500"
+  },
+  {
+    "name": "RADEON 9500 PRO / 9700"
+  },
+  {
+    "name": "RADEON 9550"
+  },
+  {
+    "name": "Radeon 9550 / X1050"
+  },
+  {
+    "name": "RADEON 9600 Family"
+  },
+  {
+    "name": "RADEON 9600 PRO"
+  },
+  {
+    "name": "RADEON 9600 PRO Family"
+  },
+  {
+    "name": "RADEON 9600 TX Family"
+  },
+  {
+    "name": "RADEON 9600 XT"
+  },
+  {
+    "name": "RADEON 9600SE"
+  },
+  {
+    "name": "RADEON 9700 PRO"
+  },
+  {
+    "name": "RADEON 9800"
+  },
+  {
+    "name": "RADEON 9800 PRO"
+  },
+  {
+    "name": "RADEON 9800 SE"
+  },
+  {
+    "name": "RADEON 9800 XT"
+  },
+  {
+    "name": "RADEON A9800XT"
+  },
+  {
+    "name": "RADEON E2400"
+  },
+  {
+    "name": "RADEON E4690"
+  },
+  {
+    "name": "Radeon E6460"
+  },
+  {
+    "name": "Radeon E6465"
+  },
+  {
+    "name": "Radeon E6760"
+  },
+  {
+    "name": "Radeon E8860"
+  },
+  {
+    "name": "Radeon E8870PCIe"
+  },
+  {
+    "name": "Radeon HD 2350"
+  },
+  {
+    "name": "Radeon HD 2400"
+  },
+  {
+    "name": "Radeon HD 2400 PCI"
+  },
+  {
+    "name": "Radeon HD 2400 Pro"
+  },
+  {
+    "name": "Radeon HD 2400 XT"
+  },
+  {
+    "name": "Radeon HD 2600 PRO"
+  },
+  {
+    "name": "Radeon HD 2600 Pro AGP"
+  },
+  {
+    "name": "Radeon HD 2600 XT"
+  },
+  {
+    "name": "Radeon HD 2900 GT"
+  },
+  {
+    "name": "Radeon HD 2900 PRO"
+  },
+  {
+    "name": "Radeon HD 2900 XT"
+  },
+  {
+    "name": "Radeon HD 3000"
+  },
+  {
+    "name": "Radeon HD 3200"
+  },
+  {
+    "name": "Radeon HD 3300"
+  },
+  {
+    "name": "Radeon HD 3450"
+  },
+  {
+    "name": "Radeon HD 3470"
+  },
+  {
+    "name": "Radeon HD 3650 AGP"
+  },
+  {
+    "name": "Radeon HD 3670"
+  },
+  {
+    "name": "Radeon HD 3850"
+  },
+  {
+    "name": "Radeon HD 3850 AGP"
+  },
+  {
+    "name": "Radeon HD 3850 X2"
+  },
+  {
+    "name": "Radeon HD 3870"
+  },
+  {
+    "name": "Radeon HD 3870 X2"
+  },
+  {
+    "name": "Radeon HD 4200"
+  },
+  {
+    "name": "Radeon HD 4250"
+  },
+  {
+    "name": "Radeon HD 4270"
+  },
+  {
+    "name": "Radeon HD 4290"
+  },
+  {
+    "name": "Radeon HD 4300/4500 Serisi"
+  },
+  {
+    "name": "Radeon HD 4330"
+  },
+  {
+    "name": "Radeon HD 4350"
+  },
+  {
+    "name": "Radeon HD 4550"
+  },
+  {
+    "name": "Radeon HD 4650"
+  },
+  {
+    "name": "Radeon HD 4650 AGP"
+  },
+  {
+    "name": "Radeon HD 4670"
+  },
+  {
+    "name": "Radeon HD 4770"
+  },
+  {
+    "name": "Radeon HD 4810"
+  },
+  {
+    "name": "Radeon HD 4830"
+  },
+  {
+    "name": "Radeon HD 4850"
+  },
+  {
+    "name": "Radeon HD 4850 X2"
+  },
+  {
+    "name": "Radeon HD 4870"
+  },
+  {
+    "name": "Radeon HD 4870 X2"
+  },
+  {
+    "name": "Radeon HD 4890"
+  },
+  {
+    "name": "Radeon HD 5450"
+  },
+  {
+    "name": "Radeon HD 5470"
+  },
+  {
+    "name": "Radeon HD 5550"
+  },
+  {
+    "name": "Radeon HD 5570"
+  },
+  {
+    "name": "Radeon HD 5600/5700"
+  },
+  {
+    "name": "Radeon HD 5670"
+  },
+  {
+    "name": "Radeon HD 5750"
+  },
+  {
+    "name": "Radeon HD 5770"
+  },
+  {
+    "name": "Radeon HD 5830"
+  },
+  {
+    "name": "Radeon HD 5850"
+  },
+  {
+    "name": "Radeon HD 5870"
+  },
+  {
+    "name": "Radeon HD 5970"
+  },
+  {
+    "name": "Radeon HD 6230"
+  },
+  {
+    "name": "Radeon HD 6250"
+  },
+  {
+    "name": "Radeon HD 6290"
+  },
+  {
+    "name": "Radeon HD 6290M"
+  },
+  {
+    "name": "Radeon HD 6300M"
+  },
+  {
+    "name": "Radeon HD 6310"
+  },
+  {
+    "name": "Radeon HD 6320"
+  },
+  {
+    "name": "Radeon HD 6320 Graphic"
+  },
+  {
+    "name": "Radeon HD 6320M"
+  },
+  {
+    "name": "RADEON HD 6350"
+  },
+  {
+    "name": "Radeon HD 6370D"
+  },
+  {
+    "name": "Radeon HD 6370M"
+  },
+  {
+    "name": "Radeon HD 6380G"
+  },
+  {
+    "name": "Radeon HD 6410D"
+  },
+  {
+    "name": "Radeon HD 6430M"
+  },
+  {
+    "name": "Radeon HD 6450"
+  },
+  {
+    "name": "Radeon HD 6450 + 8470D Dual"
+  },
+  {
+    "name": "Radeon HD 6450A"
+  },
+  {
+    "name": "Radeon HD 6470M"
+  },
+  {
+    "name": "Radeon HD 6480G"
+  },
+  {
+    "name": "Radeon HD 6480M"
+  },
+  {
+    "name": "Radeon HD 6490M"
+  },
+  {
+    "name": "Radeon HD 6520G"
+  },
+  {
+    "name": "Radeon HD 6530D"
+  },
+  {
+    "name": "Radeon HD 6550A"
+  },
+  {
+    "name": "Radeon HD 6550D"
+  },
+  {
+    "name": "Radeon HD 6570"
+  },
+  {
+    "name": "Radeon HD 6610M"
+  },
+  {
+    "name": "Radeon HD 6620G"
+  },
+  {
+    "name": "Radeon HD 6630M"
+  },
+  {
+    "name": "Radeon HD 6650A"
+  },
+  {
+    "name": "Radeon HD 6650M"
+  },
+  {
+    "name": "Radeon HD 6670"
+  },
+  {
+    "name": "Radeon HD 6670 + 6670 Dual"
+  },
+  {
+    "name": "Radeon HD 6670 + 7660D Dual"
+  },
+  {
+    "name": "Radeon HD 6670/7670"
+  },
+  {
+    "name": "Radeon HD 6700M"
+  },
+  {
+    "name": "Radeon HD 6750"
+  },
+  {
+    "name": "Radeon HD 6750M"
+  },
+  {
+    "name": "Radeon HD 6770"
+  },
+  {
+    "name": "Radeon HD 6770M"
+  },
+  {
+    "name": "Radeon HD 6790"
+  },
+  {
+    "name": "Radeon HD 6800M"
+  },
+  {
+    "name": "Radeon HD 6850"
+  },
+  {
+    "name": "Radeon HD 6850 X2"
+  },
+  {
+    "name": "Radeon HD 6870"
+  },
+  {
+    "name": "Radeon HD 6900M"
+  },
+  {
+    "name": "Radeon HD 6950"
+  },
+  {
+    "name": "Radeon HD 6970"
+  },
+  {
+    "name": "Radeon HD 6970M"
+  },
+  {
+    "name": "Radeon HD 6990"
+  },
+  {
+    "name": "Radeon HD 7290"
+  },
+  {
+    "name": "Radeon HD 7290M"
+  },
+  {
+    "name": "Radeon HD 7310"
+  },
+  {
+    "name": "Radeon HD 7310 - Carte graphique"
+  },
+  {
+    "name": "Radeon HD 7310G"
+  },
+  {
+    "name": "Radeon HD 7310M"
+  },
+  {
+    "name": "Radeon HD 7340"
+  },
+  {
+    "name": "Radeon HD 7340G"
+  },
+  {
+    "name": "Radeon HD 7340M"
+  },
+  {
+    "name": "Radeon HD 7350"
+  },
+  {
+    "name": "Radeon HD 7400G"
+  },
+  {
+    "name": "Radeon HD 7420G"
+  },
+  {
+    "name": "Radeon HD 7450"
+  },
+  {
+    "name": "Radeon HD 7450A"
+  },
+  {
+    "name": "Radeon HD 7450M"
+  },
+  {
+    "name": "Radeon HD 7470"
+  },
+  {
+    "name": "Radeon HD 7470M"
+  },
+  {
+    "name": "Radeon HD 7480D"
+  },
+  {
+    "name": "Radeon HD 7500G"
+  },
+  {
+    "name": "Radeon HD 7500G + 7500M/7600M Dual"
+  },
+  {
+    "name": "Radeon HD 7500G + 7550M Dual"
+  },
+  {
+    "name": "Radeon HD 7500G + HD 7500M/7600M Dual"
+  },
+  {
+    "name": "Radeon HD 7520G"
+  },
+  {
+    "name": "Radeon HD 7520G + 7400M Dual"
+  },
+  {
+    "name": "Radeon HD 7520G + 7470M Dual"
+  },
+  {
+    "name": "Radeon HD 7520G + 7500/7600 Dual"
+  },
+  {
+    "name": "Radeon HD 7520G + 7600M Dual"
+  },
+  {
+    "name": "Radeon HD 7520G + 7610M Dual"
+  },
+  {
+    "name": "Radeon HD 7520G + 7650M Dual"
+  },
+  {
+    "name": "Radeon HD 7520G + 7670M Dual"
+  },
+  {
+    "name": "Radeon HD 7520G + 7700M Dual"
+  },
+  {
+    "name": "Radeon HD 7520G + 8600/8700M Dual"
+  },
+  {
+    "name": "Radeon HD 7520G + 8750M Dual"
+  },
+  {
+    "name": "Radeon HD 7520G + HD 7400M Dual"
+  },
+  {
+    "name": "Radeon HD 7520G + HD 7500/7600 Dual"
+  },
+  {
+    "name": "Radeon HD 7520G + HD 7600M Dual"
+  },
+  {
+    "name": "Radeon HD 7520G + HD 7670M Dual"
+  },
+  {
+    "name": "Radeon HD 7520G + HD 7700M Dual"
+  },
+  {
+    "name": "Radeon HD 7520G + HD 8600/8700M Dual"
+  },
+  {
+    "name": "Radeon HD 7520G + HD 8750M Dual"
+  },
+  {
+    "name": "Radeon HD 7520G N HD 7520G + HD 7500/7600 7500/760"
+  },
+  {
+    "name": "Radeon HD 7520G N HD 7520G + HD 7600M N HD 7600M D"
+  },
+  {
+    "name": "Radeon HD 7540D"
+  },
+  {
+    "name": "Radeon HD 7540D + 6570 Dual"
+  },
+  {
+    "name": "Radeon HD 7540D + 7500 Dual"
+  },
+  {
+    "name": "Radeon HD 7540D + HD 6450 Dual"
+  },
+  {
+    "name": "Radeon HD 7550M"
+  },
+  {
+    "name": "Radeon HD 7550M/7650M"
+  },
+  {
+    "name": "Radeon HD 7560D"
+  },
+  {
+    "name": "Radeon HD 7560D + 6450 Dual"
+  },
+  {
+    "name": "Radeon HD 7560D + 6570 Dual"
+  },
+  {
+    "name": "Radeon HD 7560D + 6670 Dual"
+  },
+  {
+    "name": "Radeon HD 7560D + 7560D Dual"
+  },
+  {
+    "name": "Radeon HD 7560D + 7570 Dual"
+  },
+  {
+    "name": "Radeon HD 7560D + 7670 Dual"
+  },
+  {
+    "name": "Radeon HD 7560D + 7700 Dual"
+  },
+  {
+    "name": "Radeon HD 7560D + HD 6570 Dual"
+  },
+  {
+    "name": "Radeon HD 7560D + HD 6670 Dual"
+  },
+  {
+    "name": "Radeon HD 7560D + HD 7000 Dual"
+  },
+  {
+    "name": "Radeon HD 7560D + HD 7600 Dual"
+  },
+  {
+    "name": "Radeon HD 7560D + HD 7670 Dual"
+  },
+  {
+    "name": "Radeon HD 7560D + HD 7700 Dual"
+  },
+  {
+    "name": "Radeon HD 7560D + HD 8570 Dual"
+  },
+  {
+    "name": "Radeon HD 7560D + R5 235 Dual"
+  },
+  {
+    "name": "Radeon HD 7570"
+  },
+  {
+    "name": "Radeon HD 7570M"
+  },
+  {
+    "name": "Radeon HD 7570M/HD 7670M"
+  },
+  {
+    "name": "Radeon HD 7580D"
+  },
+  {
+    "name": "Radeon HD 7600G"
+  },
+  {
+    "name": "Radeon HD 7600G + 6400M Dual"
+  },
+  {
+    "name": "Radeon HD 7600G + 7450M Dual"
+  },
+  {
+    "name": "Radeon HD 7600G + 7500M/7600M Dual"
+  },
+  {
+    "name": "Radeon HD 7600G + 7550M Dual"
+  },
+  {
+    "name": "Radeon HD 7600G + 8500M/8700M Dual"
+  },
+  {
+    "name": "Radeon HD 7600G + HD 7400M Dual"
+  },
+  {
+    "name": "Radeon HD 7600G + HD 7500M/7600M Dual"
+  },
+  {
+    "name": "Radeon HD 7600G + HD 7550M Dual"
+  },
+  {
+    "name": "Radeon HD 7600G + HD 8670M Dual"
+  },
+  {
+    "name": "Radeon HD 7600G + HD Dual"
+  },
+  {
+    "name": "Radeon HD 7600G N HD 7600G + HD ON HD Dual"
+  },
+  {
+    "name": "Radeon HD 7600M + 7600M Dual"
+  },
+  {
+    "name": "Radeon HD 7610M"
+  },
+  {
+    "name": "Radeon HD 7620G"
+  },
+  {
+    "name": "Radeon HD 7620G + 8600M Dual"
+  },
+  {
+    "name": "Radeon HD 7620G + 8670M Dual"
+  },
+  {
+    "name": "Radeon HD 7620G + HD 8600M Dual"
+  },
+  {
+    "name": "Radeon HD 7620G + HD 8670M Dual"
+  },
+  {
+    "name": "Radeon HD 7620G N HD 7620G + HD 8600M N HD 8600M D"
+  },
+  {
+    "name": "Radeon HD 7640G"
+  },
+  {
+    "name": "Radeon HD 7640G + 6400M Dual"
+  },
+  {
+    "name": "Radeon HD 7640G + 7400M Dual"
+  },
+  {
+    "name": "Radeon HD 7640G + 7450M Dual"
+  },
+  {
+    "name": "Radeon HD 7640G + 7470M Dual"
+  },
+  {
+    "name": "Radeon HD 7640G + 7500/7600 Dual"
+  },
+  {
+    "name": "Radeon HD 7640G + 7500M/7600M Dual"
+  },
+  {
+    "name": "Radeon HD 7640G + 7600M Dual"
+  },
+  {
+    "name": "Radeon HD 7640G + 7610M Dual"
+  },
+  {
+    "name": "Radeon HD 7640G + 7650M Dual"
+  },
+  {
+    "name": "Radeon HD 7640G + 7670M Dual"
+  },
+  {
+    "name": "Radeon HD 7640G + 7690M Dual"
+  },
+  {
+    "name": "Radeon HD 7640G + 7700M Dual"
+  },
+  {
+    "name": "Radeon HD 7640G + 8500M Dual"
+  },
+  {
+    "name": "Radeon HD 7640G + 8570M Dual"
+  },
+  {
+    "name": "Radeon HD 7640G + 8600/8700M Dual"
+  },
+  {
+    "name": "Radeon HD 7640G + 8600M Dual"
+  },
+  {
+    "name": "Radeon HD 7640G + 8670M Dual"
+  },
+  {
+    "name": "Radeon HD 7640G + 8750M Dual"
+  },
+  {
+    "name": "Radeon HD 7640G + HD 7400M Dual"
+  },
+  {
+    "name": "Radeon HD 7640G + HD 7500/7600 Dual"
+  },
+  {
+    "name": "Radeon HD 7640G + HD 7600M Dual"
+  },
+  {
+    "name": "Radeon HD 7640G + HD 7600M N HD 7600M Dual"
+  },
+  {
+    "name": "Radeon HD 7640G + HD 7670M Dual"
+  },
+  {
+    "name": "Radeon HD 7640G + HD 7700M Dual"
+  },
+  {
+    "name": "Radeon HD 7640G + HD 7700M N HD 7700M Dual"
+  },
+  {
+    "name": "Radeon HD 7640G + HD 8500M Dual"
+  },
+  {
+    "name": "Radeon HD 7640G + HD 8500M N HD 8500M Dual"
+  },
+  {
+    "name": "Radeon HD 7640G + HD 8570M Dual"
+  },
+  {
+    "name": "Radeon HD 7640G + HD 8600/8700M Dual"
+  },
+  {
+    "name": "Radeon HD 7640G + HD 8670M Dual"
+  },
+  {
+    "name": "Radeon HD 7640G + HD 8750M Dual"
+  },
+  {
+    "name": "Radeon HD 7640G + R5 M200 Dual"
+  },
+  {
+    "name": "Radeon HD 7640G + R5 M230 Dual"
+  },
+  {
+    "name": "Radeon HD 7640G N HD 7640G + HD 7600M N HD 7600M D"
+  },
+  {
+    "name": "Radeon HD 7640G N HD 7640G + HD 7670M Dual"
+  },
+  {
+    "name": "Radeon HD 7640G N HD 7640G + HD 8570M Dual"
+  },
+  {
+    "name": "Radeon HD 7650A"
+  },
+  {
+    "name": "Radeon HD 7650M"
+  },
+  {
+    "name": "Radeon HD 7660D"
+  },
+  {
+    "name": "Radeon HD 7660D + 6570 Dual"
+  },
+  {
+    "name": "Radeon HD 7660D + 6670 Dual"
+  },
+  {
+    "name": "Radeon HD 7660D + 7470 Dual"
+  },
+  {
+    "name": "Radeon HD 7660D + 7500 Dual"
+  },
+  {
+    "name": "Radeon HD 7660D + 7540D Dual"
+  },
+  {
+    "name": "Radeon HD 7660D + 7670 Dual"
+  },
+  {
+    "name": "Radeon HD 7660D + HD 6670 Dual"
+  },
+  {
+    "name": "Radeon HD 7660D + HD 7000 Dual"
+  },
+  {
+    "name": "Radeon HD 7660D + HD 7400 Dual"
+  },
+  {
+    "name": "Radeon HD 7660D + HD 7700 Dual"
+  },
+  {
+    "name": "Radeon HD 7660D + R5 235 Dual"
+  },
+  {
+    "name": "Radeon HD 7660D + R7 240 Dual"
+  },
+  {
+    "name": "Radeon HD 7660G"
+  },
+  {
+    "name": "Radeon HD 7660G + 7400M Dual"
+  },
+  {
+    "name": "Radeon HD 7660G + 7470M Dual"
+  },
+  {
+    "name": "Radeon HD 7660G + 7600M Dual"
+  },
+  {
+    "name": "Radeon HD 7660G + 7610M Dual"
+  },
+  {
+    "name": "Radeon HD 7660G + 7670M Dual"
+  },
+  {
+    "name": "Radeon HD 7660G + 7700M Dual"
+  },
+  {
+    "name": "Radeon HD 7660G + 7730M Dual"
+  },
+  {
+    "name": "Radeon HD 7660G + 8600M Dual"
+  },
+  {
+    "name": "Radeon HD 7660G + 8670M Dual"
+  },
+  {
+    "name": "Radeon HD 7660G + HD 7500/7600 7500/7600 Dual"
+  },
+  {
+    "name": "Radeon HD 7660G + HD 7500/7600 Dual"
+  },
+  {
+    "name": "Radeon HD 7660G + HD 7500M/7600M Dual"
+  },
+  {
+    "name": "Radeon HD 7660G + HD 7600M Dual"
+  },
+  {
+    "name": "Radeon HD 7660G + HD 7600M N HD 7600M Dual"
+  },
+  {
+    "name": "Radeon HD 7660G + HD 7670M Dual"
+  },
+  {
+    "name": "Radeon HD 7660G + HD 7700M Dual"
+  },
+  {
+    "name": "Radeon HD 7660G + HD 7730M Dual"
+  },
+  {
+    "name": "Radeon HD 7660G + HD 8500M Dual"
+  },
+  {
+    "name": "Radeon HD 7660G + HD 8600/8700M Dual"
+  },
+  {
+    "name": "Radeon HD 7660G + HD 8600M Dual"
+  },
+  {
+    "name": "Radeon HD 7660G + HD 8670M Dual"
+  },
+  {
+    "name": "Radeon HD 7660G N HD 7660G + HD 7600M N HD 7600M D"
+  },
+  {
+    "name": "Radeon HD 7660G N HD 7660G + HD 7670M Dual"
+  },
+  {
+    "name": "Radeon HD 7660G N HD 7660G + HD 7700M N HD 7700M D"
+  },
+  {
+    "name": "Radeon HD 7670"
+  },
+  {
+    "name": "Radeon HD 7670A"
+  },
+  {
+    "name": "Radeon HD 7670M"
+  },
+  {
+    "name": "Radeon HD 7670M + 7670M Dual"
+  },
+  {
+    "name": "Radeon HD 7690M"
+  },
+  {
+    "name": "Radeon HD 7690M XT"
+  },
+  {
+    "name": "Radeon HD 7700-serie"
+  },
+  {
+    "name": "Radeon HD 7730"
+  },
+  {
+    "name": "Radeon HD 7730M"
+  },
+  {
+    "name": "Radeon HD 7750"
+  },
+  {
+    "name": "Radeon HD 7750M"
+  },
+  {
+    "name": "Radeon HD 7770"
+  },
+  {
+    "name": "Radeon HD 7790"
+  },
+  {
+    "name": "Radeon HD 7800-serie"
+  },
+  {
+    "name": "Radeon HD 7850"
+  },
+  {
+    "name": "Radeon HD 7850M"
+  },
+  {
+    "name": "Radeon HD 7870"
+  },
+  {
+    "name": "Radeon HD 7870 XT"
+  },
+  {
+    "name": "Radeon HD 7870M"
+  },
+  {
+    "name": "Radeon HD 7950 / R9 280"
+  },
+  {
+    "name": "Radeon HD 7970 / R9 280X"
+  },
+  {
+    "name": "Radeon HD 7970M"
+  },
+  {
+    "name": "Radeon HD 7990"
+  },
+  {
+    "name": "Radeon HD 8180"
+  },
+  {
+    "name": "Radeon HD 8210"
+  },
+  {
+    "name": "Radeon HD 8210E"
+  },
+  {
+    "name": "Radeon HD 8240"
+  },
+  {
+    "name": "Radeon HD 8250"
+  },
+  {
+    "name": "Radeon HD 8280"
+  },
+  {
+    "name": "Radeon HD 8280E"
+  },
+  {
+    "name": "Radeon HD 8280G"
+  },
+  {
+    "name": "Radeon HD 8310E"
+  },
+  {
+    "name": "Radeon HD 8330"
+  },
+  {
+    "name": "Radeon HD 8330E"
+  },
+  {
+    "name": "Radeon HD 8350"
+  },
+  {
+    "name": "Radeon HD 8350G"
+  },
+  {
+    "name": "Radeon HD 8370D"
+  },
+  {
+    "name": "Radeon HD 8400"
+  },
+  {
+    "name": "Radeon HD 8400E"
+  },
+  {
+    "name": "Radeon HD 8410G"
+  },
+  {
+    "name": "Radeon HD 8450G"
+  },
+  {
+    "name": "Radeon HD 8450G + 8600/8700M Dual"
+  },
+  {
+    "name": "Radeon HD 8450G + 8600M Dual"
+  },
+  {
+    "name": "Radeon HD 8450G + 8670M Dual"
+  },
+  {
+    "name": "Radeon HD 8450G + 8750M Dual"
+  },
+  {
+    "name": "Radeon HD 8450G + HD 8600M Dual"
+  },
+  {
+    "name": "Radeon HD 8450G + HD 8670M Dual"
+  },
+  {
+    "name": "Radeon HD 8450G + HD 8750M Dual"
+  },
+  {
+    "name": "Radeon HD 8450G + R5 M230 Dual"
+  },
+  {
+    "name": "Radeon HD 8470"
+  },
+  {
+    "name": "Radeon HD 8470D"
+  },
+  {
+    "name": "Radeon HD 8470D + 6450 Dual"
+  },
+  {
+    "name": "Radeon HD 8470D + 6570 Dual"
+  },
+  {
+    "name": "Radeon HD 8470D + HD 6450 Dual"
+  },
+  {
+    "name": "Radeon HD 8470D + HD 6670 Dual"
+  },
+  {
+    "name": "Radeon HD 8470D + HD 7500 Dual"
+  },
+  {
+    "name": "Radeon HD 8490"
+  },
+  {
+    "name": "Radeon HD 8500M"
+  },
+  {
+    "name": "Radeon HD 8500M/8700M"
+  },
+  {
+    "name": "Radeon HD 8510G"
+  },
+  {
+    "name": "Radeon HD 8510G + 8500M Dual"
+  },
+  {
+    "name": "Radeon HD 8510G + HD 8500M Dual"
+  },
+  {
+    "name": "Radeon HD 8550D"
+  },
+  {
+    "name": "Radeon HD 8550G"
+  },
+  {
+    "name": "Radeon HD 8550G + 7600M Dual"
+  },
+  {
+    "name": "Radeon HD 8550G + 8500M Dual"
+  },
+  {
+    "name": "Radeon HD 8550G + 8570M Dual"
+  },
+  {
+    "name": "Radeon HD 8550G + 8600/8700M Dual"
+  },
+  {
+    "name": "Radeon HD 8550G + 8600M Dual"
+  },
+  {
+    "name": "Radeon HD 8550G + 8670M Dual"
+  },
+  {
+    "name": "Radeon HD 8550G + 8690M Dual"
+  },
+  {
+    "name": "Radeon HD 8550G + 8750M Dual"
+  },
+  {
+    "name": "Radeon HD 8550G + HD 7600M Dual"
+  },
+  {
+    "name": "Radeon HD 8550G + HD 8500M Dual"
+  },
+  {
+    "name": "Radeon HD 8550G + HD 8570M Dual"
+  },
+  {
+    "name": "Radeon HD 8550G + HD 8600/8700M Dual"
+  },
+  {
+    "name": "Radeon HD 8550G + HD 8600M Dual"
+  },
+  {
+    "name": "Radeon HD 8550G + HD 8670M Dual"
+  },
+  {
+    "name": "Radeon HD 8550G + HD 8750M Dual"
+  },
+  {
+    "name": "Radeon HD 8550G + R5 M200 Dual"
+  },
+  {
+    "name": "Radeon HD 8550G + R5 M230 Dual"
+  },
+  {
+    "name": "Radeon HD 8550G N HD 8550G + HD 8600M N HD 8600M D"
+  },
+  {
+    "name": "Radeon HD 8570"
+  },
+  {
+    "name": "Radeon HD 8570 + 8670D Dual"
+  },
+  {
+    "name": "Radeon HD 8570 + HD 7660D Dual"
+  },
+  {
+    "name": "Radeon HD 8570D"
+  },
+  {
+    "name": "Radeon HD 8570D + 6570 Dual"
+  },
+  {
+    "name": "Radeon HD 8570D + 6670 Dual"
+  },
+  {
+    "name": "Radeon HD 8570D + HD 6570 Dual"
+  },
+  {
+    "name": "Radeon HD 8570D + HD 6670 Dual"
+  },
+  {
+    "name": "Radeon HD 8570D + HD 7000 Dual"
+  },
+  {
+    "name": "Radeon HD 8570D + HD 7700 Dual"
+  },
+  {
+    "name": "Radeon HD 8570D + HD 8470 Dual"
+  },
+  {
+    "name": "Radeon HD 8570D + HD 8570 Dual"
+  },
+  {
+    "name": "Radeon HD 8570D + HD8490 Dual"
+  },
+  {
+    "name": "Radeon HD 8570D + R5 235 Dual"
+  },
+  {
+    "name": "Radeon HD 8570D + R7 200 Dual"
+  },
+  {
+    "name": "Radeon HD 8570D + R7 240 Dual"
+  },
+  {
+    "name": "Radeon HD 8570M"
+  },
+  {
+    "name": "Radeon HD 8600/8700M"
+  },
+  {
+    "name": "Radeon HD 8610G"
+  },
+  {
+    "name": "Radeon HD 8610G + 8500M Dual"
+  },
+  {
+    "name": "Radeon HD 8610G + 8600M Dual"
+  },
+  {
+    "name": "Radeon HD 8610G + 8670M Dual"
+  },
+  {
+    "name": "Radeon HD 8610G + HD 8500M Dual"
+  },
+  {
+    "name": "Radeon HD 8610G + HD 8600M Dual"
+  },
+  {
+    "name": "Radeon HD 8610G + HD 8670M Dual"
+  },
+  {
+    "name": "Radeon HD 8610G + R5 M200 Dual"
+  },
+  {
+    "name": "Radeon HD 8650D"
+  },
+  {
+    "name": "Radeon HD 8650G"
+  },
+  {
+    "name": "Radeon HD 8650G + 7600M Dual"
+  },
+  {
+    "name": "Radeon HD 8650G + 7670M Dual"
+  },
+  {
+    "name": "Radeon HD 8650G + 7700M Dual"
+  },
+  {
+    "name": "Radeon HD 8650G + 8500M Dual"
+  },
+  {
+    "name": "Radeon HD 8650G + 8570M Dual"
+  },
+  {
+    "name": "Radeon HD 8650G + 8600/8700M Dual"
+  },
+  {
+    "name": "Radeon HD 8650G + 8600M Dual"
+  },
+  {
+    "name": "Radeon HD 8650G + 8670M Dual"
+  },
+  {
+    "name": "Radeon HD 8650G + 8750M Dual"
+  },
+  {
+    "name": "Radeon HD 8650G + HD 7600M Dual"
+  },
+  {
+    "name": "Radeon HD 8650G + HD 7670M Dual"
+  },
+  {
+    "name": "Radeon HD 8650G + HD 8570M Dual"
+  },
+  {
+    "name": "Radeon HD 8650G + HD 8600/8700M Dual"
+  },
+  {
+    "name": "Radeon HD 8650G + HD 8600M Dual"
+  },
+  {
+    "name": "Radeon HD 8650G + HD 8600M N HD 8600M Dual"
+  },
+  {
+    "name": "Radeon HD 8650G + HD 8670M Dual"
+  },
+  {
+    "name": "Radeon HD 8650G + HD 8750M Dual"
+  },
+  {
+    "name": "Radeon HD 8650G + HD 8790M Dual"
+  },
+  {
+    "name": "Radeon HD 8650G + R5 M200 Dual"
+  },
+  {
+    "name": "Radeon HD 8650G + R5 M230 Dual"
+  },
+  {
+    "name": "Radeon HD 8650G N HD 8650G + HD 8570M Dual"
+  },
+  {
+    "name": "Radeon HD 8650G N HD 8650G + HD 8600/8700M Dual"
+  },
+  {
+    "name": "Radeon HD 8650G N HD 8650G + HD 8600M N HD 8600M D"
+  },
+  {
+    "name": "Radeon HD 8670D"
+  },
+  {
+    "name": "Radeon HD 8670D + 6670 Dual"
+  },
+  {
+    "name": "Radeon HD 8670D + 7000 Dual"
+  },
+  {
+    "name": "Radeon HD 8670D + 7700 Dual"
+  },
+  {
+    "name": "Radeon HD 8670D + 8570 Dual"
+  },
+  {
+    "name": "Radeon HD 8670D + HD 6670 Dual"
+  },
+  {
+    "name": "Radeon HD 8670D + HD 7000 Dual"
+  },
+  {
+    "name": "Radeon HD 8670D + HD 7600 Dual"
+  },
+  {
+    "name": "Radeon HD 8670D + HD 7700 Dual"
+  },
+  {
+    "name": "Radeon HD 8670D + R5 235 Dual"
+  },
+  {
+    "name": "Radeon HD 8670D + R5 330 Dual"
+  },
+  {
+    "name": "Radeon HD 8670D + R7 200 Dual"
+  },
+  {
+    "name": "Radeon HD 8670D + R7 240 Dual"
+  },
+  {
+    "name": "Radeon HD 8670D N HD 8670D + HD 8670D Dual"
+  },
+  {
+    "name": "Radeon HD 8670M"
+  },
+  {
+    "name": "Radeon HD 8690A"
+  },
+  {
+    "name": "Radeon HD 8690M"
+  },
+  {
+    "name": "Radeon HD 8730M"
+  },
+  {
+    "name": "Radeon HD 8750M"
+  },
+  {
+    "name": "Radeon HD 8790M"
+  },
+  {
+    "name": "Radeon HD 8790M / R9 M290X"
+  },
+  {
+    "name": "Radeon HD 8850M"
+  },
+  {
+    "name": "Radeon HD 8850M / R9 M265X"
+  },
+  {
+    "name": "Radeon HD 8870M"
+  },
+  {
+    "name": "Radeon HD 8870M / R9 M270X / M370X"
+  },
+  {
+    "name": "Radeon HD 8950"
+  },
+  {
+    "name": "Radeon HD 8970M"
+  },
+  {
+    "name": "Radeon HD 8990"
+  },
+  {
+    "name": "Radeon HD HD7850M"
+  },
+  {
+    "name": "Radeon HD4650"
+  },
+  {
+    "name": "Radeon HD4670"
+  },
+  {
+    "name": "RADEON HD6370D"
+  },
+  {
+    "name": "RADEON HD6410D"
+  },
+  {
+    "name": "RADEON HD6530D"
+  },
+  {
+    "name": "RADEON HD7450"
+  },
+  {
+    "name": "Radeon HD8530M"
+  },
+  {
+    "name": "Radeon HD8970M"
+  },
+  {
+    "name": "Radeon HDG 4670"
+  },
+  {
+    "name": "RADEON IGP 320"
+  },
+  {
+    "name": "Radeon IGP 320M"
+  },
+  {
+    "name": "Radeon IGP 340M"
+  },
+  {
+    "name": "RADEON IGP 345M"
+  },
+  {
+    "name": "RADEON IGP 34xM"
+  },
+  {
+    "name": "RADEON IGP 350M"
+  },
+  {
+    "name": "Radeon Infoshock 3000"
+  },
+  {
+    "name": "Radeon Instinct MI25 MxGPU"
+  },
+  {
+    "name": "Radeon M535DX"
+  },
+  {
+    "name": "Radeon Pro"
+  },
+  {
+    "name": "Radeon Pro 450"
+  },
+  {
+    "name": "Radeon Pro 455"
+  },
+  {
+    "name": "Radeon Pro 460"
+  },
+  {
+    "name": "Radeon Pro 465"
+  },
+  {
+    "name": "Radeon Pro 5300"
+  },
+  {
+    "name": "Radeon Pro 5300M"
+  },
+  {
+    "name": "Radeon Pro 5500 XT"
+  },
+  {
+    "name": "Radeon Pro 5500M"
+  },
+  {
+    "name": "Radeon Pro 555"
+  },
+  {
+    "name": "Radeon Pro 560"
+  },
+  {
+    "name": "Radeon Pro 5600M"
+  },
+  {
+    "name": "Radeon Pro 560X"
+  },
+  {
+    "name": "Radeon Pro 570"
+  },
+  {
+    "name": "Radeon Pro 5700"
+  },
+  {
+    "name": "Radeon Pro 5700 XT"
+  },
+  {
+    "name": "Radeon Pro 580"
+  },
+  {
+    "name": "Radeon Pro 580X"
+  },
+  {
+    "name": "Radeon Pro Duo"
+  },
+  {
+    "name": "Radeon Pro Ryzen 7 PRO 5850U"
+  },
+  {
+    "name": "Radeon Pro SSG"
+  },
+  {
+    "name": "Radeon Pro V340 MxGPU"
+  },
+  {
+    "name": "Radeon Pro V520 MxGPU"
+  },
+  {
+    "name": "Radeon Pro Vega 16"
+  },
+  {
+    "name": "Radeon Pro Vega 20"
+  },
+  {
+    "name": "Radeon Pro Vega 48"
+  },
+  {
+    "name": "Radeon Pro Vega 56"
+  },
+  {
+    "name": "Radeon Pro Vega 64"
+  },
+  {
+    "name": "Radeon Pro Vega 64X"
+  },
+  {
+    "name": "Radeon Pro Vega II"
+  },
+  {
+    "name": "Radeon Pro VII"
+  },
+  {
+    "name": "Radeon Pro W5500"
+  },
+  {
+    "name": "Radeon Pro W5500M"
+  },
+  {
+    "name": "Radeon Pro W5700"
+  },
+  {
+    "name": "Radeon PRO W6600"
+  },
+  {
+    "name": "Radeon PRO W6800"
+  },
+  {
+    "name": "Radeon Pro WX 2100"
+  },
+  {
+    "name": "Radeon Pro WX 3100"
+  },
+  {
+    "name": "Radeon Pro WX 3200"
+  },
+  {
+    "name": "Radeon Pro WX 4100"
+  },
+  {
+    "name": "Radeon Pro WX 4130"
+  },
+  {
+    "name": "Radeon Pro WX 4150"
+  },
+  {
+    "name": "Radeon Pro WX 4170"
+  },
+  {
+    "name": "Radeon Pro WX 5100"
+  },
+  {
+    "name": "Radeon Pro WX 7100"
+  },
+  {
+    "name": "Radeon Pro WX 7130"
+  },
+  {
+    "name": "Radeon Pro WX 8200"
+  },
+  {
+    "name": "Radeon Pro WX 9100"
+  },
+  {
+    "name": "Radeon Pro WX Vega M GL"
+  },
+  {
+    "name": "Radeon R1E"
+  },
+  {
+    "name": "Radeon R2"
+  },
+  {
+    "name": "Radeon R2E"
+  },
+  {
+    "name": "Radeon R3"
+  },
+  {
+    "name": "Radeon R3E"
+  },
+  {
+    "name": "Radeon R4"
+  },
+  {
+    "name": "Radeon R4E"
+  },
+  {
+    "name": "Radeon R5 220"
+  },
+  {
+    "name": "Radeon R5 230"
+  },
+  {
+    "name": "Radeon R5 235"
+  },
+  {
+    "name": "Radeon R5 235 + HD 7560D Dual"
+  },
+  {
+    "name": "Radeon R5 235 + HD 8570D Dual"
+  },
+  {
+    "name": "Radeon R5 235X"
+  },
+  {
+    "name": "Radeon R5 240"
+  },
+  {
+    "name": "Radeon R5 310"
+  },
+  {
+    "name": "Radeon R5 330"
+  },
+  {
+    "name": "Radeon R5 340"
+  },
+  {
+    "name": "Radeon R5 420"
+  },
+  {
+    "name": "Radeon R5 430"
+  },
+  {
+    "name": "Radeon R5 435"
+  },
+  {
+    "name": "Radeon R5 A10-9600P 4C+6G"
+  },
+  {
+    "name": "Radeon R5 A10-9600P RADEON R5, 10 COMPUTE CORES 4C"
+  },
+  {
+    "name": "Radeon R5 A10-9620P 4C+6G"
+  },
+  {
+    "name": "Radeon R5 A10-9620P RADEON R5, 10 COMPUTE CORES 4C"
+  },
+  {
+    "name": "Radeon R5 A10-9630P 4C+6G"
+  },
+  {
+    "name": "Radeon R5 A10-9630P RADEON R5, 10 COMPUTE CORES 4C"
+  },
+  {
+    "name": "Radeon R5 A240"
+  },
+  {
+    "name": "Radeon R5 A6-7480"
+  },
+  {
+    "name": "Radeon R5 A6-8500P"
+  },
+  {
+    "name": "Radeon R5 A6-9400 RADEON R5, 6 COMPUTE CORES 2C+4G"
+  },
+  {
+    "name": "Radeon R5 A6-9500 2C+6G"
+  },
+  {
+    "name": "Radeon R5 A6-9500 RADEON R5, 8 COMPUTE CORES 2C+6G"
+  },
+  {
+    "name": "Radeon R5 A6-9500E 2C+4G"
+  },
+  {
+    "name": "Radeon R5 M230"
+  },
+  {
+    "name": "Radeon R5 M240"
+  },
+  {
+    "name": "Radeon R5 M255"
+  },
+  {
+    "name": "Radeon R5 M315"
+  },
+  {
+    "name": "Radeon R5 M320"
+  },
+  {
+    "name": "Radeon R5 M330"
+  },
+  {
+    "name": "Radeon R5 M335"
+  },
+  {
+    "name": "Radeon R5 M420"
+  },
+  {
+    "name": "Radeon R5 M430"
+  },
+  {
+    "name": "Radeon R5 M435"
+  },
+  {
+    "name": "Radeon R5 Opteron X3216"
+  },
+  {
+    "name": "Radeon R5 PRO A10-8730B 4C+6G"
+  },
+  {
+    "name": "Radeon R5 PRO A10-8730B R5, 10 COMPUTE CORES 4C+6G"
+  },
+  {
+    "name": "Radeon R5 PRO A6-8500B 2C+4G"
+  },
+  {
+    "name": "Radeon R5 PRO A6-8530B 2C+4G"
+  },
+  {
+    "name": "Radeon R5 PRO A6-8570 2C+6G"
+  },
+  {
+    "name": "Radeon R5 PRO A6-8570 R5, 8 COMPUTE CORES 2C+6G"
+  },
+  {
+    "name": "Radeon R5 PRO A6-8570E 2C+4G"
+  },
+  {
+    "name": "Radeon R5 PRO A6-8570E R5, 6 COMPUTE CORES 2C+4G"
+  },
+  {
+    "name": "Radeon R5 PRO A6-9500 2C+6G"
+  },
+  {
+    "name": "Radeon R5 PRO A6-9500 R5, 8 COMPUTE CORES 2C+6G"
+  },
+  {
+    "name": "Radeon R5 PRO A6-9500B 2C+4G"
+  },
+  {
+    "name": "Radeon R5 PRO A6-9500B R5, 6 COMPUTE CORES 2C+4G"
+  },
+  {
+    "name": "Radeon R5 PRO A6-9500E 2C+4G"
+  },
+  {
+    "name": "Radeon R5 PRO A8-9600B 4C+6G"
+  },
+  {
+    "name": "Radeon R5 PRO A8-9600B R5, 10 COMPUTE CORES 4C+6G"
+  },
+  {
+    "name": "Radeon R5E"
+  },
+  {
+    "name": "Radeon R6"
+  },
+  {
+    "name": "Radeon R6 + R7 M265DX Dual"
+  },
+  {
+    "name": "Radeon R6 A10-8700P"
+  },
+  {
+    "name": "Radeon R6 A10-9600P 4C+6G"
+  },
+  {
+    "name": "Radeon R6 A8-8600P"
+  },
+  {
+    "name": "Radeon R6 M255DX"
+  },
+  {
+    "name": "Radeon R6 Opteron X3418"
+  },
+  {
+    "name": "Radeon R6 PRO A10-8700B 4C+6G"
+  },
+  {
+    "name": "Radeon R6 PRO A10-8700B R6, 10 Compute Cores 4C+6G"
+  },
+  {
+    "name": "Radeon R6 PRO A8-8600B 4C+6G"
+  },
+  {
+    "name": "Radeon R6 PRO A8-8600B R6, 10 Compute Cores 4C+6G"
+  },
+  {
+    "name": "Radeon R7 + HD 7700 Dual"
+  },
+  {
+    "name": "Radeon R7 + R5 330 Dual"
+  },
+  {
+    "name": "Radeon R7 + R5 340 Dual"
+  },
+  {
+    "name": "Radeon R7 + R5 435 Dual A10-9700 RADEON"
+  },
+  {
+    "name": "Radeon R7 + R5 Dual"
+  },
+  {
+    "name": "Radeon R7 + R7 200 Dual"
+  },
+  {
+    "name": "Radeon R7 + R7 240 Dual"
+  },
+  {
+    "name": "Radeon R7 + R7 250 Dual"
+  },
+  {
+    "name": "Radeon R7 + R7 350 Dual"
+  },
+  {
+    "name": "Radeon R7 +8G"
+  },
+  {
+    "name": "Radeon R7 240"
+  },
+  {
+    "name": "Radeon R7 240 + HD 8570D Dual"
+  },
+  {
+    "name": "Radeon R7 240 + HD 8670D Dual"
+  },
+  {
+    "name": "Radeon R7 250"
+  },
+  {
+    "name": "Radeon R7 250X"
+  },
+  {
+    "name": "Radeon R7 260"
+  },
+  {
+    "name": "Radeon R7 260X"
+  },
+  {
+    "name": "Radeon R7 340"
+  },
+  {
+    "name": "Radeon R7 360"
+  },
+  {
+    "name": "Radeon R7 370"
+  },
+  {
+    "name": "Radeon R7 430"
+  },
+  {
+    "name": "Radeon R7 450"
+  },
+  {
+    "name": "Radeon R7 7850A10-7850K"
+  },
+  {
+    "name": "Radeon R7 A10 Extreme Edition"
+  },
+  {
+    "name": "Radeon R7 A10 PRO-7800B"
+  },
+  {
+    "name": "Radeon R7 A10 PRO-7850B"
+  },
+  {
+    "name": "Radeon R7 A10-7700K"
+  },
+  {
+    "name": "Radeon R7 A10-7800"
+  },
+  {
+    "name": "Radeon R7 A10-7850K"
+  },
+  {
+    "name": "Radeon R7 A10-7860K"
+  },
+  {
+    "name": "Radeon R7 A10-7870K"
+  },
+  {
+    "name": "Radeon R7 A10-7890K"
+  },
+  {
+    "name": "Radeon R7 A10-8750"
+  },
+  {
+    "name": "Radeon R7 A10-8850"
+  },
+  {
+    "name": "Radeon R7 A10-9700 RADEON"
+  },
+  {
+    "name": "Radeon R7 A10-9700E RADEON"
+  },
+  {
+    "name": "Radeon R7 A12-9700P RADEON"
+  },
+  {
+    "name": "Radeon R7 A12-9720P RADEON"
+  },
+  {
+    "name": "Radeon R7 A12-9730P RADEON"
+  },
+  {
+    "name": "Radeon R7 A12-9800 RADEON"
+  },
+  {
+    "name": "Radeon R7 A12-9800E RADEON"
+  },
+  {
+    "name": "Radeon R7 A265"
+  },
+  {
+    "name": "Radeon R7 A360"
+  },
+  {
+    "name": "Radeon R7 A365"
+  },
+  {
+    "name": "Radeon R7 A370"
+  },
+  {
+    "name": "Radeon R7 A8 PRO-7600B"
+  },
+  {
+    "name": "Radeon R7 A8-7500"
+  },
+  {
+    "name": "Radeon R7 A8-7500 4C+6G"
+  },
+  {
+    "name": "Radeon R7 A8-7600"
+  },
+  {
+    "name": "Radeon R7 A8-7650K"
+  },
+  {
+    "name": "Radeon R7 A8-7670K"
+  },
+  {
+    "name": "Radeon R7 A8-7680"
+  },
+  {
+    "name": "Radeon R7 A8-8650"
+  },
+  {
+    "name": "Radeon R7 A8-9600 RADEON"
+  },
+  {
+    "name": "Radeon R7 FX-8800P"
+  },
+  {
+    "name": "Radeon R7 FX-9800P RADEON"
+  },
+  {
+    "name": "Radeon R7 FX-9830P RADEON"
+  },
+  {
+    "name": "Radeon R7 G"
+  },
+  {
+    "name": "Radeon R7 M260"
+  },
+  {
+    "name": "Radeon R7 M260DX"
+  },
+  {
+    "name": "Radeon R7 M260X"
+  },
+  {
+    "name": "Radeon R7 M265"
+  },
+  {
+    "name": "Radeon R7 M265DX"
+  },
+  {
+    "name": "Radeon R7 M270"
+  },
+  {
+    "name": "Radeon R7 M270DX"
+  },
+  {
+    "name": "Radeon R7 M340"
+  },
+  {
+    "name": "Radeon R7 M350"
+  },
+  {
+    "name": "Radeon R7 M360"
+  },
+  {
+    "name": "Radeon R7 M365X"
+  },
+  {
+    "name": "Radeon R7 M370"
+  },
+  {
+    "name": "Radeon R7 M380"
+  },
+  {
+    "name": "Radeon R7 M440"
+  },
+  {
+    "name": "Radeon R7 M445"
+  },
+  {
+    "name": "Radeon R7 M460"
+  },
+  {
+    "name": "Radeon R7 M465"
+  },
+  {
+    "name": "Radeon R7 M465X"
+  },
+  {
+    "name": "Radeon R7 Opteron X3421"
+  },
+  {
+    "name": "Radeon R7 PRO A10-8750B"
+  },
+  {
+    "name": "Radeon R7 PRO A10-8770"
+  },
+  {
+    "name": "Radeon R7 PRO A10-8770E"
+  },
+  {
+    "name": "Radeon R7 PRO A10-8850B"
+  },
+  {
+    "name": "Radeon R7 PRO A10-9700"
+  },
+  {
+    "name": "Radeon R7 PRO A10-9700B"
+  },
+  {
+    "name": "Radeon R7 PRO A10-9700E"
+  },
+  {
+    "name": "Radeon R7 PRO A12-8800B"
+  },
+  {
+    "name": "Radeon R7 PRO A12-8830B"
+  },
+  {
+    "name": "Radeon R7 PRO A12-8870"
+  },
+  {
+    "name": "Radeon R7 PRO A12-8870E"
+  },
+  {
+    "name": "Radeon R7 PRO A12-9800"
+  },
+  {
+    "name": "Radeon R7 PRO A12-9800B"
+  },
+  {
+    "name": "Radeon R7 PRO A12-9800E"
+  },
+  {
+    "name": "Radeon R7 PRO A6-9500 2C+6G"
+  },
+  {
+    "name": "Radeon R7 PRO A8-8650B"
+  },
+  {
+    "name": "Radeon R7 PRO A8-8670E"
+  },
+  {
+    "name": "Radeon R7 PRO A8-9600"
+  },
+  {
+    "name": "Radeon R7E"
+  },
+  {
+    "name": "Radeon R8 M365DX"
+  },
+  {
+    "name": "Radeon R8 M445DX"
+  },
+  {
+    "name": "Radeon R8 M535DX"
+  },
+  {
+    "name": "Radeon R9 255"
+  },
+  {
+    "name": "Radeon R9 260"
+  },
+  {
+    "name": "Radeon R9 270"
+  },
+  {
+    "name": "Radeon R9 270 / R7 370"
+  },
+  {
+    "name": "Radeon R9 270X"
+  },
+  {
+    "name": "Radeon R9 280"
+  },
+  {
+    "name": "Radeon R9 280X"
+  },
+  {
+    "name": "Radeon R9 285"
+  },
+  {
+    "name": "Radeon R9 285 / 380"
+  },
+  {
+    "name": "Radeon R9 290"
+  },
+  {
+    "name": "Radeon R9 290 / 390"
+  },
+  {
+    "name": "Radeon R9 290X"
+  },
+  {
+    "name": "Radeon R9 290X / 390X"
+  },
+  {
+    "name": "Radeon R9 295X2"
+  },
+  {
+    "name": "Radeon R9 350"
+  },
+  {
+    "name": "Radeon R9 360"
+  },
+  {
+    "name": "Radeon R9 370"
+  },
+  {
+    "name": "Radeon R9 380"
+  },
+  {
+    "name": "Radeon R9 380X"
+  },
+  {
+    "name": "Radeon R9 390"
+  },
+  {
+    "name": "Radeon R9 390X"
+  },
+  {
+    "name": "Radeon R9 A375"
+  },
+  {
+    "name": "Radeon R9 Fury"
+  },
+  {
+    "name": "Radeon R9 Fury + Fury X"
+  },
+  {
+    "name": "Radeon R9 Fury X"
+  },
+  {
+    "name": "Radeon R9 M265X"
+  },
+  {
+    "name": "Radeon R9 M270X"
+  },
+  {
+    "name": "Radeon R9 M275"
+  },
+  {
+    "name": "Radeon R9 M275X"
+  },
+  {
+    "name": "Radeon R9 M275X / M375"
+  },
+  {
+    "name": "Radeon R9 M280X"
+  },
+  {
+    "name": "Radeon R9 M290X"
+  },
+  {
+    "name": "Radeon R9 M295X"
+  },
+  {
+    "name": "Radeon R9 M360"
+  },
+  {
+    "name": "Radeon R9 M365X"
+  },
+  {
+    "name": "Radeon R9 M370X"
+  },
+  {
+    "name": "Radeon R9 M375"
+  },
+  {
+    "name": "Radeon R9 M375X"
+  },
+  {
+    "name": "Radeon R9 M380"
+  },
+  {
+    "name": "Radeon R9 M385"
+  },
+  {
+    "name": "Radeon R9 M385X"
+  },
+  {
+    "name": "Radeon R9 M390X"
+  },
+  {
+    "name": "Radeon R9 M395"
+  },
+  {
+    "name": "Radeon R9 M395X"
+  },
+  {
+    "name": "Radeon R9 M470"
+  },
+  {
+    "name": "Radeon R9 M470X"
+  },
+  {
+    "name": "Radeon R9 M485X"
+  },
+  {
+    "name": "Radeon RX 460"
+  },
+  {
+    "name": "Radeon RX 470/570"
+  },
+  {
+    "name": "Radeon RX 480"
+  },
+  {
+    "name": "Radeon RX 5300"
+  },
+  {
+    "name": "Radeon RX 5300M"
+  },
+  {
+    "name": "Radeon RX 540"
+  },
+  {
+    "name": "Radeon RX 550"
+  },
+  {
+    "name": "Radeon RX 5500"
+  },
+  {
+    "name": "Radeon RX 5500 XT"
+  },
+  {
+    "name": "Radeon RX 5500M"
+  },
+  {
+    "name": "Radeon RX 550X"
+  },
+  {
+    "name": "Radeon RX 560"
+  },
+  {
+    "name": "Radeon RX 5600"
+  },
+  {
+    "name": "Radeon RX 5600 XT"
+  },
+  {
+    "name": "Radeon RX 5600M"
+  },
+  {
+    "name": "Radeon RX 560X"
+  },
+  {
+    "name": "Radeon RX 5700"
+  },
+  {
+    "name": "Radeon RX 5700 XT"
+  },
+  {
+    "name": "Radeon RX 5700 XT 50th Anniversary"
+  },
+  {
+    "name": "Radeon RX 570X"
+  },
+  {
+    "name": "Radeon RX 580"
+  },
+  {
+    "name": "Radeon RX 580 2048SP"
+  },
+  {
+    "name": "Radeon RX 580X"
+  },
+  {
+    "name": "Radeon RX 590"
+  },
+  {
+    "name": "Radeon RX 640"
+  },
+  {
+    "name": "Radeon RX 6600"
+  },
+  {
+    "name": "Radeon RX 6600 XT"
+  },
+  {
+    "name": "Radeon RX 6600M"
+  },
+  {
+    "name": "Radeon RX 6700 XT"
+  },
+  {
+    "name": "Radeon RX 6700M"
+  },
+  {
+    "name": "Radeon RX 6800"
+  },
+  {
+    "name": "Radeon RX 6800 XT"
+  },
+  {
+    "name": "Radeon RX 6800M"
+  },
+  {
+    "name": "Radeon RX 6900 XT"
+  },
+  {
+    "name": "Radeon RX Vega 10"
+  },
+  {
+    "name": "Radeon RX Vega 11"
+  },
+  {
+    "name": "Radeon RX Vega 11 PRD"
+  },
+  {
+    "name": "Radeon RX Vega 11 Processor"
+  },
+  {
+    "name": "Radeon RX Vega 56"
+  },
+  {
+    "name": "Radeon RX Vega 64"
+  },
+  {
+    "name": "Radeon RX Vega 8"
+  },
+  {
+    "name": "Radeon RX Vega M GH"
+  },
+  {
+    "name": "Radeon RX Vega M GL"
+  },
+  {
+    "name": "Radeon RX Vega11"
+  },
+  {
+    "name": "Radeon RX590 GME"
+  },
+  {
+    "name": "Radeon Ryzen 3 4300G"
+  },
+  {
+    "name": "Radeon Ryzen 3 4300GE"
+  },
+  {
+    "name": "Radeon Ryzen 3 4300U"
+  },
+  {
+    "name": "Radeon Ryzen 3 5300G"
+  },
+  {
+    "name": "Radeon Ryzen 3 5400U"
+  },
+  {
+    "name": "Radeon Ryzen 3 PRO 4200GE"
+  },
+  {
+    "name": "Radeon Ryzen 3 PRO 4350G"
+  },
+  {
+    "name": "Radeon Ryzen 3 PRO 4350GE"
+  },
+  {
+    "name": "Radeon Ryzen 3 PRO 4450U"
+  },
+  {
+    "name": "Radeon Ryzen 5 4500U"
+  },
+  {
+    "name": "Radeon Ryzen 5 4600G"
+  },
+  {
+    "name": "Radeon Ryzen 5 4600H"
+  },
+  {
+    "name": "Radeon Ryzen 5 4600HS"
+  },
+  {
+    "name": "Radeon Ryzen 5 4600U"
+  },
+  {
+    "name": "Radeon Ryzen 5 5600G"
+  },
+  {
+    "name": "Radeon Ryzen 5 5600H"
+  },
+  {
+    "name": "Radeon Ryzen 5 5600U"
+  },
+  {
+    "name": "Radeon Ryzen 5 Microsoft Surface Edition"
+  },
+  {
+    "name": "Radeon Ryzen 5 PRO 4650G"
+  },
+  {
+    "name": "Radeon Ryzen 5 PRO 4650GE"
+  },
+  {
+    "name": "Radeon Ryzen 5 PRO 4650U"
+  },
+  {
+    "name": "Radeon Ryzen 5 PRO 5650G"
+  },
+  {
+    "name": "Radeon Ryzen 5 PRO 5650GE"
+  },
+  {
+    "name": "Radeon Ryzen 5 PRO 5650U"
+  },
+  {
+    "name": "Radeon Ryzen 7 4700G"
+  },
+  {
+    "name": "Radeon Ryzen 7 4700GE"
+  },
+  {
+    "name": "Radeon Ryzen 7 4700U"
+  },
+  {
+    "name": "Radeon Ryzen 7 4800H"
+  },
+  {
+    "name": "Radeon Ryzen 7 4800HS"
+  },
+  {
+    "name": "Radeon Ryzen 7 4800U"
+  },
+  {
+    "name": "Radeon Ryzen 7 5700G"
+  },
+  {
+    "name": "Radeon Ryzen 7 5800H"
+  },
+  {
+    "name": "Radeon Ryzen 7 5800U"
+  },
+  {
+    "name": "Radeon Ryzen 7 Microsoft Surface Edition"
+  },
+  {
+    "name": "Radeon Ryzen 7 PRO 4750G"
+  },
+  {
+    "name": "Radeon Ryzen 7 PRO 4750GE"
+  },
+  {
+    "name": "Radeon Ryzen 7 PRO 4750U"
+  },
+  {
+    "name": "Radeon Ryzen 7 PRO 5750G"
+  },
+  {
+    "name": "Radeon Ryzen 7 PRO 5750GE"
+  },
+  {
+    "name": "Radeon Ryzen 7 PRO 5850U"
+  },
+  {
+    "name": "Radeon Ryzen 9 4900H"
+  },
+  {
+    "name": "Radeon Ryzen 9 4900HS"
+  },
+  {
+    "name": "Radeon Ryzen 9 4900HSS"
+  },
+  {
+    "name": "Radeon Ryzen 9 5900HS"
+  },
+  {
+    "name": "Radeon Ryzen 9 5900HX"
+  },
+  {
+    "name": "Radeon Ryzen Embedded V2718"
+  },
+  {
+    "name": "Radeon Ryzen Embedded V2748"
+  },
+  {
+    "name": "Radeon Sky 500"
+  },
+  {
+    "name": "Radeon TM R9 A360"
+  },
+  {
+    "name": "Radeon VE"
+  },
+  {
+    "name": "Radeon Vega 10"
+  },
+  {
+    "name": "Radeon Vega 10 Mobile"
+  },
+  {
+    "name": "Radeon Vega 11"
+  },
+  {
+    "name": "Radeon Vega 2"
+  },
+  {
+    "name": "Radeon Vega 3"
+  },
+  {
+    "name": "Radeon Vega 3 Mobile"
+  },
+  {
+    "name": "Radeon Vega 6"
+  },
+  {
+    "name": "Radeon Vega 8"
+  },
+  {
+    "name": "Radeon Vega 8 Mobile"
+  },
+  {
+    "name": "Radeon Vega 9"
+  },
+  {
+    "name": "Radeon Vega Frontier Edition"
+  },
+  {
+    "name": "Radeon VII"
+  },
+  {
+    "name": "Radeon X1050"
+  },
+  {
+    "name": "Radeon X1200"
+  },
+  {
+    "name": "Radeon X1250"
+  },
+  {
+    "name": "Radeon X1270"
+  },
+  {
+    "name": "Radeon X1300"
+  },
+  {
+    "name": "Radeon X1300 PRO"
+  },
+  {
+    "name": "Radeon X1550"
+  },
+  {
+    "name": "Radeon X1550 64-bit"
+  },
+  {
+    "name": "Radeon X1600"
+  },
+  {
+    "name": "Radeon X1600 Pro"
+  },
+  {
+    "name": "Radeon X1600 Pro / X1300XT"
+  },
+  {
+    "name": "Radeon X1600 XT"
+  },
+  {
+    "name": "Radeon X1650 GTO"
+  },
+  {
+    "name": "Radeon X1650 Pro"
+  },
+  {
+    "name": "Radeon X1650 SE"
+  },
+  {
+    "name": "Radeon X1700 Targa Edition"
+  },
+  {
+    "name": "Radeon X1800 GTO"
+  },
+  {
+    "name": "Radeon X1900 CrossFire Edition"
+  },
+  {
+    "name": "Radeon X1900 GT"
+  },
+  {
+    "name": "Radeon X1950 CrossFire Edition"
+  },
+  {
+    "name": "Radeon X1950 GT"
+  },
+  {
+    "name": "Radeon X1950 Pro"
+  },
+  {
+    "name": "RADEON X300SE"
+  },
+  {
+    "name": "RADEON X550"
+  },
+  {
+    "name": "RADEON X550XT"
+  },
+  {
+    "name": "Radeon X550XTX"
+  },
+  {
+    "name": "RADEON X600 256MB HyperMemory"
+  },
+  {
+    "name": "RADEON X600XT"
+  },
+  {
+    "name": "RADEON X700"
+  },
+  {
+    "name": "RADEON X700 PRO"
+  },
+  {
+    "name": "RADEON X700 SE"
+  },
+  {
+    "name": "RADEON X800 GT"
+  },
+  {
+    "name": "RADEON X800 GTO"
+  },
+  {
+    "name": "RADEON X800 PRO"
+  },
+  {
+    "name": "RADEON X800 PRO/GTO"
+  },
+  {
+    "name": "RADEON X800 SE"
+  },
+  {
+    "name": "RADEON X800 XL"
+  },
+  {
+    "name": "RADEON X800 XT"
+  },
+  {
+    "name": "RADEON X800 XT Platinum Edition"
+  },
+  {
+    "name": "RADEON X800GT"
+  },
+  {
+    "name": "RADEON X850 PRO"
+  },
+  {
+    "name": "RADEON X850 XT"
+  },
+  {
+    "name": "RADEON X850 XT Platinum Edition"
+  },
+  {
+    "name": "Radeon Xpress 1100"
+  },
+  {
+    "name": "Radeon Xpress 1150"
+  },
+  {
+    "name": "Radeon Xpress 1200"
+  },
+  {
+    "name": "Radeon Xpress 1250"
+  },
+  {
+    "name": "Radeon Xpress 1270"
+  },
+  {
+    "name": "Radeon Xpress 1300"
+  },
+  {
+    "name": "Radeon Xpress 1300M"
+  },
+  {
+    "name": "RADEON XPRESS 200"
+  },
+  {
+    "name": "RADEON XPRESS 200 CROSSFIRE"
+  },
+  {
+    "name": "RADEON XPRESS 200M"
+  },
+  {
+    "name": "Radeon. HD 7730M"
+  },
+  {
+    "name": "RadeonT"
+  },
+  {
+    "name": "RadeonT 540X"
+  },
+  {
+    "name": "RadeonT R5 430"
+  },
+  {
+    "name": "RadeonT R7 450"
+  },
+  {
+    "name": "RadeonT RX 5300"
+  },
+  {
+    "name": "RadeonT RX 5500M"
+  },
+  {
+    "name": "RadeonT RX 560X"
+  },
+  {
+    "name": "RadeonT RX 640"
+  },
+  {
+    "name": "RadeonT Vega 3"
+  },
+  {
+    "name": "Rage 128 Pro"
+  },
+  {
+    "name": "RAGE 128 PRO AGP 4X TMDS"
+  },
+  {
+    "name": "Rage Fury Pro/Xpert 2000 Pro"
+  },
+  {
+    "name": "Red Hat QXL controller"
+  },
+  {
+    "name": "RGH Drivers v3"
+  },
+  {
+    "name": "RIVA TNT2 Model 64/Model 64 Pro"
+  },
+  {
+    "name": "RIVA TNT2/TNT2 Pro"
+  },
+  {
+    "name": "RTX A2000"
+  },
+  {
+    "name": "RTX A2000 Laptop GPU"
+  },
+  {
+    "name": "RTX A3000 Laptop GPU"
+  },
+  {
+    "name": "RTX A4000"
+  },
+  {
+    "name": "RTX A4000 Laptop GPU"
+  },
+  {
+    "name": "RTX A5000"
+  },
+  {
+    "name": "RTX A5000 Laptop GPU"
+  },
+  {
+    "name": "RTX A6000"
+  },
+  {
+    "name": "RV530 PRO"
+  },
+  {
+    "name": "Ryzen 3 4300G with Radeon Graphics"
+  },
+  {
+    "name": "Ryzen 3 4300GE with Radeon Graphics"
+  },
+  {
+    "name": "Ryzen 3 4300U with Radeon Graphics"
+  },
+  {
+    "name": "Ryzen 3 5300G with Radeon Graphics"
+  },
+  {
+    "name": "Ryzen 3 5300GE with Radeon Graphics"
+  },
+  {
+    "name": "Ryzen 3 5400U with Radeon Graphics"
+  },
+  {
+    "name": "Ryzen 3 PRO 4200G with Radeon Graphics"
+  },
+  {
+    "name": "Ryzen 3 PRO 4200GE with Radeon Graphics"
+  },
+  {
+    "name": "Ryzen 3 PRO 4300U with Radeon Graphics"
+  },
+  {
+    "name": "Ryzen 3 Pro 4350G with Radeon Graphics"
+  },
+  {
+    "name": "Ryzen 3 PRO 4350GE with Radeon Graphics"
+  },
+  {
+    "name": "Ryzen 3 PRO 4450U with Radeon Graphics"
+  },
+  {
+    "name": "Ryzen 3 PRO 5350G with Radeon Graphics"
+  },
+  {
+    "name": "Ryzen 3 PRO 5350GE with Radeon Graphics"
+  },
+  {
+    "name": "Ryzen 3 PRO 5450U with Radeon Graphics"
+  },
+  {
+    "name": "Ryzen 5 2500U with Radeon Vega"
+  },
+  {
+    "name": "Ryzen 5 4500U with Radeon Graphics"
+  },
+  {
+    "name": "Ryzen 5 4600G with Radeon Graphics"
+  },
+  {
+    "name": "Ryzen 5 4600H with Radeon Graphics"
+  },
+  {
+    "name": "Ryzen 5 4600U with Radeon Graphics"
+  },
+  {
+    "name": "Ryzen 5 5600G with Radeon Graphics"
+  },
+  {
+    "name": "Ryzen 5 5600GE with Radeon Graphics"
+  },
+  {
+    "name": "Ryzen 5 5600H with Radeon Graphics"
+  },
+  {
+    "name": "Ryzen 5 5600U with Radeon Graphics"
+  },
+  {
+    "name": "Ryzen 5 PRO 4400G with Radeon Graphics"
+  },
+  {
+    "name": "Ryzen 5 PRO 4400GE with Radeon Graphics"
+  },
+  {
+    "name": "Ryzen 5 PRO 4500U with Radeon Graphics"
+  },
+  {
+    "name": "Ryzen 5 Pro 4650G with Radeon Graphics"
+  },
+  {
+    "name": "Ryzen 5 PRO 4650GE with Radeon Graphics"
+  },
+  {
+    "name": "Ryzen 5 PRO 4650U with Radeon Graphics"
+  },
+  {
+    "name": "Ryzen 5 PRO 5650G with Radeon Graphics"
+  },
+  {
+    "name": "Ryzen 5 PRO 5650GE with Radeon Graphics"
+  },
+  {
+    "name": "Ryzen 5 PRO 5650U with Radeon Graphics"
+  },
+  {
+    "name": "Ryzen 7 2700U with Radeon Vega"
+  },
+  {
+    "name": "Ryzen 7 4700G with Radeon Graphics"
+  },
+  {
+    "name": "Ryzen 7 4700GE with Radeon Graphics"
+  },
+  {
+    "name": "Ryzen 7 4700U with Radeon Graphics"
+  },
+  {
+    "name": "Ryzen 7 4800H with Radeon Graphics"
+  },
+  {
+    "name": "Ryzen 7 4800HS with Radeon Graphics"
+  },
+  {
+    "name": "Ryzen 7 4800U with Radeon Graphics"
+  },
+  {
+    "name": "Ryzen 7 5700G with Radeon Graphics"
+  },
+  {
+    "name": "Ryzen 7 5700GE with Radeon Graphics"
+  },
+  {
+    "name": "Ryzen 7 5800H with Radeon Graphics"
+  },
+  {
+    "name": "Ryzen 7 5800HS with Radeon Graphics"
+  },
+  {
+    "name": "Ryzen 7 5800U with Radeon Graphics"
+  },
+  {
+    "name": "Ryzen 7 Extreme Edition"
+  },
+  {
+    "name": "Ryzen 7 PRO 4700G with Radeon Graphics"
+  },
+  {
+    "name": "Ryzen 7 Pro 4750G with Radeon Graphics"
+  },
+  {
+    "name": "Ryzen 7 PRO 4750GE with Radeon Graphics"
+  },
+  {
+    "name": "Ryzen 7 PRO 4750U with Radeon Graphics"
+  },
+  {
+    "name": "Ryzen 7 PRO 5750G with Radeon Graphics"
+  },
+  {
+    "name": "Ryzen 7 PRO 5750GE with Radeon Graphics"
+  },
+  {
+    "name": "Ryzen 7 PRO 5850U with Radeon Graphics"
+  },
+  {
+    "name": "Ryzen 9 4900H with Radeon Graphics"
+  },
+  {
+    "name": "Ryzen 9 5900HS with Radeon Graphics"
+  },
+  {
+    "name": "Ryzen 9 5900HX with Radeon Graphics"
+  },
+  {
+    "name": "Ryzen 9 5980HS with Radeon Graphics"
+  },
+  {
+    "name": "S3 5400EW"
+  },
+  {
+    "name": "S3 Chrome 430 ULP"
+  },
+  {
+    "name": "S3 Chrome S25 DDR2"
+  },
+  {
+    "name": "S3 Inc. Savage4"
+  },
+  {
+    "name": "S3 ProSavageDDR"
+  },
+  {
+    "name": "S3 SuperSavage/IXC 1014"
+  },
+  {
+    "name": "SAPPHIRE RADEON 9000 ATLANTIS PRO"
+  },
+  {
+    "name": "SAPPHIRE RADEON 9600 ATLANTIS"
+  },
+  {
+    "name": "SAPPHIRE Radeon X1550"
+  },
+  {
+    "name": "Sapphire RADEON X800 GT"
+  },
+  {
+    "name": "Seria Mobility Radeon HD 3400"
+  },
+  {
+    "name": "Seria Radeon HD 7700"
+  },
+  {
+    "name": "SUMO 9640"
+  },
+  {
+    "name": "SUMO 9644"
+  },
+  {
+    "name": "SUMO 964A"
+  },
+  {
+    "name": "T1000"
+  },
+  {
+    "name": "T1200 Laptop GPU"
+  },
+  {
+    "name": "T400"
+  },
+  {
+    "name": "T500"
+  },
+  {
+    "name": "T600"
+  },
+  {
+    "name": "T600 Laptop GPU"
+  },
+  {
+    "name": "TENSOR 1.0 Driver Intel HD 630"
+  },
+  {
+    "name": "Tesla C2050"
+  },
+  {
+    "name": "Tesla C2050 / C2070"
+  },
+  {
+    "name": "Tesla C2070"
+  },
+  {
+    "name": "Tesla C2075"
+  },
+  {
+    "name": "Tesla K40m"
+  },
+  {
+    "name": "Tesla M10"
+  },
+  {
+    "name": "Tesla M2070-Q"
+  },
+  {
+    "name": "Tesla M40"
+  },
+  {
+    "name": "Tesla M40 24GB"
+  },
+  {
+    "name": "Tesla M6"
+  },
+  {
+    "name": "Tesla M60"
+  },
+  {
+    "name": "Tesla P100-PCIE-16GB"
+  },
+  {
+    "name": "Tesla T10"
+  },
+  {
+    "name": "Tesla T4"
+  },
+  {
+    "name": "Tesla V100-SXM2-16GB"
+  },
+  {
+    "name": "TITAN RTX"
+  },
+  {
+    "name": "TITAN V"
+  },
+  {
+    "name": "TITAN V CEO Edition"
+  },
+  {
+    "name": "TITAN Xp"
+  },
+  {
+    "name": "TITAN Xp COLLECTORS EDITION"
+  },
+  {
+    "name": "TRINITY DEVASTATOR MOBILE"
+  },
+  {
+    "name": "TRINITY SCRAPPER MOBILE"
+  },
+  {
+    "name": "V9560XT V62.11"
+  },
+  {
+    "name": "Vanta/Vanta LT"
+  },
+  {
+    "name": "VIA Chrome9 HC IGP"
+  },
+  {
+    "name": "VIA Chrome9 HC IGP Family"
+  },
+  {
+    "name": "VIA Chrome9 HC IGP Family WDDM"
+  },
+  {
+    "name": "VIA Chrome9 HC IGP Prerelease WDDM 1.1"
+  },
+  {
+    "name": "VIA Chrome9 HC IGP WDDM"
+  },
+  {
+    "name": "VIA Chrome9 HC IGP WDDM 1.1"
+  },
+  {
+    "name": "VIA Chrome9 HC3 IGP"
+  },
+  {
+    "name": "VIA Chrome9 HCM IGP"
+  },
+  {
+    "name": "VIA Chrome9 HD IGP"
+  },
+  {
+    "name": "VIA/S3G C-645/640 GPU"
+  },
+  {
+    "name": "VIA/S3G Chrome 645/640 GPU"
+  },
+  {
+    "name": "VIA/S3G DeltaChrome IGP"
+  },
+  {
+    "name": "VIA/S3G KM400/KN400"
+  },
+  {
+    "name": "VIA/S3G UniChrome IGP"
+  },
+  {
+    "name": "VIA/S3G UniChrome Pro IGP"
+  },
+  {
+    "name": "VIA/S3G UniChromeII"
+  },
+  {
+    "name": "VisionTek Radeon 7000"
+  },
+  {
+    "name": "WinFast A250 LE"
+  },
+  {
+    "name": "WinFast GT 610"
+  },
+  {
+    "name": "Xabre"
+  },
+  {
+    "name": "XFX Radeon HD 4650 AGP"
+  },
+  {
+    "name": "XGI Volari Family v1.13.23.D_V"
+  },
+  {
+    "name": "ZX Chrome 645/640 GPU"
+  },
+  {
+    "name": "zxcvIntel HD 620"
+  }
+]

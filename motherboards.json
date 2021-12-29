@@ -1,0 +1,8767 @@
+[
+  {
+    "name": "Gigabyte GA-A320M-S2H",
+    "socket": "AM4",
+    "chipset": "AMD A320"
+  },
+  {
+    "name": "Asus Prime A320M-K",
+    "socket": "AM4",
+    "chipset": "AMD A320"
+  },
+  {
+    "name": "Asus EX-A320M-Gaming",
+    "socket": "AM4",
+    "chipset": "AMD A320"
+  },
+  {
+    "name": "Asrock B450M Steel Legend",
+    "socket": "AM4",
+    "chipset": "AMD B450"
+  },
+  {
+    "name": "Asrock A320M-HDV",
+    "socket": "AM4",
+    "chipset": "AMD A320"
+  },
+  {
+    "name": "Gigabyte Z390 UD",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z390"
+  },
+  {
+    "name": "Gigabyte Z370P D3",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z370"
+  },
+  {
+    "name": "Gigabyte B450 Aorus Elite",
+    "socket": "AM4",
+    "chipset": "AMD B450"
+  },
+  {
+    "name": "Gigabyte GA-H110-D3A",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "Colorful C.A320M-K Pro V14",
+    "socket": "AM4",
+    "chipset": "AMD A320"
+  },
+  {
+    "name": "MSI Z390-A Pro",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z390"
+  },
+  {
+    "name": "Asus Z170 Pro Gaming",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "Gigabyte GA-B250M-D3H",
+    "socket": "LGA 1151",
+    "chipset": "Intel B250"
+  },
+  {
+    "name": "Asus Prime Z390-A",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z390"
+  },
+  {
+    "name": "Gigabyte GA-H110M-DS2",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "Asrock Z370 Pro4",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z370"
+  },
+  {
+    "name": "Gigabyte Z390 Gaming X",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z390"
+  },
+  {
+    "name": "Asrock B450 Steel Legend",
+    "socket": "AM4",
+    "chipset": "AMD B450"
+  },
+  {
+    "name": "Gigabyte Z370 HD3",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z370"
+  },
+  {
+    "name": "MSI A320M Pro-VD/S",
+    "socket": "AM4",
+    "chipset": "AMD A320"
+  },
+  {
+    "name": "Asrock B250M Pro4",
+    "socket": "LGA 1151",
+    "chipset": "Intel B250"
+  },
+  {
+    "name": "Asus Prime Z370-P",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z370"
+  },
+  {
+    "name": "Asus ROG Strix X570-E Gaming",
+    "socket": "AM4",
+    "chipset": "AMD X570"
+  },
+  {
+    "name": "Gigabyte B450M Gaming",
+    "socket": "AM4",
+    "chipset": "AMD B450"
+  },
+  {
+    "name": "Gigabyte GA-B150M-D3H",
+    "socket": "LGA 1151",
+    "chipset": "Intel B150"
+  },
+  {
+    "name": "Gigabyte GA-B250M-DS3H",
+    "socket": "LGA 1151",
+    "chipset": "Intel B250"
+  },
+  {
+    "name": "Asrock A320M-HDV R4.0",
+    "socket": "AM4",
+    "chipset": "AMD A320"
+  },
+  {
+    "name": "Maxsun MS-B350FX Gaming Pro",
+    "socket": "AM4",
+    "chipset": "AMD B350"
+  },
+  {
+    "name": "Gigabyte Z370M D3H",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z370"
+  },
+  {
+    "name": "Asus ROG Maximus X Hero",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z370"
+  },
+  {
+    "name": "Gigabyte X570 Aorus Elite",
+    "socket": "AM4",
+    "chipset": "AMD X570"
+  },
+  {
+    "name": "Gigabyte Z370 Aorus Gaming 5",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z370"
+  },
+  {
+    "name": "Asus ROG Maximus VII Hero",
+    "socket": "LGA 1150",
+    "chipset": "Intel Z97"
+  },
+  {
+    "name": "Asus ROG Crosshair V Formula-Z",
+    "socket": "AM3+",
+    "chipset": "AMD 990FX"
+  },
+  {
+    "name": "MSI B450M Pro-M2",
+    "socket": "AM4",
+    "chipset": "AMD B450"
+  },
+  {
+    "name": "Asus ROG Rampage II Extreme",
+    "socket": "LGA 1366",
+    "chipset": "Intel X58"
+  },
+  {
+    "name": "MSI B450M Pro-VDH",
+    "socket": "AM4",
+    "chipset": "AMD B450"
+  },
+  {
+    "name": "Asrock H110M-HDV R3.0",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "MSI MPG X570 Gaming Edge Wifi",
+    "socket": "AM4",
+    "chipset": "AMD X570"
+  },
+  {
+    "name": "Gigabyte GA-H110M-S2",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "Asrock H110M-DVS R3.0",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "MSI B350M Gaming Pro",
+    "socket": "AM4",
+    "chipset": "AMD B350"
+  },
+  {
+    "name": "Asus Z170-A",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "Gigabyte GA-A320M-DS2",
+    "socket": "AM4",
+    "chipset": "AMD A320"
+  },
+  {
+    "name": "Asrock B450M-HDV R4.0",
+    "socket": "AM4",
+    "chipset": "AMD B450"
+  },
+  {
+    "name": "Gigabyte GA-B250M-D2V",
+    "socket": "LGA 1151",
+    "chipset": "Intel B250"
+  },
+  {
+    "name": "MSI B350M Bazooka",
+    "socket": "AM4",
+    "chipset": "AMD B350"
+  },
+  {
+    "name": "Gigabyte Z390 Aorus Elite",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z390"
+  },
+  {
+    "name": "Biostar TB250-BTC Pro",
+    "socket": "LGA 1151",
+    "chipset": "Intel B250"
+  },
+  {
+    "name": "MSI B450 Gaming Pro Carbon AC",
+    "socket": "AM4",
+    "chipset": "AMD B450"
+  },
+  {
+    "name": "Gigabyte Z390 Aorus Pro Wifi",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z390"
+  },
+  {
+    "name": "MSI H110M PRO-VH Plus",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "Gigabyte GA-AX370M-DS3H",
+    "socket": "AM4",
+    "chipset": "AMD X370"
+  },
+  {
+    "name": "Gigabyte B450 Aorus Pro WiFi",
+    "socket": "AM4",
+    "chipset": "AMD B450"
+  },
+  {
+    "name": "Asus Prime Z390-P",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z390"
+  },
+  {
+    "name": "Gigabyte Z390 Aorus Ultra",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z390"
+  },
+  {
+    "name": "Asus Prime B350M-A",
+    "socket": "AM4",
+    "chipset": "AMD B350"
+  },
+  {
+    "name": "Gigabyte GA-H270-HD3",
+    "socket": "LGA 1151",
+    "chipset": "Intel H270"
+  },
+  {
+    "name": "MSI B250M Bazooka",
+    "socket": "LGA 1151",
+    "chipset": "Intel B250"
+  },
+  {
+    "name": "Asus ROG Strix B250F Gaming",
+    "socket": "LGA 1151",
+    "chipset": "Intel B250"
+  },
+  {
+    "name": "Gigabyte G1.Sniper B7",
+    "socket": "LGA 1151",
+    "chipset": "Intel B150"
+  },
+  {
+    "name": "MSI B350 PC Mate",
+    "socket": "AM4",
+    "chipset": "AMD B350"
+  },
+  {
+    "name": "Asrock B250M-HDV",
+    "socket": "LGA 1151",
+    "chipset": "Intel B250"
+  },
+  {
+    "name": "MSI B250M Pro-VDH",
+    "socket": "LGA 1151",
+    "chipset": "Intel B250"
+  },
+  {
+    "name": "Gigabyte B450M DS3H",
+    "socket": "AM4",
+    "chipset": "AMD B450"
+  },
+  {
+    "name": "MSI Z370 Gaming Plus",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z370"
+  },
+  {
+    "name": "ECS H110H4-M19",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "Asrock H110 Pro BTC+",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "Asus ROG Strix B350-F Gaming",
+    "socket": "AM4",
+    "chipset": "AMD B350"
+  },
+  {
+    "name": "Asrock B550M Pro4",
+    "socket": "AM4",
+    "chipset": "AMD B550"
+  },
+  {
+    "name": "MSI Z370-A Pro",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z370"
+  },
+  {
+    "name": "Gigabyte X570I Aorus Pro Wifi",
+    "socket": "AM4",
+    "chipset": "AMD X570"
+  },
+  {
+    "name": "Gigabyte GA-Z170-HD3P",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "Gigabyte GA-Gaming B8",
+    "socket": "LGA 1151",
+    "chipset": "Intel B250"
+  },
+  {
+    "name": "Gigabyte GA-H170-Gaming 3 Rev. 1.1",
+    "socket": "LGA 1151",
+    "chipset": "Intel H170"
+  },
+  {
+    "name": "Gigabyte H310M S2",
+    "socket": "LGA 1151",
+    "chipset": "Intel H310"
+  },
+  {
+    "name": "Asrock Z370 Extreme4",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z370"
+  },
+  {
+    "name": "Asrock Fatal1ty B250 Gaming K4",
+    "socket": "LGA 1151",
+    "chipset": "Intel B250"
+  },
+  {
+    "name": "Asus ROG Strix Z270F Gaming",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z270"
+  },
+  {
+    "name": "Asus ROG Strix Z270E Gaming",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z270"
+  },
+  {
+    "name": "Asrock B450 Pro4",
+    "socket": "AM4",
+    "chipset": "AMD B450"
+  },
+  {
+    "name": "Gigabyte GA-AB350M-DS3H",
+    "socket": "AM4",
+    "chipset": "AMD B350"
+  },
+  {
+    "name": "Asrock B450M-HDV",
+    "socket": "AM4",
+    "chipset": "AMD B450"
+  },
+  {
+    "name": "MSI MPG X570 Gaming Plus",
+    "socket": "AM4",
+    "chipset": "AMD X570"
+  },
+  {
+    "name": "Gigabyte GA-X58A-UD3R Rev. 2.0",
+    "socket": "LGA 1366",
+    "chipset": "Intel X58"
+  },
+  {
+    "name": "Gigabyte GA-Z270-HD3",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z270"
+  },
+  {
+    "name": "Gigabyte GA-AB350N-Gaming WIFI",
+    "socket": "AM4",
+    "chipset": "AMD B350"
+  },
+  {
+    "name": "Asrock AB350M Pro4",
+    "socket": "AM4",
+    "chipset": "AMD B350"
+  },
+  {
+    "name": "Asrock AB350 Pro4",
+    "socket": "AM4",
+    "chipset": "AMD B350"
+  },
+  {
+    "name": "Asus Prime Z270-P",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z270"
+  },
+  {
+    "name": "Gigabyte GA-B250M-HD3",
+    "socket": "LGA 1151",
+    "chipset": "Intel B250"
+  },
+  {
+    "name": "Asrock Z390 Phantom Gaming 4",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z390"
+  },
+  {
+    "name": "Gigabyte GA-970A-DS3P Rev. 2.0",
+    "socket": "AM3+",
+    "chipset": "AMD 970"
+  },
+  {
+    "name": "Biostar H110MHC",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "Gigabyte GA-AB350-Gaming 3",
+    "socket": "AM4",
+    "chipset": "AMD B350"
+  },
+  {
+    "name": "Asus ROG Strix B250H Gaming",
+    "socket": "LGA 1151",
+    "chipset": "Intel B250"
+  },
+  {
+    "name": "Asus ROG Rampage IV Extreme",
+    "socket": "LGA 2011",
+    "chipset": "Intel X79"
+  },
+  {
+    "name": "Gigabyte GA-A320M-HD2",
+    "socket": "AM4",
+    "chipset": "AMD A320"
+  },
+  {
+    "name": "Gigabyte GA-B250-HD3",
+    "socket": "LGA 1151",
+    "chipset": "Intel B250"
+  },
+  {
+    "name": "Asrock H110M-HDS",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "Biostar A320MH",
+    "socket": "AM4",
+    "chipset": "AMD A320"
+  },
+  {
+    "name": "MSI B150M Night Elf",
+    "socket": "LGA 1151",
+    "chipset": "Intel B150"
+  },
+  {
+    "name": "Gigabyte GA-B150M-DS3H",
+    "socket": "LGA 1151",
+    "chipset": "Intel B150"
+  },
+  {
+    "name": "Asus ROG Strix X570-F Gaming",
+    "socket": "AM4",
+    "chipset": "AMD X570"
+  },
+  {
+    "name": "MSI MPG X570 Gaming Pro Carbon Wifi",
+    "socket": "AM4",
+    "chipset": "AMD X570"
+  },
+  {
+    "name": "Gigabyte Z370 Aorus Gaming 3",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z370"
+  },
+  {
+    "name": "MSI H110M PRO-VD",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "MSI Z270-A Pro",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z270"
+  },
+  {
+    "name": "Asrock Fatal1ty 990FX Killer",
+    "socket": "AM3+",
+    "chipset": "AMD 990FX"
+  },
+  {
+    "name": "Gigabyte GA-Z170XP-SLI",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "Asus Z170M-Plus",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "Asrock AB350M-HDV",
+    "socket": "AM4",
+    "chipset": "AMD B350"
+  },
+  {
+    "name": "MSI B450 Tomahawk",
+    "socket": "AM4",
+    "chipset": "AMD B450"
+  },
+  {
+    "name": "Asrock B250 Pro4",
+    "socket": "LGA 1151",
+    "chipset": "Intel B250"
+  },
+  {
+    "name": "MSI B250M Pro-VD",
+    "socket": "LGA 1151",
+    "chipset": "Intel B250"
+  },
+  {
+    "name": "MSI B350M Pro-VDH",
+    "socket": "AM4",
+    "chipset": "AMD B350"
+  },
+  {
+    "name": "Maxsun MS-B250MD4 Turbo",
+    "socket": "LGA 1151",
+    "chipset": "Intel B250"
+  },
+  {
+    "name": "Asus ROG Maximus VII Formula",
+    "socket": "LGA 1150",
+    "chipset": "Intel Z97"
+  },
+  {
+    "name": "Asus Prime Z370-A",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z370"
+  },
+  {
+    "name": "Asus B150M Pro Gaming",
+    "socket": "LGA 1151",
+    "chipset": "Intel B150"
+  },
+  {
+    "name": "Gigabyte B360M Gaming HD",
+    "socket": "LGA 1151",
+    "chipset": "Intel B360"
+  },
+  {
+    "name": "Asus Z170-Deluxe",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "Gigabyte GA-H270-Gaming 3",
+    "socket": "LGA 1151",
+    "chipset": "Intel H270"
+  },
+  {
+    "name": "Gigabyte GA-B150M-HD3",
+    "socket": "LGA 1151",
+    "chipset": "Intel B150"
+  },
+  {
+    "name": "Asus X99-Deluxe",
+    "socket": "LGA 2011-3",
+    "chipset": "Intel X99"
+  },
+  {
+    "name": "Asus Prime Z270-AR",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z270"
+  },
+  {
+    "name": "MSI MPG Z390 Gaming Edge AC",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z390"
+  },
+  {
+    "name": "Asus ROG Maximus II Formula",
+    "socket": "LGA 775",
+    "chipset": "Intel P45"
+  },
+  {
+    "name": "Biostar H110MHV3",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "Asrock Z270 Pro4",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z270"
+  },
+  {
+    "name": "Biostar Hi-Fi A70U3P Rev. 1.0",
+    "socket": "FM2+",
+    "chipset": "AMD A70M"
+  },
+  {
+    "name": "MSI Z370 PC Pro",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z370"
+  },
+  {
+    "name": "Gigabyte B360N Wifi",
+    "socket": "LGA 1151",
+    "chipset": "Intel B360"
+  },
+  {
+    "name": "Biostar A320MH PRO",
+    "socket": "AM4",
+    "chipset": "AMD A320"
+  },
+  {
+    "name": "Asus Prime X370-Pro",
+    "socket": "AM4",
+    "chipset": "AMD X370"
+  },
+  {
+    "name": "Asus Sabertooth 990FX R2.0",
+    "socket": "AM3+",
+    "chipset": "AMD 990FX"
+  },
+  {
+    "name": "Asus ROG Strix Z390-H Gaming",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z390"
+  },
+  {
+    "name": "Gigabyte GA-Z270-Gaming K3",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z270"
+  },
+  {
+    "name": "MSI Z170A Gaming M3",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "Gigabyte B550I Aorus Pro AX",
+    "socket": "AM4",
+    "chipset": "AMD B550"
+  },
+  {
+    "name": "Asus ROG Maximus VII Ranger",
+    "socket": "LGA 1150",
+    "chipset": "Intel Z97"
+  },
+  {
+    "name": "Asus ROG Maximus V Gene",
+    "socket": "LGA 1155",
+    "chipset": "Intel Z77"
+  },
+  {
+    "name": "Gigabyte GA-H110M-H",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "MSI B450M Bazooka Plus",
+    "socket": "AM4",
+    "chipset": "AMD B450"
+  },
+  {
+    "name": "Biostar TB250-BTC",
+    "socket": "LGA 1151",
+    "chipset": "Intel B250"
+  },
+  {
+    "name": "Gigabyte GA-AX370-Gaming K7",
+    "socket": "AM4",
+    "chipset": "AMD X370"
+  },
+  {
+    "name": "Gigabyte Z370 Aorus Ultra Gaming",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z370"
+  },
+  {
+    "name": "Asus ROG Maximus VI Extreme",
+    "socket": "LGA 1150",
+    "chipset": "Intel Z87"
+  },
+  {
+    "name": "Asrock H110M-DS/Hyper",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "MSI MPG Z390 Gaming Pro Carbon AC",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z390"
+  },
+  {
+    "name": "Asrock A320M-DVS R4.0",
+    "socket": "AM4",
+    "chipset": "AMD A320"
+  },
+  {
+    "name": "MSI B350 Tomahawk",
+    "socket": "AM4",
+    "chipset": "AMD B350"
+  },
+  {
+    "name": "Gigabyte GA-H110M-S2PH",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "Gigabyte Z370 Aorus Gaming 7",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z370"
+  },
+  {
+    "name": "Asrock A320M-DGS",
+    "socket": "AM4",
+    "chipset": "AMD A320"
+  },
+  {
+    "name": "Gigabyte X299 UD4 Pro",
+    "socket": "LGA 2066",
+    "chipset": "Intel X299"
+  },
+  {
+    "name": "ECS H110M4-C43",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "Gigabyte GA-Z170-D3H",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "Asrock B550M Steel Legend",
+    "socket": "AM4",
+    "chipset": "AMD B550"
+  },
+  {
+    "name": "Gigabyte GA-AB350M-HD3",
+    "socket": "AM4",
+    "chipset": "AMD B350"
+  },
+  {
+    "name": "Fujitsu D3400-B2",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "Asus ROG Maximus III Gene",
+    "socket": "LGA 1156",
+    "chipset": "Intel P55"
+  },
+  {
+    "name": "Maxsun MS-H110M",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "Gigabyte Z370 Aorus Gaming Wifi",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z370"
+  },
+  {
+    "name": "Asus Prime B350M-K",
+    "socket": "AM4",
+    "chipset": "AMD B350"
+  },
+  {
+    "name": "Maxsun MS-H110D4L M.2",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "Asrock Z370M Pro4",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z370"
+  },
+  {
+    "name": "Biostar H110MH Pro D4",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "Asrock Z170 Pro4S",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "Gigabyte GA-B150-HD3",
+    "socket": "LGA 1151",
+    "chipset": "Intel B150"
+  },
+  {
+    "name": "MSI B350 Gaming Plus",
+    "socket": "AM4",
+    "chipset": "AMD B350"
+  },
+  {
+    "name": "Asus Sabertooth Z170 Mark 1",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "Asrock Fatal1ty X370 Gaming X",
+    "socket": "AM4",
+    "chipset": "AMD X370"
+  },
+  {
+    "name": "Asus ROG Strix Z270H Gaming",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z270"
+  },
+  {
+    "name": "MSI Z270 PC Mate",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z270"
+  },
+  {
+    "name": "MSI X370 Gaming Plus",
+    "socket": "AM4",
+    "chipset": "AMD X370"
+  },
+  {
+    "name": "Gigabyte GA-B250-FinTech",
+    "socket": "LGA 1151",
+    "chipset": "Intel B250"
+  },
+  {
+    "name": "Asrock X570 Taichi",
+    "socket": "AM4",
+    "chipset": "AMD X570"
+  },
+  {
+    "name": "Gigabyte GA-Z270X-Ultra Gaming",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z270"
+  },
+  {
+    "name": "MSI Z270 Gaming Plus",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z270"
+  },
+  {
+    "name": "Asrock Fatal1ty H270 Performance",
+    "socket": "LGA 1151",
+    "chipset": "Intel H270"
+  },
+  {
+    "name": "Gigabyte Z370XP SLI",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z370"
+  },
+  {
+    "name": "Asus ROG Crosshair IV Formula",
+    "socket": "AM3",
+    "chipset": "AMD 890FX"
+  },
+  {
+    "name": "Gigabyte B550 Aorus Master",
+    "socket": "AM4",
+    "chipset": "AMD B550"
+  },
+  {
+    "name": "Gigabyte GA-H110MSTX-HD3",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "Asus ROG Maximus IV Extreme-Z",
+    "socket": "LGA 1155",
+    "chipset": "Intel Z68"
+  },
+  {
+    "name": "Asus ROG Maximus VII Gene",
+    "socket": "LGA 1150",
+    "chipset": "Intel Z97"
+  },
+  {
+    "name": "Asrock 970M Pro3",
+    "socket": "AM3+",
+    "chipset": "AMD 970"
+  },
+  {
+    "name": "Asus EX-H110M-V",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "MSI B350M Mortar",
+    "socket": "AM4",
+    "chipset": "AMD B350"
+  },
+  {
+    "name": "Asus Z170-P",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "Biostar A70MGP-LSP",
+    "socket": "FM2+",
+    "chipset": "AMD A70M"
+  },
+  {
+    "name": "Asus ROG Strix Z370-E Gaming",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z370"
+  },
+  {
+    "name": "Gigabyte GA-A320MA-M.2",
+    "socket": "AM4",
+    "chipset": "AMD A320"
+  },
+  {
+    "name": "Gigabyte GA-Z270-HD3P",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z270"
+  },
+  {
+    "name": "Asus ROG Zenith Extreme",
+    "socket": "TR4",
+    "chipset": "AMD X399"
+  },
+  {
+    "name": "Colorful Battle Axe C.A320M-D Plus V14",
+    "socket": "AM4",
+    "chipset": "AMD A320"
+  },
+  {
+    "name": "Gigabyte GA-H170-D3H",
+    "socket": "LGA 1151",
+    "chipset": "Intel H170"
+  },
+  {
+    "name": "Asus ROG Maximus X Code",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z370"
+  },
+  {
+    "name": "Gigabyte GA-Z270-Gaming 3",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z270"
+  },
+  {
+    "name": "Asrock B365M Pro4",
+    "socket": "LGA 1151",
+    "chipset": "Intel B365"
+  },
+  {
+    "name": "Gigabyte GA-AX370-Gaming 5",
+    "socket": "AM4",
+    "chipset": "AMD X370"
+  },
+  {
+    "name": "Gigabyte GA-970A-D3 Rev. 3.0",
+    "socket": "AM3+",
+    "chipset": "AMD 970"
+  },
+  {
+    "name": "Asrock H110M-DGS R3.0",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "MSI A320M Grenade",
+    "socket": "AM4",
+    "chipset": "AMD A320"
+  },
+  {
+    "name": "Asus B150M-A D3",
+    "socket": "LGA 1151",
+    "chipset": "Intel B150"
+  },
+  {
+    "name": "Asrock Fatal1ty Z270 Gaming K6",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z270"
+  },
+  {
+    "name": "MSI A320M Gaming Pro",
+    "socket": "AM4",
+    "chipset": "AMD A320"
+  },
+  {
+    "name": "Gigabyte Z390 M Gaming",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z390"
+  },
+  {
+    "name": "MSI B250M Pro-VH",
+    "socket": "LGA 1151",
+    "chipset": "Intel B250"
+  },
+  {
+    "name": "Asrock Z97E-ITX/ac",
+    "socket": "LGA 1150",
+    "chipset": "Intel Z97"
+  },
+  {
+    "name": "MSI B250 PC Mate",
+    "socket": "LGA 1151",
+    "chipset": "Intel B250"
+  },
+  {
+    "name": "Gigabyte Z370 HD3P",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z370"
+  },
+  {
+    "name": "Biostar A68MD Pro Rev. 1.3",
+    "socket": "FM2+",
+    "chipset": "AMD A70M"
+  },
+  {
+    "name": "Asrock Z270 Killer SLI/ac",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z270"
+  },
+  {
+    "name": "Gigabyte G1.Sniper Z170",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "Gigabyte GA-B250M-Gaming 3",
+    "socket": "LGA 1151",
+    "chipset": "Intel B250"
+  },
+  {
+    "name": "Asus ROG Rampage III Extreme",
+    "socket": "LGA 1366",
+    "chipset": "Intel X58"
+  },
+  {
+    "name": "MSI A320M Pro-VH Plus",
+    "socket": "AM4",
+    "chipset": "AMD A320"
+  },
+  {
+    "name": "MSI B450M Mortar",
+    "socket": "AM4",
+    "chipset": "AMD B450"
+  },
+  {
+    "name": "Asus TUF B450M-Pro Gaming",
+    "socket": "AM4",
+    "chipset": "AMD B450"
+  },
+  {
+    "name": "Asrock X370 Taichi",
+    "socket": "AM4",
+    "chipset": "AMD X370"
+  },
+  {
+    "name": "Gigabyte GA-Z270XP-SLI",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z270"
+  },
+  {
+    "name": "Gigabyte X570 Aorus Ultra",
+    "socket": "AM4",
+    "chipset": "AMD X570"
+  },
+  {
+    "name": "MSI Z97-S02",
+    "socket": "LGA 1150",
+    "chipset": "Intel Z97"
+  },
+  {
+    "name": "Asus Prime A320M-A",
+    "socket": "AM4",
+    "chipset": "AMD A320"
+  },
+  {
+    "name": "Gigabyte B360M H",
+    "socket": "LGA 1151",
+    "chipset": "Intel B360"
+  },
+  {
+    "name": "Asus Prime B360M-K",
+    "socket": "LGA 1151",
+    "chipset": "Intel B360"
+  },
+  {
+    "name": "Asus ROG Maximus X Hero (Wi-Fi AC)",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z370"
+  },
+  {
+    "name": "Asus ROG Striker II Extreme",
+    "socket": "LGA 775",
+    "chipset": "Nvidia nForce 790i Ultra SLI"
+  },
+  {
+    "name": "Asus Prime X299-Deluxe",
+    "socket": "LGA 2066",
+    "chipset": "Intel X299"
+  },
+  {
+    "name": "Asus ROG Strix X370-F Gaming",
+    "socket": "AM4",
+    "chipset": "AMD X370"
+  },
+  {
+    "name": "Maxsun MS-A320D4 Turbo",
+    "socket": "AM4",
+    "chipset": "AMD A320"
+  },
+  {
+    "name": "Asus P6X58D Premium",
+    "socket": "LGA 1366",
+    "chipset": "Intel X58"
+  },
+  {
+    "name": "Asrock Z270 Taichi",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z270"
+  },
+  {
+    "name": "Asrock B360M-HDV",
+    "socket": "LGA 1151",
+    "chipset": "Intel B360"
+  },
+  {
+    "name": "Gigabyte GA-H270M-D3H",
+    "socket": "LGA 1151",
+    "chipset": "Intel H270"
+  },
+  {
+    "name": "Asrock 970 Extreme3 R2.0",
+    "socket": "AM3+",
+    "chipset": "AMD 970"
+  },
+  {
+    "name": "Asus ROG Crosshair VI Hero",
+    "socket": "AM4",
+    "chipset": "AMD X370"
+  },
+  {
+    "name": "MSI Z370 Tomahawk",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z370"
+  },
+  {
+    "name": "Maxsun MS-Terminator B360W",
+    "socket": "LGA 1151",
+    "chipset": "Intel B360"
+  },
+  {
+    "name": "Asrock 970A-G/3.1",
+    "socket": "AM3+",
+    "chipset": "AMD 970"
+  },
+  {
+    "name": "Asrock Fatal1ty X99X Killer",
+    "socket": "LGA 2011-3",
+    "chipset": "Intel X99"
+  },
+  {
+    "name": "Gigabyte GA-H110M-Gaming 3",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "Gigabyte GA-AX370-Gaming K5",
+    "socket": "AM4",
+    "chipset": "AMD X370"
+  },
+  {
+    "name": "Asus ROG Maximus X Apex",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z370"
+  },
+  {
+    "name": "Gigabyte GA-AX370-Gaming K3",
+    "socket": "AM4",
+    "chipset": "AMD X370"
+  },
+  {
+    "name": "MSI B150M Bazooka Plus",
+    "socket": "LGA 1151",
+    "chipset": "Intel B150"
+  },
+  {
+    "name": "Asrock B550M-HDV",
+    "socket": "AM4",
+    "chipset": "AMD B550"
+  },
+  {
+    "name": "Asrock Fatal1ty Z370 Gaming K6",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z370"
+  },
+  {
+    "name": "Gigabyte GA-970A-D3P Rev. 2.0",
+    "socket": "AM3+",
+    "chipset": "AMD 970"
+  },
+  {
+    "name": "Gigabyte Z370M DS3H",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z370"
+  },
+  {
+    "name": "Asrock Fatal1ty Z370 Gaming-ITX/ac",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z370"
+  },
+  {
+    "name": "ECS B350AM4-M",
+    "socket": "AM4",
+    "chipset": "AMD B350"
+  },
+  {
+    "name": "Gigabyte X570 Aorus Master",
+    "socket": "AM4",
+    "chipset": "AMD X570"
+  },
+  {
+    "name": "Asrock Fatal1ty B250M Performance",
+    "socket": "LGA 1151",
+    "chipset": "Intel B250"
+  },
+  {
+    "name": "Asrock B450M Pro4",
+    "socket": "AM4",
+    "chipset": "AMD B450"
+  },
+  {
+    "name": "Asrock B460M Pro4",
+    "socket": "LGA 1200",
+    "chipset": "Intel B460"
+  },
+  {
+    "name": "Maxsun MS-B250D4L M.2",
+    "socket": "LGA 1151",
+    "chipset": "Intel B250"
+  },
+  {
+    "name": "Gigabyte X570 Aorus Xtreme",
+    "socket": "AM4",
+    "chipset": "AMD X570"
+  },
+  {
+    "name": "Asus ROG Strix B250G Gaming",
+    "socket": "LGA 1151",
+    "chipset": "Intel B250"
+  },
+  {
+    "name": "Asus ROG Maximus Extreme",
+    "socket": "LGA 775",
+    "chipset": "Intel X38"
+  },
+  {
+    "name": "Asus ROG Striker Extreme",
+    "socket": "LGA 775",
+    "chipset": "Nvidia 680i SLI"
+  },
+  {
+    "name": "Gigabyte GA-Z170-Gaming K3 Rev. 1.1",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "Asus ROG Maximus XI Extreme",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z390"
+  },
+  {
+    "name": "Asrock 970 Extreme4",
+    "socket": "AM3+",
+    "chipset": "AMD 970"
+  },
+  {
+    "name": "Asus Z170-P D3",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "Asrock X399 Taichi",
+    "socket": "TR4",
+    "chipset": "AMD X399"
+  },
+  {
+    "name": "Fujitsu D3400-B1",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "MSI A320M Pro-M2",
+    "socket": "AM4",
+    "chipset": "AMD A320"
+  },
+  {
+    "name": "Asrock Fatal1ty Z270 Gaming-ITX/ac",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z270"
+  },
+  {
+    "name": "Asrock Z170 Extreme4",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "Asrock A320M Pro4",
+    "socket": "AM4",
+    "chipset": "AMD A320"
+  },
+  {
+    "name": "Gigabyte X399 Aorus Gaming 7",
+    "socket": "TR4",
+    "chipset": "AMD X399"
+  },
+  {
+    "name": "Asus Prime H310M-D R2.0",
+    "socket": "LGA 1151",
+    "chipset": "Intel H310"
+  },
+  {
+    "name": "MSI B150 Gaming M3",
+    "socket": "LGA 1151",
+    "chipset": "Intel B150"
+  },
+  {
+    "name": "Asus ROG Maximus V Formula",
+    "socket": "LGA 1155",
+    "chipset": "Intel Z77"
+  },
+  {
+    "name": "Asus B150M-Plus",
+    "socket": "LGA 1151",
+    "chipset": "Intel B150"
+  },
+  {
+    "name": "Gigabyte GA-970A-DS3P FX Rev. 2.1",
+    "socket": "AM3+",
+    "chipset": "AMD 990FX"
+  },
+  {
+    "name": "Asus TUF B350M-Plus Gaming",
+    "socket": "AM4",
+    "chipset": "AMD B350"
+  },
+  {
+    "name": "Asus TUF Z370-Plus Gaming",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z370"
+  },
+  {
+    "name": "Biostar B350GT5",
+    "socket": "AM4",
+    "chipset": "AMD B350"
+  },
+  {
+    "name": "Asrock Z370 Taichi",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z370"
+  },
+  {
+    "name": "Gigabyte GA-990FXA-UD3 Rev. 4.1",
+    "socket": "AM3+",
+    "chipset": "AMD 990FX"
+  },
+  {
+    "name": "Gigabyte GA-EX58-UD3R Rev. 1.6",
+    "socket": "LGA 1366",
+    "chipset": "Intel X58"
+  },
+  {
+    "name": "Asus ROG Maximus IX Code",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z270"
+  },
+  {
+    "name": "Asus ROG Maximus III Formula",
+    "socket": "LGA 1156",
+    "chipset": "Intel P55"
+  },
+  {
+    "name": "MSI X470 Gaming Plus",
+    "socket": "AM4",
+    "chipset": "AMD X470"
+  },
+  {
+    "name": "Asrock Fatal1ty AB350 Gaming-ITX/ac",
+    "socket": "AM4",
+    "chipset": "AMD B350"
+  },
+  {
+    "name": "Asus ROG Strix Z370-H Gaming",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z370"
+  },
+  {
+    "name": "Asus TUF B450M-Plus Gaming",
+    "socket": "AM4",
+    "chipset": "AMD B450"
+  },
+  {
+    "name": "Asus TUF X299 Mark 2",
+    "socket": "LGA 2066",
+    "chipset": "Intel X299"
+  },
+  {
+    "name": "Biostar TB350-BTC",
+    "socket": "AM4",
+    "chipset": "AMD B350"
+  },
+  {
+    "name": "MSI H270 Gaming M3",
+    "socket": "LGA 1151",
+    "chipset": "Intel H270"
+  },
+  {
+    "name": "Gigabyte GA-H110M-S2PV",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "Asus TUF B360M-Plus Gaming",
+    "socket": "LGA 1151",
+    "chipset": "Intel B360"
+  },
+  {
+    "name": "MSI X299 SLI Plus",
+    "socket": "LGA 2066",
+    "chipset": "Intel X299"
+  },
+  {
+    "name": "Asus ROG Strix Z370-G Gaming (Wi-Fi AC)",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z370"
+  },
+  {
+    "name": "Asrock Fatal1ty X370 Gaming K4",
+    "socket": "AM4",
+    "chipset": "AMD X370"
+  },
+  {
+    "name": "Asus ROG Strix Z370-F Gaming",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z370"
+  },
+  {
+    "name": "Asus B365M-Kylin",
+    "socket": "LGA 1151",
+    "chipset": "Intel B365"
+  },
+  {
+    "name": "Asrock X370 Killer SLI/ac",
+    "socket": "AM4",
+    "chipset": "AMD X370"
+  },
+  {
+    "name": "EVGA X99 Classified",
+    "socket": "LGA 2011-3",
+    "chipset": "Intel X99"
+  },
+  {
+    "name": "Asrock H110M-STX",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "MSI MEG Z390 Godlike",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z390"
+  },
+  {
+    "name": "Asrock Z370M-ITX/ac",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z370"
+  },
+  {
+    "name": "Asus ROG Maximus X Formula",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z370"
+  },
+  {
+    "name": "Asrock X570 Creator",
+    "socket": "AM4",
+    "chipset": "AMD X570"
+  },
+  {
+    "name": "MSI B150 PC Mate",
+    "socket": "LGA 1151",
+    "chipset": "Intel B150"
+  },
+  {
+    "name": "Gigabyte GA-H110M-S2PT",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "Asus ROG Maximus IX Hero",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z270"
+  },
+  {
+    "name": "Asrock B365 Pro4",
+    "socket": "LGA 1151",
+    "chipset": "Intel B365"
+  },
+  {
+    "name": "Gigabyte GA-B250N Phoenix-WiFi",
+    "socket": "LGA 1151",
+    "chipset": "Intel B250"
+  },
+  {
+    "name": "Asus ROG Commando",
+    "socket": "LGA 775",
+    "chipset": "Intel P965"
+  },
+  {
+    "name": "Asus ROG Rampage IV Gene",
+    "socket": "LGA 2011",
+    "chipset": "Intel X79"
+  },
+  {
+    "name": "Gigabyte X299 Aorus Gaming 7",
+    "socket": "LGA 2066",
+    "chipset": "Intel X299"
+  },
+  {
+    "name": "Gigabyte GA-Z270N-WiFi",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z270"
+  },
+  {
+    "name": "MSI B360M Pro-VDH",
+    "socket": "LGA 1151",
+    "chipset": "Intel B360"
+  },
+  {
+    "name": "MSI X299 Raider",
+    "socket": "LGA 2066",
+    "chipset": "Intel X299"
+  },
+  {
+    "name": "ECS B350AM4-M2",
+    "socket": "AM4",
+    "chipset": "AMD B350"
+  },
+  {
+    "name": "MSI H110M PRO-D",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "Asrock Fatal1ty Z270 Professional Gaming i7",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z270"
+  },
+  {
+    "name": "Asus ROG Crosshair VI Extreme",
+    "socket": "AM4",
+    "chipset": "AMD X370"
+  },
+  {
+    "name": "Asus Prime A320M-E",
+    "socket": "AM4",
+    "chipset": "AMD A320"
+  },
+  {
+    "name": "Gigabyte GA-EX58-UD5",
+    "socket": "LGA 1366",
+    "chipset": "Intel X58"
+  },
+  {
+    "name": "Asrock X570M Pro4",
+    "socket": "AM4",
+    "chipset": "AMD X570"
+  },
+  {
+    "name": "Asrock Z270 SuperCarrier",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z270"
+  },
+  {
+    "name": "Gigabyte GA-B150M-D3H DDR3",
+    "socket": "LGA 1151",
+    "chipset": "Intel B150"
+  },
+  {
+    "name": "Biostar X370GT3",
+    "socket": "AM4",
+    "chipset": "AMD X370"
+  },
+  {
+    "name": "Asus ROG Rampage V Extreme",
+    "socket": "LGA 2011-3",
+    "chipset": "Intel X99"
+  },
+  {
+    "name": "Gigabyte X299 UD4",
+    "socket": "LGA 2066",
+    "chipset": "Intel X299"
+  },
+  {
+    "name": "Asus ROG Rampage VI Extreme",
+    "socket": "LGA 2066",
+    "chipset": "Intel X299"
+  },
+  {
+    "name": "EVGA X99 Micro",
+    "socket": "LGA 2011-3",
+    "chipset": "Intel X99"
+  },
+  {
+    "name": "Asrock Z370 Killer SLI/ac",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z370"
+  },
+  {
+    "name": "Asus ROG Maximus XI Formula",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z390"
+  },
+  {
+    "name": "Gigabyte GA-Q270M-D3H",
+    "socket": "LGA 1151",
+    "chipset": "Intel Q270"
+  },
+  {
+    "name": "MSI 990FXA-GD65",
+    "socket": "AM3+",
+    "chipset": "AMD 990FX"
+  },
+  {
+    "name": "Asus Prime H270-Plus",
+    "socket": "LGA 1151",
+    "chipset": "Intel H270"
+  },
+  {
+    "name": "Asrock Fatal1ty X99 Professional",
+    "socket": "LGA 2011-3",
+    "chipset": "Intel X99"
+  },
+  {
+    "name": "Gigabyte X299 Designare EX",
+    "socket": "LGA 2066",
+    "chipset": "Intel X299"
+  },
+  {
+    "name": "MSI 990FXA Gaming",
+    "socket": "AM3+",
+    "chipset": "AMD 990FX"
+  },
+  {
+    "name": "Gigabyte B360N Aorus Gaming Wifi",
+    "socket": "LGA 1151",
+    "chipset": "Intel B360"
+  },
+  {
+    "name": "Asrock X570 Phantom Gaming 4",
+    "socket": "AM4",
+    "chipset": "AMD X570"
+  },
+  {
+    "name": "Asrock A320TM-ITX",
+    "socket": "AM4",
+    "chipset": "AMD A320"
+  },
+  {
+    "name": "Asrock Fatal1ty X370 Professional Gaming",
+    "socket": "AM4",
+    "chipset": "AMD X370"
+  },
+  {
+    "name": "MSI B350M Mortar Arctic",
+    "socket": "AM4",
+    "chipset": "AMD B350"
+  },
+  {
+    "name": "SOYO SY-Meterstone B250M Gaming",
+    "socket": "LGA 1151",
+    "chipset": "Intel B250"
+  },
+  {
+    "name": "Gigabyte GA-B250M-D3V",
+    "socket": "LGA 1151",
+    "chipset": "Intel B250"
+  },
+  {
+    "name": "MSI B250 Gaming M3",
+    "socket": "LGA 1151",
+    "chipset": "Intel B250"
+  },
+  {
+    "name": "Asus ROG Strix B450-F Gaming",
+    "socket": "AM4",
+    "chipset": "AMD B450"
+  },
+  {
+    "name": "Asrock 990FX Extreme3",
+    "socket": "AM3+",
+    "chipset": "AMD 990FX"
+  },
+  {
+    "name": "Asrock H110M-DVS R2.0",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "Gigabyte GA-Z270X-Gaming K5",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z270"
+  },
+  {
+    "name": "Asrock X299 Taichi",
+    "socket": "LGA 2066",
+    "chipset": "Intel X299"
+  },
+  {
+    "name": "Asus WS C621E Sage",
+    "socket": "2x LGA 3647",
+    "chipset": "Intel C621"
+  },
+  {
+    "name": "Asrock Z270 Extreme4",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z270"
+  },
+  {
+    "name": "Asus ROG Rampage III Gene",
+    "socket": "LGA 1366",
+    "chipset": "Intel X58"
+  },
+  {
+    "name": "Asus Prime B350M-E",
+    "socket": "AM4",
+    "chipset": "AMD B350"
+  },
+  {
+    "name": "MSI X299M-A Pro",
+    "socket": "LGA 2066",
+    "chipset": "Intel X299"
+  },
+  {
+    "name": "Asrock H270 Pro4",
+    "socket": "LGA 1151",
+    "chipset": "Intel H270"
+  },
+  {
+    "name": "Asus ROG Maximus VI Hero",
+    "socket": "LGA 1150",
+    "chipset": "Intel Z87"
+  },
+  {
+    "name": "Gigabyte GA-B250-HD3P",
+    "socket": "LGA 1151",
+    "chipset": "Intel B250"
+  },
+  {
+    "name": "Asrock H170M Pro4",
+    "socket": "LGA 1151",
+    "chipset": "Intel H170"
+  },
+  {
+    "name": "Asus ROG Maximus IV Gene-Z/Gen3",
+    "socket": "LGA 1155",
+    "chipset": "Intel Z68"
+  },
+  {
+    "name": "Asrock X570 Pro4",
+    "socket": "AM4",
+    "chipset": "AMD X570"
+  },
+  {
+    "name": "MSI Z170A Gaming Pro Carbon",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "Gigabyte GA-H170-HD3",
+    "socket": "LGA 1151",
+    "chipset": "Intel H170"
+  },
+  {
+    "name": "Gigabyte GA-H170N-WIFI",
+    "socket": "LGA 1151",
+    "chipset": "Intel H170"
+  },
+  {
+    "name": "Asrock Fatal1ty E3V5 Performance Gaming/OC",
+    "socket": "LGA 1151",
+    "chipset": "Intel C232"
+  },
+  {
+    "name": "MSI Z370 Gaming M5",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z370"
+  },
+  {
+    "name": "MSI H270 Gaming Pro Carbon",
+    "socket": "LGA 1151",
+    "chipset": "Intel H270"
+  },
+  {
+    "name": "MSI H270M Bazooka",
+    "socket": "LGA 1151",
+    "chipset": "Intel H270"
+  },
+  {
+    "name": "Asrock Z270M Pro4",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z270"
+  },
+  {
+    "name": "MSI H310M Pro-VD Plus",
+    "socket": "LGA 1151",
+    "chipset": "Intel H310"
+  },
+  {
+    "name": "Asus Prime X299-A",
+    "socket": "LGA 2066",
+    "chipset": "Intel X299"
+  },
+  {
+    "name": "MSI B350 Tomahawk Arctic",
+    "socket": "AM4",
+    "chipset": "AMD B350"
+  },
+  {
+    "name": "Asrock 970 Pro3",
+    "socket": "AM3+",
+    "chipset": "AMD 970"
+  },
+  {
+    "name": "Maxsun MS-H110D4 Turbo M.2",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "Asus ROG Rampage Formula",
+    "socket": "LGA 775",
+    "chipset": "Intel X48"
+  },
+  {
+    "name": "Fujitsu D3401-B2",
+    "socket": "LGA 1151",
+    "chipset": "Intel Q150"
+  },
+  {
+    "name": "Asus TUF Z390-Plus Gaming",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z390"
+  },
+  {
+    "name": "ECS H110M4-C3D",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "Asus ROG Maximus VIII Ranger",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "Asrock J3455-ITX",
+    "socket": "Onboard CPU",
+    "chipset": "SOC"
+  },
+  {
+    "name": "Asus B250 Mining Expert",
+    "socket": "LGA 1151",
+    "chipset": "Intel B250"
+  },
+  {
+    "name": "Asrock A320M",
+    "socket": "AM4",
+    "chipset": "AMD A320"
+  },
+  {
+    "name": "MSI B250M Mortar Arctic",
+    "socket": "LGA 1151",
+    "chipset": "Intel B250"
+  },
+  {
+    "name": "Gigabyte B360M D2V",
+    "socket": "LGA 1151",
+    "chipset": "Intel B360"
+  },
+  {
+    "name": "MSI X370 XPower Gaming Titanium",
+    "socket": "AM4",
+    "chipset": "AMD X370"
+  },
+  {
+    "name": "MSI X370 Gaming Pro Carbon",
+    "socket": "AM4",
+    "chipset": "AMD X370"
+  },
+  {
+    "name": "Gigabyte G1.Sniper M7",
+    "socket": "LGA 1151",
+    "chipset": "Intel B150"
+  },
+  {
+    "name": "Gigabyte GA-Z270X-Designare",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z270"
+  },
+  {
+    "name": "Asus ROG Striker II Formula",
+    "socket": "LGA 775",
+    "chipset": "Nvidia nForce 780i SLI"
+  },
+  {
+    "name": "Asrock X370M-HDV",
+    "socket": "AM4",
+    "chipset": "AMD X370"
+  },
+  {
+    "name": "Asus ROG Crosshair II Formula",
+    "socket": "AM2+",
+    "chipset": "Nvidia nForce 780a SLI"
+  },
+  {
+    "name": "Biostar H310MHD Pro",
+    "socket": "LGA 1151",
+    "chipset": "Intel H310"
+  },
+  {
+    "name": "Asrock Fatal1ty X99M Killer",
+    "socket": "LGA 2011-3",
+    "chipset": "Intel X99"
+  },
+  {
+    "name": "MSI Z370 Godlike Gaming",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z370"
+  },
+  {
+    "name": "Biostar X370GTN",
+    "socket": "AM4",
+    "chipset": "AMD X370"
+  },
+  {
+    "name": "Asus ROG Rampage V Extreme/U3.1",
+    "socket": "LGA 2011-3",
+    "chipset": "Intel X99"
+  },
+  {
+    "name": "Gigabyte X399 Designare EX",
+    "socket": "TR4",
+    "chipset": "AMD X399"
+  },
+  {
+    "name": "Gigabyte GA-990XA-UD3 Rev. 3.0",
+    "socket": "AM3+",
+    "chipset": "AMD 990X"
+  },
+  {
+    "name": "Gigabyte GA-970A-UD3P Rev. 2.0",
+    "socket": "AM3+",
+    "chipset": "AMD 970"
+  },
+  {
+    "name": "Asrock X370 Killer SLI",
+    "socket": "AM4",
+    "chipset": "AMD X370"
+  },
+  {
+    "name": "Asrock Z170 OC Formula",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "Gigabyte GA-H270N-WiFi",
+    "socket": "LGA 1151",
+    "chipset": "Intel H270"
+  },
+  {
+    "name": "Asus Z170-K",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "MSI Z170A Krait Gaming",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "Asrock X570 Phantom Gaming 4 WiFi ax",
+    "socket": "AM4",
+    "chipset": "AMD X570"
+  },
+  {
+    "name": "Asrock H110M-G/M.2",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "MSI H110M PRO-VD Plus",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "Supermicro C7Z370-CG-L",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z370"
+  },
+  {
+    "name": "Asrock Fatal1ty X99X Killer/3.1",
+    "socket": "LGA 2011-3",
+    "chipset": "Intel X99"
+  },
+  {
+    "name": "Asus TUF X299 Mark 1",
+    "socket": "LGA 2066",
+    "chipset": "Intel X299"
+  },
+  {
+    "name": "Asrock Fatal1ty X99 Professional Gaming i7",
+    "socket": "LGA 2011-3",
+    "chipset": "Intel X99"
+  },
+  {
+    "name": "Gigabyte GA-AB350M-D3H",
+    "socket": "AM4",
+    "chipset": "AMD B350"
+  },
+  {
+    "name": "Asus TUF B360M-E Gaming",
+    "socket": "LGA 1151",
+    "chipset": "Intel B360"
+  },
+  {
+    "name": "Asus X99-A II",
+    "socket": "LGA 2011-3",
+    "chipset": "Intel X99"
+  },
+  {
+    "name": "Gigabyte GA-Z270X-UD3",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z270"
+  },
+  {
+    "name": "Asus Prime Z270-K",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z270"
+  },
+  {
+    "name": "Asus EX-B250-V7",
+    "socket": "LGA 1151",
+    "chipset": "Intel B250"
+  },
+  {
+    "name": "Asrock Fatal1ty AB350 Gaming K4",
+    "socket": "AM4",
+    "chipset": "AMD B350"
+  },
+  {
+    "name": "Asus WS X299 Sage",
+    "socket": "LGA 2066",
+    "chipset": "Intel X299"
+  },
+  {
+    "name": "MSI A320M Bazooka",
+    "socket": "AM4",
+    "chipset": "AMD A320"
+  },
+  {
+    "name": "MSI 970 Gaming",
+    "socket": "AM3+",
+    "chipset": "AMD 970"
+  },
+  {
+    "name": "Asus M5A99FX PRO R2.0",
+    "socket": "AM3+",
+    "chipset": "AMD 990FX"
+  },
+  {
+    "name": "Asus EX-B150M-V5 D3",
+    "socket": "LGA 1151",
+    "chipset": "Intel B150"
+  },
+  {
+    "name": "ECS H110M-C3D",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "Gigabyte GA-B250M-EVO",
+    "socket": "LGA 1151",
+    "chipset": "Intel B250"
+  },
+  {
+    "name": "MSI Z370 Gaming Pro Carbon AC",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z370"
+  },
+  {
+    "name": "MSI B250M Mortar",
+    "socket": "LGA 1151",
+    "chipset": "Intel B250"
+  },
+  {
+    "name": "Gigabyte GA-H170-Gaming 3 DDR3",
+    "socket": "LGA 1151",
+    "chipset": "Intel H170"
+  },
+  {
+    "name": "Asrock Fatal1ty X299 Professional Gaming i9",
+    "socket": "LGA 2066",
+    "chipset": "Intel X299"
+  },
+  {
+    "name": "MSI H310M Pro-M2 Plus",
+    "socket": "LGA 1151",
+    "chipset": "Intel H310"
+  },
+  {
+    "name": "Gigabyte Z370 Aorus Gaming K3",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z370"
+  },
+  {
+    "name": "Asus Prime A320M-C R2.0",
+    "socket": "AM4",
+    "chipset": "AMD A320"
+  },
+  {
+    "name": "Gigabyte X570 Aorus Pro Wifi",
+    "socket": "AM4",
+    "chipset": "AMD X570"
+  },
+  {
+    "name": "MSI Z270 Tomahawk Arctic",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z270"
+  },
+  {
+    "name": "Asrock X99 Extreme4/3.1",
+    "socket": "LGA 2011-3",
+    "chipset": "Intel X99"
+  },
+  {
+    "name": "Gigabyte B450 I Aorus Pro WiFi",
+    "socket": "AM4",
+    "chipset": "AMD B450"
+  },
+  {
+    "name": "MSI 970A-G43",
+    "socket": "AM3+",
+    "chipset": "AMD 970"
+  },
+  {
+    "name": "Asus ROG Maximus IX Formula",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z270"
+  },
+  {
+    "name": "MSI Z370M Mortar",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z370"
+  },
+  {
+    "name": "Gigabyte GA-Z170M-D3H DDR3",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "Gigabyte GA-H170-D3HP",
+    "socket": "LGA 1151",
+    "chipset": "Intel H170"
+  },
+  {
+    "name": "Asus ROG Rampage III Black Edition",
+    "socket": "LGA 1366",
+    "chipset": "Intel X58"
+  },
+  {
+    "name": "Biostar TA320-BTC",
+    "socket": "AM4",
+    "chipset": "AMD A320"
+  },
+  {
+    "name": "Gigabyte GA-B150M-D2V",
+    "socket": "LGA 1151",
+    "chipset": "Intel B150"
+  },
+  {
+    "name": "Colorful iGame X299 Vulcan X White",
+    "socket": "LGA 2066",
+    "chipset": "Intel X299"
+  },
+  {
+    "name": "Asus ROG Maximus III Extreme",
+    "socket": "LGA 1156",
+    "chipset": "Intel P55"
+  },
+  {
+    "name": "Asus Pro WS X570-Ace",
+    "socket": "AM4",
+    "chipset": "AMD X570"
+  },
+  {
+    "name": "Gigabyte X299 Aorus Gaming 3",
+    "socket": "LGA 2066",
+    "chipset": "Intel X299"
+  },
+  {
+    "name": "Asus ROG Maximus V Extreme",
+    "socket": "LGA 1155",
+    "chipset": "Intel Z77"
+  },
+  {
+    "name": "Gigabyte GA-Z170-HD3 DDR3",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "Asus Prime B450M-A",
+    "socket": "AM4",
+    "chipset": "AMD B450"
+  },
+  {
+    "name": "Asrock Fatal1ty X99 Professional/3.1",
+    "socket": "LGA 2011-3",
+    "chipset": "Intel X99"
+  },
+  {
+    "name": "Asrock H110M-DGS",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "Gigabyte B450 Aorus M",
+    "socket": "AM4",
+    "chipset": "AMD B450"
+  },
+  {
+    "name": "Gigabyte X299 Aorus Ultra Gaming Pro",
+    "socket": "LGA 2066",
+    "chipset": "Intel X299"
+  },
+  {
+    "name": "Asrock H110M-ITX/ac",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "MSI X399 Gaming Pro Carbon AC",
+    "socket": "TR4",
+    "chipset": "AMD X399"
+  },
+  {
+    "name": "MSI H110M PRO-VH",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "Asus B150 Pro Gaming/Aura",
+    "socket": "LGA 1151",
+    "chipset": "Intel B150"
+  },
+  {
+    "name": "Gigabyte GA-Z270X-Gaming K7",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z270"
+  },
+  {
+    "name": "Asrock Fatal1ty X299 Professional Gaming i9 XE",
+    "socket": "LGA 2066",
+    "chipset": "Intel X299"
+  },
+  {
+    "name": "Asus TUF Z270 Mark 2",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z270"
+  },
+  {
+    "name": "Asus ROG Strix Z390-E Gaming",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z390"
+  },
+  {
+    "name": "Supermicro C7Z270-PG",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z270"
+  },
+  {
+    "name": "MSI X399 SLI Plus",
+    "socket": "TR4",
+    "chipset": "AMD X399"
+  },
+  {
+    "name": "Asus ROG Striker II NSE",
+    "socket": "LGA 775",
+    "chipset": "Nvidia nForce 790i SLI"
+  },
+  {
+    "name": "MSI X370 Krait Gaming",
+    "socket": "AM4",
+    "chipset": "AMD X370"
+  },
+  {
+    "name": "Gigabyte GA-A320-DS3",
+    "socket": "AM4",
+    "chipset": "AMD A320"
+  },
+  {
+    "name": "Asus Prime B250M-D",
+    "socket": "LGA 1151",
+    "chipset": "Intel B250"
+  },
+  {
+    "name": "Asus Prime H370M-Plus",
+    "socket": "LGA 1151",
+    "chipset": "Intel H370"
+  },
+  {
+    "name": "Asus ROG Strix Z270I Gaming",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z270"
+  },
+  {
+    "name": "Biostar X370GT7",
+    "socket": "AM4",
+    "chipset": "AMD X370"
+  },
+  {
+    "name": "Asus H370 Mining Master",
+    "socket": "LGA 1151",
+    "chipset": "Intel H370"
+  },
+  {
+    "name": "Gigabyte GA-Z170X-Gaming 7 Rev. 1.0",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "ECS A320AM4-M3D",
+    "socket": "AM4",
+    "chipset": "AMD A320"
+  },
+  {
+    "name": "Gigabyte X299 Aorus Gaming 9",
+    "socket": "LGA 2066",
+    "chipset": "Intel X299"
+  },
+  {
+    "name": "Asrock Z170 Extreme3",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "Asrock 990FX Extreme4",
+    "socket": "AM3+",
+    "chipset": "AMD 990FX"
+  },
+  {
+    "name": "Asrock B365M Phantom Gaming 4",
+    "socket": "LGA 1151",
+    "chipset": "Intel B365"
+  },
+  {
+    "name": "ECS H110S-2P",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "Maxsun MS-Meterstone B250M Gaming R2.0",
+    "socket": "LGA 1151",
+    "chipset": "Intel B250"
+  },
+  {
+    "name": "Asrock Fatal1ty X399 Professional Gaming",
+    "socket": "TR4",
+    "chipset": "AMD X399"
+  },
+  {
+    "name": "MSI H270 Tomahawk Arctic",
+    "socket": "LGA 1151",
+    "chipset": "Intel H270"
+  },
+  {
+    "name": "Asrock 990FX Extreme6",
+    "socket": "AM3+",
+    "chipset": "AMD 990FX"
+  },
+  {
+    "name": "Asus Prime X470-Pro",
+    "socket": "AM4",
+    "chipset": "AMD X470"
+  },
+  {
+    "name": "Asus Prime B250M-Plus",
+    "socket": "LGA 1151",
+    "chipset": "Intel B250"
+  },
+  {
+    "name": "Asus Prime X399-A",
+    "socket": "TR4",
+    "chipset": "AMD X399"
+  },
+  {
+    "name": "Gigabyte GA-Z170X-Gaming 6 Rev. 1.1",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "MSI 990FXA-GD80",
+    "socket": "AM3+",
+    "chipset": "AMD 990FX"
+  },
+  {
+    "name": "Gigabyte GA-Z270M-D3H",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z270"
+  },
+  {
+    "name": "Asrock MXM IPC-H110",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "Gigabyte GA-Z270N-Gaming 5",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z270"
+  },
+  {
+    "name": "Asrock X299 OC Formula",
+    "socket": "LGA 2066",
+    "chipset": "Intel X299"
+  },
+  {
+    "name": "Gigabyte GA-B150M-Gaming",
+    "socket": "LGA 1151",
+    "chipset": "Intel B150"
+  },
+  {
+    "name": "Gigabyte GA-H110M-HD2",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "Asrock A320M-ITX",
+    "socket": "AM4",
+    "chipset": "AMD A320"
+  },
+  {
+    "name": "MSI Z170A PC Mate",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "Gigabyte GA-Z170N-WIFI Rev. 2.0",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "Asus Z170-AR",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "Asrock H310M-HDV/M.2",
+    "socket": "LGA 1151",
+    "chipset": "Intel H310"
+  },
+  {
+    "name": "Biostar X370GT5",
+    "socket": "AM4",
+    "chipset": "AMD X370"
+  },
+  {
+    "name": "MSI Z370 Krait Gaming",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z370"
+  },
+  {
+    "name": "MSI B350M Pro-VD Plus",
+    "socket": "AM4",
+    "chipset": "AMD B350"
+  },
+  {
+    "name": "MSI H170M PRO-VDH",
+    "socket": "LGA 1151",
+    "chipset": "Intel H170"
+  },
+  {
+    "name": "Biostar B250GT3",
+    "socket": "LGA 1151",
+    "chipset": "Intel B250"
+  },
+  {
+    "name": "Asrock Fatal1ty H370 Performance",
+    "socket": "LGA 1151",
+    "chipset": "Intel H370"
+  },
+  {
+    "name": "Gigabyte X299 Aorus Gaming 3 Pro",
+    "socket": "LGA 2066",
+    "chipset": "Intel X299"
+  },
+  {
+    "name": "MSI B150A Gaming Pro",
+    "socket": "LGA 1151",
+    "chipset": "Intel B150"
+  },
+  {
+    "name": "Asus Sabertooth 990FX R3.0",
+    "socket": "AM3+",
+    "chipset": "AMD 990FX"
+  },
+  {
+    "name": "Maxsun MS-B250M Gaming",
+    "socket": "LGA 1151",
+    "chipset": "Intel B250"
+  },
+  {
+    "name": "MSI MEG X570 Godlike",
+    "socket": "AM4",
+    "chipset": "AMD X570"
+  },
+  {
+    "name": "Asus ROG Crossblade Ranger",
+    "socket": "FM2+",
+    "chipset": "AMD A88X"
+  },
+  {
+    "name": "Biostar B350ET2",
+    "socket": "AM4",
+    "chipset": "AMD B350"
+  },
+  {
+    "name": "Asus Z270-WS",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z270"
+  },
+  {
+    "name": "EVGA X299 Micro",
+    "socket": "LGA 2066",
+    "chipset": "Intel X299"
+  },
+  {
+    "name": "Asus ROG Rampage VI Apex",
+    "socket": "LGA 2066",
+    "chipset": "Intel X299"
+  },
+  {
+    "name": "Asus Prime B250M-A",
+    "socket": "LGA 1151",
+    "chipset": "Intel B250"
+  },
+  {
+    "name": "Gigabyte GA-990FXA-UD5 Rev. 3.0",
+    "socket": "AM3+",
+    "chipset": "AMD 990FX"
+  },
+  {
+    "name": "Asus ROG Strix H270F Gaming",
+    "socket": "LGA 1151",
+    "chipset": "Intel H270"
+  },
+  {
+    "name": "MSI H270-A Pro",
+    "socket": "LGA 1151",
+    "chipset": "Intel H270"
+  },
+  {
+    "name": "Biostar Z370GT7",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z370"
+  },
+  {
+    "name": "MSI Z270 XPower Gaming Titanium",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z270"
+  },
+  {
+    "name": "MSI Z270M Mortar",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z270"
+  },
+  {
+    "name": "Asrock H310M-STX/COM",
+    "socket": "LGA 1151",
+    "chipset": "Intel H310"
+  },
+  {
+    "name": "Gigabyte Z370 Aorus Ultra Gaming 2.0",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z370"
+  },
+  {
+    "name": "Gigabyte X299 Aorus Ultra Gaming",
+    "socket": "LGA 2066",
+    "chipset": "Intel X299"
+  },
+  {
+    "name": "Asrock Fatal1ty B450 Gaming K4",
+    "socket": "AM4",
+    "chipset": "AMD B450"
+  },
+  {
+    "name": "MSI B250M Bazooka Plus",
+    "socket": "LGA 1151",
+    "chipset": "Intel B250"
+  },
+  {
+    "name": "Gigabyte GA-B150-HD3P",
+    "socket": "LGA 1151",
+    "chipset": "Intel B150"
+  },
+  {
+    "name": "Gigabyte GA-Z170X-UD3",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "Asrock Fatal1ty Z370 Professional Gaming i7",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z370"
+  },
+  {
+    "name": "Gigabyte Z490M",
+    "socket": "LGA 1200",
+    "chipset": "Intel Z490"
+  },
+  {
+    "name": "Asrock H270M-ITX/ac",
+    "socket": "LGA 1151",
+    "chipset": "Intel H270"
+  },
+  {
+    "name": "Asus Prime H270-Pro",
+    "socket": "LGA 1151",
+    "chipset": "Intel H270"
+  },
+  {
+    "name": "Asrock B360M Pro4",
+    "socket": "LGA 1151",
+    "chipset": "Intel B360"
+  },
+  {
+    "name": "Asus Prime X370-A",
+    "socket": "AM4",
+    "chipset": "AMD X370"
+  },
+  {
+    "name": "Biostar H110M-BTC",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "MSI 970A-G46",
+    "socket": "AM3+",
+    "chipset": "AMD 970"
+  },
+  {
+    "name": "Gigabyte GA-H110M-WW",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "Asrock Z170 Extreme7+",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "Colorful iGame Z270 Ymir-X",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z270"
+  },
+  {
+    "name": "Gigabyte GA-AB350M-D3V",
+    "socket": "AM4",
+    "chipset": "AMD B350"
+  },
+  {
+    "name": "Asus ROG Maximus VI Gene",
+    "socket": "LGA 1150",
+    "chipset": "Intel Z87"
+  },
+  {
+    "name": "Asrock B460 Pro4",
+    "socket": "LGA 1200",
+    "chipset": "Intel B460"
+  },
+  {
+    "name": "Asrock X299E-ITX/ac",
+    "socket": "LGA 2066",
+    "chipset": "Intel X299"
+  },
+  {
+    "name": "MSI X370 SLI Plus",
+    "socket": "AM4",
+    "chipset": "AMD X370"
+  },
+  {
+    "name": "Asrock EPYC3101D4I-2T",
+    "socket": "Onboard CPU",
+    "chipset": "SOC"
+  },
+  {
+    "name": "MSI H270M Mortar Arctic",
+    "socket": "LGA 1151",
+    "chipset": "Intel H270"
+  },
+  {
+    "name": "Asrock Fatal1ty H170 Performance",
+    "socket": "LGA 1151",
+    "chipset": "Intel H170"
+  },
+  {
+    "name": "MSI B350 Tomahawk Plus",
+    "socket": "AM4",
+    "chipset": "AMD B350"
+  },
+  {
+    "name": "MSI X299 Gaming Pro Carbon AC",
+    "socket": "LGA 2066",
+    "chipset": "Intel X299"
+  },
+  {
+    "name": "Asus Z170 Pro Gaming/Aura",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "Asrock B150M Pro4/Hyper",
+    "socket": "LGA 1151",
+    "chipset": "Intel B150"
+  },
+  {
+    "name": "MSI X299 Tomahawk AC",
+    "socket": "LGA 2066",
+    "chipset": "Intel X299"
+  },
+  {
+    "name": "Asus ROG Strix Z390-I Gaming",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z390"
+  },
+  {
+    "name": "Asrock B150M Pro4V",
+    "socket": "LGA 1151",
+    "chipset": "Intel B150"
+  },
+  {
+    "name": "Asus EX-H310M-V3",
+    "socket": "LGA 1151",
+    "chipset": "Intel H310"
+  },
+  {
+    "name": "EVGA Classified SR-X",
+    "socket": "2x LGA 2011",
+    "chipset": "Intel C606"
+  },
+  {
+    "name": "Asrock X99 Extreme6",
+    "socket": "LGA 2011-3",
+    "chipset": "Intel X99"
+  },
+  {
+    "name": "Asrock Z270 Killer SLI",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z270"
+  },
+  {
+    "name": "Asrock EPYC3251D4I-2T",
+    "socket": "Onboard CPU",
+    "chipset": "SOC"
+  },
+  {
+    "name": "Supermicro X11DPH-Tq",
+    "socket": "2x LGA 3647",
+    "chipset": "Intel C628"
+  },
+  {
+    "name": "Asrock Fatal1ty X299 Gaming K6",
+    "socket": "LGA 2066",
+    "chipset": "Intel X299"
+  },
+  {
+    "name": "MSI B250 Gaming Pro Carbon",
+    "socket": "LGA 1151",
+    "chipset": "Intel B250"
+  },
+  {
+    "name": "Asrock Fatal1ty 970 Performance",
+    "socket": "AM3+",
+    "chipset": "AMD 970"
+  },
+  {
+    "name": "Asrock H310M-STX",
+    "socket": "LGA 1151",
+    "chipset": "Intel H310"
+  },
+  {
+    "name": "Gigabyte GA-H270-HD3P",
+    "socket": "LGA 1151",
+    "chipset": "Intel H270"
+  },
+  {
+    "name": "Asrock Z170M Pro4S",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "Asus Prime Z390M-Plus",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z390"
+  },
+  {
+    "name": "Biostar P4M800-M7A Rev. 1.0",
+    "socket": "LGA 775",
+    "chipset": "VIA P4M800"
+  },
+  {
+    "name": "Asrock X570 Phantom Gaming-ITX/TB3",
+    "socket": "AM4",
+    "chipset": "AMD X570"
+  },
+  {
+    "name": "Colorful Battle Axe C.AB350M-HD Plus V14",
+    "socket": "AM4",
+    "chipset": "AMD B350"
+  },
+  {
+    "name": "Asrock Z270M Extreme4",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z270"
+  },
+  {
+    "name": "Maxsun MS-Z170MD4 Turbo",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "NZXT N7 Z370 White",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z370"
+  },
+  {
+    "name": "Gigabyte X470 Aorus Ultra Gaming",
+    "socket": "AM4",
+    "chipset": "AMD X470"
+  },
+  {
+    "name": "Gigabyte GA-Z270MX-Gaming 5",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z270"
+  },
+  {
+    "name": "Asrock Fatal1ty X370 Gaming-ITX/ac",
+    "socket": "AM4",
+    "chipset": "AMD X370"
+  },
+  {
+    "name": "MSI B150M PRO-VDH",
+    "socket": "LGA 1151",
+    "chipset": "Intel B150"
+  },
+  {
+    "name": "Asrock H270M Pro4",
+    "socket": "LGA 1151",
+    "chipset": "Intel H270"
+  },
+  {
+    "name": "Asus ROG Strix X299-XE Gaming",
+    "socket": "LGA 2066",
+    "chipset": "Intel X299"
+  },
+  {
+    "name": "Asus ROG Crosshair IV Extreme",
+    "socket": "AM3",
+    "chipset": "AMD 890FX"
+  },
+  {
+    "name": "Gigabyte GA-Z170X-Gaming 3 Rev. 1.1",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "Asus ROG Strix X399-E Gaming",
+    "socket": "TR4",
+    "chipset": "AMD X399"
+  },
+  {
+    "name": "MSI H110M-A PRO M2",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "Asrock Z170 Pro4/D3",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "Asrock Z390M Pro4",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z390"
+  },
+  {
+    "name": "Asus Prime H310M-CS R2.0",
+    "socket": "LGA 1151",
+    "chipset": "Intel H310"
+  },
+  {
+    "name": "MSI Z170-A Pro",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "Gigabyte Z390 Gaming SLI",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z390"
+  },
+  {
+    "name": "XFX X58i",
+    "socket": "LGA 1366",
+    "chipset": "Intel X58"
+  },
+  {
+    "name": "Asrock 990FX Extreme9",
+    "socket": "AM3+",
+    "chipset": "AMD 990FX"
+  },
+  {
+    "name": "MSI X99A Raider",
+    "socket": "LGA 2011-3",
+    "chipset": "Intel X99"
+  },
+  {
+    "name": "Gigabyte GA-EX58-Extreme",
+    "socket": "LGA 1366",
+    "chipset": "Intel X58"
+  },
+  {
+    "name": "MSI B250I Gaming Pro AC",
+    "socket": "LGA 1151",
+    "chipset": "Intel B250"
+  },
+  {
+    "name": "Gigabyte MZ31-AR0",
+    "socket": "SP3",
+    "chipset": "None + None"
+  },
+  {
+    "name": "Asus ROG Maximus IX Extreme",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z270"
+  },
+  {
+    "name": "MSI H110M PRO-VD D3",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "Asus TUF H370-Pro Gaming",
+    "socket": "LGA 1151",
+    "chipset": "Intel H370"
+  },
+  {
+    "name": "Asrock 880GM-LE FX",
+    "socket": "AM3+",
+    "chipset": "AMD 880G"
+  },
+  {
+    "name": "Gigabyte GA-Z270-Phoenix Gaming",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z270"
+  },
+  {
+    "name": "Maxsun MS-A970FX Turbo",
+    "socket": "AM3+",
+    "chipset": "AMD 970"
+  },
+  {
+    "name": "Asus ROG Strix Z390-F Gaming",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z390"
+  },
+  {
+    "name": "Gigabyte GA-X150-Plus WS",
+    "socket": "LGA 1151",
+    "chipset": "Intel C232"
+  },
+  {
+    "name": "NZXT N7 Z390 White",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z390"
+  },
+  {
+    "name": "Gigabyte GA-970-Gaming Rev. 1.1",
+    "socket": "AM3+",
+    "chipset": "AMD 970"
+  },
+  {
+    "name": "Biostar Gaming Z170T",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "Asrock X99 Taichi",
+    "socket": "LGA 2011-3",
+    "chipset": "Intel X99"
+  },
+  {
+    "name": "Asus ROG Rampage II Gene",
+    "socket": "LGA 1366",
+    "chipset": "Intel X58"
+  },
+  {
+    "name": "MSI Z170A Tomahawk",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "MSI Z370M Gaming Pro AC",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z370"
+  },
+  {
+    "name": "Asus ROG Strix X99 Gaming",
+    "socket": "LGA 2011-3",
+    "chipset": "Intel X99"
+  },
+  {
+    "name": "Biostar P4M800-M7",
+    "socket": "LGA 775",
+    "chipset": "VIA P4M800"
+  },
+  {
+    "name": "Asrock B150M Combo-G",
+    "socket": "LGA 1151",
+    "chipset": "Intel B150"
+  },
+  {
+    "name": "Gigabyte GA-H170-Gaming 3 Rev. 1.0",
+    "socket": "LGA 1151",
+    "chipset": "Intel H170"
+  },
+  {
+    "name": "Asrock B550 Phantom Gaming-ITX/ax",
+    "socket": "AM4",
+    "chipset": "AMD B550"
+  },
+  {
+    "name": "Asrock Fatal1ty Z270 Gaming K4",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z270"
+  },
+  {
+    "name": "MSI B350M Pro-VH Plus",
+    "socket": "AM4",
+    "chipset": "AMD B350"
+  },
+  {
+    "name": "Asrock Z170M Extreme4",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "Asrock Z170 Pro4",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "MSI B350 Krait Gaming",
+    "socket": "AM4",
+    "chipset": "AMD B350"
+  },
+  {
+    "name": "Gigabyte GA-B250M-Gaming 5",
+    "socket": "LGA 1151",
+    "chipset": "Intel B250"
+  },
+  {
+    "name": "MSI H110I Pro AC",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "MSI X299 XPower Gaming AC",
+    "socket": "LGA 2066",
+    "chipset": "Intel X299"
+  },
+  {
+    "name": "Asrock IMB-790",
+    "socket": "LGA 1151",
+    "chipset": "Intel Q170"
+  },
+  {
+    "name": "MSI H110M ECO",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "Gigabyte GA-Z270X-UD5",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z270"
+  },
+  {
+    "name": "Asus H170 Pro Gaming",
+    "socket": "LGA 1151",
+    "chipset": "Intel H170"
+  },
+  {
+    "name": "MSI Z270 Gaming Pro Carbon",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z270"
+  },
+  {
+    "name": "Biostar Hi-Fi B150S1 D4",
+    "socket": "LGA 1151",
+    "chipset": "Intel B150"
+  },
+  {
+    "name": "Asrock X99M Extreme4",
+    "socket": "LGA 2011-3",
+    "chipset": "Intel X99"
+  },
+  {
+    "name": "Colorful iGame Z370 Vulcan X",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z370"
+  },
+  {
+    "name": "MSI Z270 Tomahawk OPT Boost",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z270"
+  },
+  {
+    "name": "Asrock X370M Pro4",
+    "socket": "AM4",
+    "chipset": "AMD X370"
+  },
+  {
+    "name": "EVGA X99 Micro2",
+    "socket": "LGA 2011-3",
+    "chipset": "Intel X99"
+  },
+  {
+    "name": "MSI B150M Bazooka D3",
+    "socket": "LGA 1151",
+    "chipset": "Intel B150"
+  },
+  {
+    "name": "MSI 970A-G43 Plus",
+    "socket": "AM3+",
+    "chipset": "AMD 970"
+  },
+  {
+    "name": "Biostar B350GTN",
+    "socket": "AM4",
+    "chipset": "AMD B350"
+  },
+  {
+    "name": "Gigabyte GA-Z170X-UD3 Ultra",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "Gigabyte GA-Z170X-Gaming G1",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "Gigabyte H370 Aorus Gaming 3",
+    "socket": "LGA 1151",
+    "chipset": "Intel H370"
+  },
+  {
+    "name": "Asus ROG Maximus XI Gene",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z390"
+  },
+  {
+    "name": "Asus Prime B350-Plus",
+    "socket": "AM4",
+    "chipset": "AMD B350"
+  },
+  {
+    "name": "MSI Z170A Tomahawk AC",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "Asrock X570 Steel Legend WiFi ax",
+    "socket": "AM4",
+    "chipset": "AMD X570"
+  },
+  {
+    "name": "Supermicro X11DAi-N",
+    "socket": "2x LGA 3647",
+    "chipset": "Intel C621"
+  },
+  {
+    "name": "Gigabyte GA-H170M-D3H",
+    "socket": "LGA 1151",
+    "chipset": "Intel H170"
+  },
+  {
+    "name": "Asus Z170M-E D3",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "Asus ROG Maximus IX Apex",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z270"
+  },
+  {
+    "name": "Asrock H110M-HDV/D3",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "Asrock X299 Killer SLI/ac",
+    "socket": "LGA 2066",
+    "chipset": "Intel X299"
+  },
+  {
+    "name": "Asrock Fatal1ty X99M Killer/3.1",
+    "socket": "LGA 2011-3",
+    "chipset": "Intel X99"
+  },
+  {
+    "name": "Asrock Fatal1ty 990FX Professional",
+    "socket": "AM3+",
+    "chipset": "AMD 990FX"
+  },
+  {
+    "name": "EVGA Z270 FTW K",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z270"
+  },
+  {
+    "name": "Asrock H110M-HDS R3.0",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "EVGA Z370 FTW",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z370"
+  },
+  {
+    "name": "MSI B350 Gaming Pro Carbon",
+    "socket": "AM4",
+    "chipset": "AMD B350"
+  },
+  {
+    "name": "Gigabyte GA-Z170N-WIFI Rev. 1.0",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "Asus ROG Strix Z370-G Gaming",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z370"
+  },
+  {
+    "name": "Asus ROG Zenith Extreme Alpha",
+    "socket": "TR4",
+    "chipset": "AMD X399"
+  },
+  {
+    "name": "Gigabyte GA-Z170X-Gaming 7 Rev. 1.1",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "MSI H170A Gaming Pro",
+    "socket": "LGA 1151",
+    "chipset": "Intel H170"
+  },
+  {
+    "name": "Gigabyte Z370 UD3H",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z370"
+  },
+  {
+    "name": "Gigabyte X299 UD4 EX",
+    "socket": "LGA 2066",
+    "chipset": "Intel X299"
+  },
+  {
+    "name": "Asrock H170M Pro4S",
+    "socket": "LGA 1151",
+    "chipset": "Intel H170"
+  },
+  {
+    "name": "SOYO SY-B250D4W+",
+    "socket": "LGA 1151",
+    "chipset": "Intel B250"
+  },
+  {
+    "name": "Asrock Z390M-ITX/ac",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z390"
+  },
+  {
+    "name": "Asus WS C422 PRO/SE",
+    "socket": "LGA 2066",
+    "chipset": "Intel C422"
+  },
+  {
+    "name": "Asrock Z270M-ITX/ac",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z270"
+  },
+  {
+    "name": "EVGA Z270 Classified K",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z270"
+  },
+  {
+    "name": "MSI Z170A Krait Gaming 3X",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "Colorful Battle Flag C.X370AK X5",
+    "socket": "AM4",
+    "chipset": "AMD X370"
+  },
+  {
+    "name": "Gigabyte GA-970A-UD3 Rev. 1.2",
+    "socket": "AM3+",
+    "chipset": "AMD 970"
+  },
+  {
+    "name": "Colorful iGame Z270I-WF Gaming",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z270"
+  },
+  {
+    "name": "Maxsun MS-Z170 Pro Terminator",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "Asrock Z170M OC Formula",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "Gigabyte GA-Z170MX-Gaming 5 Rev. 1.1",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "Asus E3 Pro Gaming V5",
+    "socket": "LGA 1151",
+    "chipset": "Intel C232"
+  },
+  {
+    "name": "Gigabyte GA-H170-HD3 DDR3",
+    "socket": "LGA 1151",
+    "chipset": "Intel H170"
+  },
+  {
+    "name": "Biostar A320MD PRO",
+    "socket": "AM4",
+    "chipset": "AMD A320"
+  },
+  {
+    "name": "Gigabyte Z490 Aorus Pro AX",
+    "socket": "LGA 1200",
+    "chipset": "Intel Z490"
+  },
+  {
+    "name": "MSI Z270 Camo Squad",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z270"
+  },
+  {
+    "name": "MSI Z170A-G43 Plus",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "Gigabyte GA-B150N-GSM",
+    "socket": "LGA 1151",
+    "chipset": "Intel B150"
+  },
+  {
+    "name": "Gigabyte GA-H110M-D3H R2 TPM",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "Gigabyte Z390 Designare",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z390"
+  },
+  {
+    "name": "Asus ROG Strix H270I Gaming",
+    "socket": "LGA 1151",
+    "chipset": "Intel H270"
+  },
+  {
+    "name": "MSI B150M PRO-VH",
+    "socket": "LGA 1151",
+    "chipset": "Intel B150"
+  },
+  {
+    "name": "MSI Z170A Gaming M5",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "Gigabyte GA-X58A-UD3R Rev. 1.0",
+    "socket": "LGA 1366",
+    "chipset": "Intel X58"
+  },
+  {
+    "name": "Supermicro X11DPH-i",
+    "socket": "2x LGA 3647",
+    "chipset": "Intel C622"
+  },
+  {
+    "name": "Asus ROG Maximus Formula",
+    "socket": "LGA 775",
+    "chipset": "Intel X38"
+  },
+  {
+    "name": "Gigabyte G1.Guerrilla",
+    "socket": "LGA 1366",
+    "chipset": "Intel X58"
+  },
+  {
+    "name": "Asrock X570 Steel Legend",
+    "socket": "AM4",
+    "chipset": "AMD X570"
+  },
+  {
+    "name": "MSI Z170A Krait Gaming R6 Siege",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "Asus B365M-Pixiu",
+    "socket": "LGA 1151",
+    "chipset": "Intel B365"
+  },
+  {
+    "name": "Gigabyte GA-Z270X-Gaming 8",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z270"
+  },
+  {
+    "name": "Asrock Fatal1ty X470 Gaming-ITX/ac",
+    "socket": "AM4",
+    "chipset": "AMD X470"
+  },
+  {
+    "name": "Asus ROG Maximus VII Impact",
+    "socket": "LGA 1150",
+    "chipset": "Intel Z97"
+  },
+  {
+    "name": "Gigabyte GA-H170M-DS3H",
+    "socket": "LGA 1151",
+    "chipset": "Intel H170"
+  },
+  {
+    "name": "Asus ROG Strix X470-F Gaming",
+    "socket": "AM4",
+    "chipset": "AMD X470"
+  },
+  {
+    "name": "Supermicro X11DPH-T",
+    "socket": "2x LGA 3647",
+    "chipset": "Intel C624"
+  },
+  {
+    "name": "EVGA Z270 Stinger",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z270"
+  },
+  {
+    "name": "Gigabyte Z370N WiFi",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z370"
+  },
+  {
+    "name": "Gigabyte GA-EX58-UD4P",
+    "socket": "LGA 1366",
+    "chipset": "Intel X58"
+  },
+  {
+    "name": "Gigabyte GA-990FXA-UD3 Rev. 4.0",
+    "socket": "AM3+",
+    "chipset": "AMD 990FX"
+  },
+  {
+    "name": "Asrock Z390 Steel Legend",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z390"
+  },
+  {
+    "name": "Asrock B150TM-ITX TPM R2.0",
+    "socket": "LGA 1151",
+    "chipset": "Intel B150"
+  },
+  {
+    "name": "Biostar TB250-BTC D+",
+    "socket": "LGA 1151",
+    "chipset": "Intel B250"
+  },
+  {
+    "name": "Asrock B460 Phantom Gaming 4",
+    "socket": "LGA 1200",
+    "chipset": "Intel B460"
+  },
+  {
+    "name": "Biostar B250GT5",
+    "socket": "LGA 1151",
+    "chipset": "Intel B250"
+  },
+  {
+    "name": "Asus H170-Pro/USB 3.1",
+    "socket": "LGA 1151",
+    "chipset": "Intel H170"
+  },
+  {
+    "name": "Gigabyte GA-B150M-HD3 DDR3",
+    "socket": "LGA 1151",
+    "chipset": "Intel B150"
+  },
+  {
+    "name": "Gigabyte GA-990X-Gaming SLI",
+    "socket": "AM3+",
+    "chipset": "AMD 990X"
+  },
+  {
+    "name": "MSI Z370I Gaming Pro Carbon AC",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z370"
+  },
+  {
+    "name": "Asus Z170-WS",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "Biostar B250ET2",
+    "socket": "LGA 1151",
+    "chipset": "Intel B250"
+  },
+  {
+    "name": "Asus H170M-Plus",
+    "socket": "LGA 1151",
+    "chipset": "Intel H170"
+  },
+  {
+    "name": "ECS H110T-SI01",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "Asus H170I-Plus D3",
+    "socket": "LGA 1151",
+    "chipset": "Intel H170"
+  },
+  {
+    "name": "Asrock Fatal1ty Z170 Gaming K4/D3",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "Asrock AB350M",
+    "socket": "AM4",
+    "chipset": "AMD B350"
+  },
+  {
+    "name": "Gigabyte GA-B150M-DS3H DDR3",
+    "socket": "LGA 1151",
+    "chipset": "Intel B150"
+  },
+  {
+    "name": "Asus TUF X470-Plus Gaming",
+    "socket": "AM4",
+    "chipset": "AMD X470"
+  },
+  {
+    "name": "Asrock AB350M Pro4/Dash",
+    "socket": "AM4",
+    "chipset": "AMD B350"
+  },
+  {
+    "name": "Asrock Fatal1ty FM2A88X+ Killer",
+    "socket": "FM2+",
+    "chipset": "AMD A88X"
+  },
+  {
+    "name": "Asrock Z170 Extreme6",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "Asus ROG Dominus Extreme",
+    "socket": "LGA 3647",
+    "chipset": "Intel C621"
+  },
+  {
+    "name": "Gigabyte GA-AB350M-DS2",
+    "socket": "AM4",
+    "chipset": "AMD B350"
+  },
+  {
+    "name": "ECS H110M-C2H D3L",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "Asus ROG Maximus VI Impact",
+    "socket": "LGA 1150",
+    "chipset": "Intel Z87"
+  },
+  {
+    "name": "SOYO SY-Gaming Z270",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z270"
+  },
+  {
+    "name": "Gigabyte GA-Z170X-Gaming GT",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "Asrock X570 Phantom Gaming 4S",
+    "socket": "AM4",
+    "chipset": "AMD X570"
+  },
+  {
+    "name": "MSI X79A-GD45 Plus",
+    "socket": "LGA 2011",
+    "chipset": "Intel X79"
+  },
+  {
+    "name": "Asrock H170 Pro4/Hyper",
+    "socket": "LGA 1151",
+    "chipset": "Intel H170"
+  },
+  {
+    "name": "Asrock X99E-ITX/ac",
+    "socket": "LGA 2011-3",
+    "chipset": "Intel X99"
+  },
+  {
+    "name": "Asus ROG Maximus XI Hero Wi-Fi",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z390"
+  },
+  {
+    "name": "Asus Prime B250M-J",
+    "socket": "LGA 1151",
+    "chipset": "Intel B250"
+  },
+  {
+    "name": "Asus ROG Maximus IV Extreme",
+    "socket": "LGA 1155",
+    "chipset": "Intel P67"
+  },
+  {
+    "name": "Gigabyte GA-AX370M-Gaming 3",
+    "socket": "AM4",
+    "chipset": "AMD X370"
+  },
+  {
+    "name": "Asrock X470 Master SLI",
+    "socket": "AM4",
+    "chipset": "AMD X470"
+  },
+  {
+    "name": "Gigabyte GA-Z170N-Gaming 5 Rev. 1.1",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "ECS A960M-MV Rev. 1.0",
+    "socket": "AM3+",
+    "chipset": "AMD 760G"
+  },
+  {
+    "name": "Gigabyte Z390 Aorus Master",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z390"
+  },
+  {
+    "name": "Asrock H170 Combo",
+    "socket": "LGA 1151",
+    "chipset": "Intel H170"
+  },
+  {
+    "name": "Asus ROG Crosshair III Formula",
+    "socket": "AM3",
+    "chipset": "AMD 790FX"
+  },
+  {
+    "name": "Gigabyte GA-Z170X-Gaming 5 Rev. 1.1",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "Colorful Battle AXE C.Z170 PLUS",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "Gigabyte GA-B250-D3A",
+    "socket": "LGA 1151",
+    "chipset": "Intel B250"
+  },
+  {
+    "name": "Asus ROG Maximus II Gene",
+    "socket": "LGA 775",
+    "chipset": "Intel P45"
+  },
+  {
+    "name": "Asus ROG Blitz Extreme",
+    "socket": "LGA 775",
+    "chipset": "Intel P35"
+  },
+  {
+    "name": "MSI MPG Z390I Gaming Edge AC",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z390"
+  },
+  {
+    "name": "Asrock B150M-HDS",
+    "socket": "LGA 1151",
+    "chipset": "Intel B150"
+  },
+  {
+    "name": "MSI B150M Mortar",
+    "socket": "LGA 1151",
+    "chipset": "Intel B150"
+  },
+  {
+    "name": "NZXT N7 Z370 Black",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z370"
+  },
+  {
+    "name": "MSI H110M Grenade",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "Gigabyte GA-970A-DS3P Rev. 1.0",
+    "socket": "AM3+",
+    "chipset": "AMD 970"
+  },
+  {
+    "name": "MSI MPG Z390 Gaming Plus",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z390"
+  },
+  {
+    "name": "Asrock B150M Pro4",
+    "socket": "LGA 1151",
+    "chipset": "Intel B150"
+  },
+  {
+    "name": "MSI H270 PC Mate",
+    "socket": "LGA 1151",
+    "chipset": "Intel H270"
+  },
+  {
+    "name": "Asus H170-Plus D3",
+    "socket": "LGA 1151",
+    "chipset": "Intel H170"
+  },
+  {
+    "name": "Asrock X99 OC Formula/3.1",
+    "socket": "LGA 2011-3",
+    "chipset": "Intel X99"
+  },
+  {
+    "name": "Gigabyte GA-Z270X-Gaming 7",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z270"
+  },
+  {
+    "name": "Asrock H110M-DVS/D3",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "Gigabyte GA-X170-WS ECC",
+    "socket": "LGA 1151",
+    "chipset": "Intel C236"
+  },
+  {
+    "name": "Asus X99-Deluxe II",
+    "socket": "LGA 2011-3",
+    "chipset": "Intel X99"
+  },
+  {
+    "name": "MSI B150I Gaming Pro AC",
+    "socket": "LGA 1151",
+    "chipset": "Intel B150"
+  },
+  {
+    "name": "Gigabyte X570 Aorus Pro",
+    "socket": "AM4",
+    "chipset": "AMD X570"
+  },
+  {
+    "name": "Asrock H110M-DGS/D3",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "MSI B150M Bazooka",
+    "socket": "LGA 1151",
+    "chipset": "Intel B150"
+  },
+  {
+    "name": "Asrock Fatal1ty 970 Performance/3.1",
+    "socket": "AM3+",
+    "chipset": "AMD 970"
+  },
+  {
+    "name": "MSI H110M PRO-VDL",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "Asrock B550 Pro4",
+    "socket": "AM4",
+    "chipset": "AMD B550"
+  },
+  {
+    "name": "Asrock H110M-HDV",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "MSI Z270 SLI Plus",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z270"
+  },
+  {
+    "name": "Asrock X570 Phantom Gaming X",
+    "socket": "AM4",
+    "chipset": "AMD X570"
+  },
+  {
+    "name": "Gigabyte GA-Q170M-D3H",
+    "socket": "LGA 1151",
+    "chipset": "Intel Q170"
+  },
+  {
+    "name": "Gigabyte GA-X150M-Pro ECC",
+    "socket": "LGA 1151",
+    "chipset": "Intel C232"
+  },
+  {
+    "name": "Asus EX-B360M-V3",
+    "socket": "LGA 1151",
+    "chipset": "Intel B360"
+  },
+  {
+    "name": "Asrock X299 Taichi XE",
+    "socket": "LGA 2066",
+    "chipset": "Intel X299"
+  },
+  {
+    "name": "Asus Prime Z270M-Plus",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z270"
+  },
+  {
+    "name": "Asus Prime Q270M-C",
+    "socket": "LGA 1151",
+    "chipset": "Intel Q270"
+  },
+  {
+    "name": "Gigabyte GA-Z170X-UD5",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "Asrock IMB-390-L",
+    "socket": "LGA 1151",
+    "chipset": "Intel Q170"
+  },
+  {
+    "name": "Asrock B365M-ITX/ac",
+    "socket": "LGA 1151",
+    "chipset": "Intel B365"
+  },
+  {
+    "name": "Asrock Q170M vPro",
+    "socket": "LGA 1151",
+    "chipset": "Intel Q170"
+  },
+  {
+    "name": "Supermicro X11SSH-F",
+    "socket": "LGA 1151",
+    "chipset": "Intel C236"
+  },
+  {
+    "name": "Asrock H110TM-ITX",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "MSI B250M Gaming Pro",
+    "socket": "LGA 1151",
+    "chipset": "Intel B250"
+  },
+  {
+    "name": "EVGA X299 Dark",
+    "socket": "LGA 2066",
+    "chipset": "Intel X299"
+  },
+  {
+    "name": "Asrock J4205-ITX",
+    "socket": "Onboard CPU",
+    "chipset": "SOC"
+  },
+  {
+    "name": "MSI H110M Gaming",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "Asus ROG Maximus VIII Gene",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "MSI H170 Gaming M3",
+    "socket": "LGA 1151",
+    "chipset": "Intel H170"
+  },
+  {
+    "name": "MSI 970A-G45",
+    "socket": "AM3+",
+    "chipset": "AMD 970"
+  },
+  {
+    "name": "Asus WS Z390 Pro",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z390"
+  },
+  {
+    "name": "Asus TUF Z270 Mark 1",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z270"
+  },
+  {
+    "name": "Asus ROG Rampage III Formula",
+    "socket": "LGA 1366",
+    "chipset": "Intel X58"
+  },
+  {
+    "name": "Asrock B150M-ITX/D3",
+    "socket": "LGA 1151",
+    "chipset": "Intel B150"
+  },
+  {
+    "name": "Asrock H110M Combo-G",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "MSI Z97-G45 Gaming",
+    "socket": "LGA 1150",
+    "chipset": "Intel Z97"
+  },
+  {
+    "name": "Gigabyte GA-A320M-D2P",
+    "socket": "AM4",
+    "chipset": "AMD A320"
+  },
+  {
+    "name": "MSI B150M PRO-VD D3",
+    "socket": "LGA 1151",
+    "chipset": "Intel B150"
+  },
+  {
+    "name": "MSI H170A PC Mate",
+    "socket": "LGA 1151",
+    "chipset": "Intel H170"
+  },
+  {
+    "name": "Gigabyte Z390 Aorus Xtreme Waterforce 5G",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z390"
+  },
+  {
+    "name": "Asrock Z170A-X1/3.1",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "Asrock B150 Combo",
+    "socket": "LGA 1151",
+    "chipset": "Intel B150"
+  },
+  {
+    "name": "Asus ROG Rampage V Edition 10",
+    "socket": "LGA 2011-3",
+    "chipset": "Intel X99"
+  },
+  {
+    "name": "Biostar A70MD Pro",
+    "socket": "FM2+",
+    "chipset": "AMD A70M"
+  },
+  {
+    "name": "Asus Prime B365M-K",
+    "socket": "LGA 1151",
+    "chipset": "Intel B365"
+  },
+  {
+    "name": "Gigabyte GA-Z170X-Gaming 7-EK",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "Asrock H110M-GL/D3",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "Asus Trooper B150 D3",
+    "socket": "LGA 1151",
+    "chipset": "Intel B150"
+  },
+  {
+    "name": "Asus ROG Strix Z370-I Gaming",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z370"
+  },
+  {
+    "name": "Asus ROG Strix Z270G Gaming",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z270"
+  },
+  {
+    "name": "Biostar J3160NH",
+    "socket": "Onboard CPU",
+    "chipset": "SOC"
+  },
+  {
+    "name": "Gigabyte GA-B150M-D3V",
+    "socket": "LGA 1151",
+    "chipset": "Intel B150"
+  },
+  {
+    "name": "MSI B250 Krait Gaming",
+    "socket": "LGA 1151",
+    "chipset": "Intel B250"
+  },
+  {
+    "name": "Asus Q170T",
+    "socket": "LGA 1151",
+    "chipset": "Intel Q170"
+  },
+  {
+    "name": "Gigabyte GA-Z270X-Gaming 9",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z270"
+  },
+  {
+    "name": "Asus H110I-Plus",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "Asus Sabertooth Z170 S",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "Asrock 970 Extreme3",
+    "socket": "AM3+",
+    "chipset": "AMD 970"
+  },
+  {
+    "name": "Supermicro X11SSH-LN4F",
+    "socket": "LGA 1151",
+    "chipset": "Intel C236"
+  },
+  {
+    "name": "Maxsun MS-H110D4L M.4",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "Asus ROG Strix X299-E Gaming",
+    "socket": "LGA 2066",
+    "chipset": "Intel X299"
+  },
+  {
+    "name": "Gigabyte GA-Z270M-D3P",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z270"
+  },
+  {
+    "name": "Asus ROG Strix B360-H Gaming",
+    "socket": "LGA 1151",
+    "chipset": "Intel B360"
+  },
+  {
+    "name": "ECS A960M-M2",
+    "socket": "AM3+",
+    "chipset": "AMD 760G"
+  },
+  {
+    "name": "MSI Z97-GD65 Gaming",
+    "socket": "LGA 1150",
+    "chipset": "Intel Z97"
+  },
+  {
+    "name": "MSI Z170M Mortar",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "MSI H310M Gaming Arctic",
+    "socket": "LGA 1151",
+    "chipset": "Intel H310"
+  },
+  {
+    "name": "Gigabyte X299-WU8",
+    "socket": "LGA 2066",
+    "chipset": "Intel X299"
+  },
+  {
+    "name": "Asrock X99 Extreme11",
+    "socket": "LGA 2011-3",
+    "chipset": "Intel X99"
+  },
+  {
+    "name": "Gigabyte GA-990FXA-UD3 Rev. 3.0",
+    "socket": "AM3+",
+    "chipset": "AMD 990FX"
+  },
+  {
+    "name": "Biostar Hi-Fi A70U3P Rev. 1.4",
+    "socket": "FM2+",
+    "chipset": "AMD A70M"
+  },
+  {
+    "name": "Asus TUF B360-Plus Gaming",
+    "socket": "LGA 1151",
+    "chipset": "Intel B360"
+  },
+  {
+    "name": "Gigabyte GA-X150M-Plus WS",
+    "socket": "LGA 1151",
+    "chipset": "Intel C232"
+  },
+  {
+    "name": "Gigabyte GA-Z170X-UD5 TH",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "Asus B150M-Plus D3",
+    "socket": "LGA 1151",
+    "chipset": "Intel B150"
+  },
+  {
+    "name": "Gigabyte GA-X58-USB3",
+    "socket": "LGA 1366",
+    "chipset": "Intel X58"
+  },
+  {
+    "name": "Asus B150 Pro Gaming D3",
+    "socket": "LGA 1151",
+    "chipset": "Intel B150"
+  },
+  {
+    "name": "Asrock X99 Extreme3",
+    "socket": "LGA 2011-3",
+    "chipset": "Intel X99"
+  },
+  {
+    "name": "Asus ROG Maximus VIII Impact",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "Biostar H110MG Pro D4",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "Asrock Fatal1ty H270M Performance",
+    "socket": "LGA 1151",
+    "chipset": "Intel H270"
+  },
+  {
+    "name": "Asus ROG Rampage IV Formula",
+    "socket": "LGA 2011",
+    "chipset": "Intel X79"
+  },
+  {
+    "name": "MSI B450-A Pro",
+    "socket": "AM4",
+    "chipset": "AMD B450"
+  },
+  {
+    "name": "Asus B150I Pro Gaming/WiFi/Aura",
+    "socket": "LGA 1151",
+    "chipset": "Intel B150"
+  },
+  {
+    "name": "ECS A970M-A Deluxe",
+    "socket": "AM3+",
+    "chipset": "AMD 970"
+  },
+  {
+    "name": "Asrock IMB-156D",
+    "socket": "Onboard CPU",
+    "chipset": "SOC"
+  },
+  {
+    "name": "Asus Prime B250-Plus",
+    "socket": "LGA 1151",
+    "chipset": "Intel B250"
+  },
+  {
+    "name": "Asus TUF Z370-Pro Gaming",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z370"
+  },
+  {
+    "name": "Asus ROG Maximus V Formula/ThunderFX",
+    "socket": "LGA 1155",
+    "chipset": "Intel Z77"
+  },
+  {
+    "name": "Asrock H110M-HDVP",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "Gigabyte C621 Aorus Xtreme",
+    "socket": "LGA 3647",
+    "chipset": "Intel C621"
+  },
+  {
+    "name": "Gigabyte GA-990FXA-UD7 Rev. 3.0",
+    "socket": "AM3+",
+    "chipset": "AMD 990FX"
+  },
+  {
+    "name": "MSI Z270 Gaming M7",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z270"
+  },
+  {
+    "name": "MSI H310M Pro-D Plus",
+    "socket": "LGA 1151",
+    "chipset": "Intel H310"
+  },
+  {
+    "name": "MSI Z170A-G45 Gaming",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "Sapphire Pure Black X79N",
+    "socket": "LGA 2011",
+    "chipset": "Intel X79"
+  },
+  {
+    "name": "Gigabyte GA-Z270X-Gaming SOC",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z270"
+  },
+  {
+    "name": "Gigabyte GA-H110-D3",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "Asus B150M-K D3",
+    "socket": "LGA 1151",
+    "chipset": "Intel B150"
+  },
+  {
+    "name": "Fujitsu D3401-B1",
+    "socket": "LGA 1151",
+    "chipset": "Intel Q150"
+  },
+  {
+    "name": "Gigabyte GA-H170M-D3H DDR3",
+    "socket": "LGA 1151",
+    "chipset": "Intel H170"
+  },
+  {
+    "name": "Asrock FM2A88X Extreme4+",
+    "socket": "FM2+",
+    "chipset": "AMD A88X"
+  },
+  {
+    "name": "Biostar TA990FXE",
+    "socket": "AM3+",
+    "chipset": "AMD 990FX"
+  },
+  {
+    "name": "Asus Prime B365M-A",
+    "socket": "LGA 1151",
+    "chipset": "Intel B365"
+  },
+  {
+    "name": "Asus ROG Crosshair VI Hero Wi-Fi AC",
+    "socket": "AM4",
+    "chipset": "AMD X370"
+  },
+  {
+    "name": "Asus WS X299 Pro",
+    "socket": "LGA 2066",
+    "chipset": "Intel X299"
+  },
+  {
+    "name": "Gigabyte GA-H170M-HD3 DDR3",
+    "socket": "LGA 1151",
+    "chipset": "Intel H170"
+  },
+  {
+    "name": "MSI Z270 MPower Gaming Titanium",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z270"
+  },
+  {
+    "name": "Asus B150-Pro D3",
+    "socket": "LGA 1151",
+    "chipset": "Intel B150"
+  },
+  {
+    "name": "Asrock H170M-ITX/DL",
+    "socket": "LGA 1151",
+    "chipset": "Intel H170"
+  },
+  {
+    "name": "MSI H110 PC Mate",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "Asrock H110TM-ITX R2.0",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "MSI B450 Gaming Plus",
+    "socket": "AM4",
+    "chipset": "AMD B450"
+  },
+  {
+    "name": "Supermicro C7B250-CB-ML",
+    "socket": "LGA 1151",
+    "chipset": "Intel B250"
+  },
+  {
+    "name": "Biostar Hi-Fi H170Z3",
+    "socket": "LGA 1151",
+    "chipset": "Intel H170"
+  },
+  {
+    "name": "Asrock B150M Pro4/D3",
+    "socket": "LGA 1151",
+    "chipset": "Intel B150"
+  },
+  {
+    "name": "Asus ROG Maximus Formula Special Edition",
+    "socket": "LGA 775",
+    "chipset": "Intel X38"
+  },
+  {
+    "name": "Gigabyte GA-Z170X-SOC Force",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "Biostar B250GTN",
+    "socket": "LGA 1151",
+    "chipset": "Intel B250"
+  },
+  {
+    "name": "EVGA Z370 Micro",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z370"
+  },
+  {
+    "name": "Asus B150 Pro Gaming",
+    "socket": "LGA 1151",
+    "chipset": "Intel B150"
+  },
+  {
+    "name": "Asrock H170A-X1",
+    "socket": "LGA 1151",
+    "chipset": "Intel H170"
+  },
+  {
+    "name": "Asrock X570 Aqua",
+    "socket": "AM4",
+    "chipset": "AMD X570"
+  },
+  {
+    "name": "Gigabyte Z390 I Aorus Pro Wifi",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z390"
+  },
+  {
+    "name": "Supermicro X11DDW-NT",
+    "socket": "2x LGA 3647",
+    "chipset": "Intel C622"
+  },
+  {
+    "name": "MSI Z97-G43 Gaming",
+    "socket": "LGA 1150",
+    "chipset": "Intel Z97"
+  },
+  {
+    "name": "Gigabyte GA-Z170N-Gaming 5 Rev. 1.0",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "Asrock X58 Deluxe",
+    "socket": "LGA 1366",
+    "chipset": "Intel X58"
+  },
+  {
+    "name": "Gigabyte GA-X58A-OC",
+    "socket": "LGA 1366",
+    "chipset": "Intel X58"
+  },
+  {
+    "name": "Asrock B150M-HDV",
+    "socket": "LGA 1151",
+    "chipset": "Intel B150"
+  },
+  {
+    "name": "Asus ROG Rampage Extreme",
+    "socket": "LGA 775",
+    "chipset": "Intel X48"
+  },
+  {
+    "name": "Gigabyte Z490 Aorus Elite",
+    "socket": "LGA 1200",
+    "chipset": "Intel Z490"
+  },
+  {
+    "name": "Gigabyte GA-X170-Extreme ECC",
+    "socket": "LGA 1151",
+    "chipset": "Intel C236"
+  },
+  {
+    "name": "Gigabyte GA-Z170X-Designare",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "Fujitsu D3598-B",
+    "socket": "LGA 2066",
+    "chipset": "Intel C422"
+  },
+  {
+    "name": "Asrock Z170M-ITX/ac",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "Gigabyte GA-X58A-UD9",
+    "socket": "LGA 1366",
+    "chipset": "Intel X58"
+  },
+  {
+    "name": "Asrock B460M Steel Legend",
+    "socket": "LGA 1200",
+    "chipset": "Intel B460"
+  },
+  {
+    "name": "Fujitsu D3410-B1",
+    "socket": "LGA 1151",
+    "chipset": "Intel B150"
+  },
+  {
+    "name": "Asrock Fatal1ty B150 Gaming K4/Hyper",
+    "socket": "LGA 1151",
+    "chipset": "Intel B150"
+  },
+  {
+    "name": "Asus ROG Rampage IV Black Edition",
+    "socket": "LGA 2011",
+    "chipset": "Intel X79"
+  },
+  {
+    "name": "MSI H110M PRO-VHL",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "Biostar H170GT3",
+    "socket": "LGA 1151",
+    "chipset": "Intel H170"
+  },
+  {
+    "name": "Asus Z170-Premium",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "Asrock H97 Pro4",
+    "socket": "LGA 1150",
+    "chipset": "Intel H97"
+  },
+  {
+    "name": "Maxsun MS-H110M M.1",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "Asus ROG Crosshair V Formula",
+    "socket": "AM3+",
+    "chipset": "AMD 990FX"
+  },
+  {
+    "name": "Asrock H170 Pro4/D3",
+    "socket": "LGA 1151",
+    "chipset": "Intel H170"
+  },
+  {
+    "name": "MSI B150M Mortar Arctic",
+    "socket": "LGA 1151",
+    "chipset": "Intel B150"
+  },
+  {
+    "name": "Asrock Z97 Extreme9",
+    "socket": "LGA 1150",
+    "chipset": "Intel Z97"
+  },
+  {
+    "name": "Asrock B150M-ITX",
+    "socket": "LGA 1151",
+    "chipset": "Intel B150"
+  },
+  {
+    "name": "Gigabyte GA-AB350M-Gaming 3",
+    "socket": "AM4",
+    "chipset": "AMD B350"
+  },
+  {
+    "name": "MSI Z170A SLI Plus",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "Asrock B150M Pro4S/D3",
+    "socket": "LGA 1151",
+    "chipset": "Intel B150"
+  },
+  {
+    "name": "Gigabyte GA-Z270X-Gaming 5",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z270"
+  },
+  {
+    "name": "Asus Prime B250M-K",
+    "socket": "LGA 1151",
+    "chipset": "Intel B250"
+  },
+  {
+    "name": "Asrock B150M-PIO",
+    "socket": "LGA 1151",
+    "chipset": "Intel B150"
+  },
+  {
+    "name": "Asrock H110M-DVP",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "Gigabyte GA-Z170X-Ultra Gaming",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "Asrock B460M-ITX/ac",
+    "socket": "LGA 1200",
+    "chipset": "Intel B460"
+  },
+  {
+    "name": "Gigabyte GA-990FXA-UD3 Rev. 1.2",
+    "socket": "AM3+",
+    "chipset": "AMD 990FX"
+  },
+  {
+    "name": "Asrock B150M Pro4S",
+    "socket": "LGA 1151",
+    "chipset": "Intel B150"
+  },
+  {
+    "name": "Asus ROG Maximus VIII Hero",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "Asrock 880GM-LE",
+    "socket": "AM3",
+    "chipset": "AMD 880G"
+  },
+  {
+    "name": "Gigabyte GA-B150N Phoenix-WIFI",
+    "socket": "LGA 1151",
+    "chipset": "Intel B150"
+  },
+  {
+    "name": "MSI X299 Tomahawk Arctic",
+    "socket": "LGA 2066",
+    "chipset": "Intel X299"
+  },
+  {
+    "name": "Asrock B365 Phantom Gaming 4",
+    "socket": "LGA 1151",
+    "chipset": "Intel B365"
+  },
+  {
+    "name": "Asus Prime Z270-A",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z270"
+  },
+  {
+    "name": "MSI H170M-A Pro",
+    "socket": "LGA 1151",
+    "chipset": "Intel H170"
+  },
+  {
+    "name": "Asus ROG Strix B350-I Gaming",
+    "socket": "AM4",
+    "chipset": "AMD B350"
+  },
+  {
+    "name": "Asrock X99 Extreme6/ac",
+    "socket": "LGA 2011-3",
+    "chipset": "Intel X99"
+  },
+  {
+    "name": "Biostar B360M D2V",
+    "socket": "LGA 1151",
+    "chipset": "Intel B360"
+  },
+  {
+    "name": "Biostar Z270GTN",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z270"
+  },
+  {
+    "name": "Asrock Z170 Extreme6+",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "Asus H170I-Pro",
+    "socket": "LGA 1151",
+    "chipset": "Intel H170"
+  },
+  {
+    "name": "Asrock IMB-190",
+    "socket": "LGA 1151",
+    "chipset": "Intel Q170"
+  },
+  {
+    "name": "Asrock Fatal1ty 990FX Killer/3.1",
+    "socket": "AM3+",
+    "chipset": "AMD 990FX"
+  },
+  {
+    "name": "Asus Prime B250-Pro",
+    "socket": "LGA 1151",
+    "chipset": "Intel B250"
+  },
+  {
+    "name": "Biostar Z270GT8",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z270"
+  },
+  {
+    "name": "Asus ROG Crosshair",
+    "socket": "AM2",
+    "chipset": "Nvidia nForce 590 SLI"
+  },
+  {
+    "name": "Gigabyte GA-H170-Designare",
+    "socket": "LGA 1151",
+    "chipset": "Intel H170"
+  },
+  {
+    "name": "EVGA X79 FTW",
+    "socket": "LGA 2011",
+    "chipset": "Intel X79"
+  },
+  {
+    "name": "Asrock H97M-ITX/ac",
+    "socket": "LGA 1150",
+    "chipset": "Intel H97"
+  },
+  {
+    "name": "Maxsun MS-H110D4 Turbo M.1",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "EVGA X79 SLI",
+    "socket": "LGA 2011",
+    "chipset": "Intel X79"
+  },
+  {
+    "name": "Asus ROG Maximus VIII Hero Alpha",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "MSI Z170I Gaming Pro AC",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "Gigabyte B360M D3P",
+    "socket": "LGA 1151",
+    "chipset": "Intel B360"
+  },
+  {
+    "name": "EVGA Z97 Classified",
+    "socket": "LGA 1150",
+    "chipset": "Intel Z97"
+  },
+  {
+    "name": "Biostar H110MD Pro D4",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "Gigabyte MW51-HP0",
+    "socket": "LGA 2066",
+    "chipset": "Intel C422"
+  },
+  {
+    "name": "Gigabyte GA-Z170X-Gaming 3 Rev. 1.0",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "Supermicro C7Z370-CG-IW",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z370"
+  },
+  {
+    "name": "Asus ROG Strix B250I Gaming",
+    "socket": "LGA 1151",
+    "chipset": "Intel B250"
+  },
+  {
+    "name": "Asrock 970 Pro3 R2.0",
+    "socket": "AM3+",
+    "chipset": "AMD 970"
+  },
+  {
+    "name": "Asus B150I Pro Gaming/Aura",
+    "socket": "LGA 1151",
+    "chipset": "Intel B150"
+  },
+  {
+    "name": "ECS H110I-C33",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "MSI Z97 Guard-Pro",
+    "socket": "LGA 1150",
+    "chipset": "Intel Z97"
+  },
+  {
+    "name": "Asus B365M-Basalt",
+    "socket": "LGA 1151",
+    "chipset": "Intel B365"
+  },
+  {
+    "name": "Asus ROG Strix Z490-I Gaming",
+    "socket": "LGA 1200",
+    "chipset": "Intel Z490"
+  },
+  {
+    "name": "MSI Z170A XPower Gaming Titanium Edition",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "MSI H370M Bazooka",
+    "socket": "LGA 1151",
+    "chipset": "Intel H370"
+  },
+  {
+    "name": "EVGA X299 FTW-K",
+    "socket": "LGA 2066",
+    "chipset": "Intel X299"
+  },
+  {
+    "name": "ECS Z370 Lightsaber",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z370"
+  },
+  {
+    "name": "Colorful iGame Z270 Ymir-U",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z270"
+  },
+  {
+    "name": "Asus ROG Strix X370-I Gaming",
+    "socket": "AM4",
+    "chipset": "AMD X370"
+  },
+  {
+    "name": "Gigabyte GA-X99-Ultra Gaming Rev. 1.0",
+    "socket": "LGA 2011-3",
+    "chipset": "Intel X99"
+  },
+  {
+    "name": "MSI B250I Pro",
+    "socket": "LGA 1151",
+    "chipset": "Intel B250"
+  },
+  {
+    "name": "Asrock H170M-ITX/ac",
+    "socket": "LGA 1151",
+    "chipset": "Intel H170"
+  },
+  {
+    "name": "Gigabyte GA-Z170MX-Gaming 5 Rev. 1.0",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "Asrock X99 WS-E/10G",
+    "socket": "LGA 2011-3",
+    "chipset": "Intel X99"
+  },
+  {
+    "name": "Gigabyte GA-X150-Pro ECC",
+    "socket": "LGA 1151",
+    "chipset": "Intel C232"
+  },
+  {
+    "name": "Gigabyte GA-Z170-Gaming K3 Rev. 1.0",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "Gigabyte GA-Z170-HD3",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "MSI Z270 Krait Gaming",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z270"
+  },
+  {
+    "name": "MSI H270I Gaming Pro AC",
+    "socket": "LGA 1151",
+    "chipset": "Intel H270"
+  },
+  {
+    "name": "Asrock Z370 Killer SLI",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z370"
+  },
+  {
+    "name": "MSI MEG X570 Creation",
+    "socket": "AM4",
+    "chipset": "AMD X570"
+  },
+  {
+    "name": "Asrock H470 Phantom Gaming 4",
+    "socket": "LGA 1200",
+    "chipset": "Intel H470"
+  },
+  {
+    "name": "Asrock Fatal1ty Z170 Professional Gaming i7",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "Gigabyte X299 Aorus Gaming 7 Pro",
+    "socket": "LGA 2066",
+    "chipset": "Intel X299"
+  },
+  {
+    "name": "Asrock IMB-791",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "Gigabyte GA-H170TN",
+    "socket": "LGA 1151",
+    "chipset": "Intel H170"
+  },
+  {
+    "name": "Gigabyte X470 Aorus Gaming 7 Wifi Rev. 1.1",
+    "socket": "AM4",
+    "chipset": "AMD X470"
+  },
+  {
+    "name": "Asrock X99 Extreme6/3.1",
+    "socket": "LGA 2011-3",
+    "chipset": "Intel X99"
+  },
+  {
+    "name": "Asus ROG Maximus IV Gene-Z",
+    "socket": "LGA 1155",
+    "chipset": "Intel Z68"
+  },
+  {
+    "name": "EVGA X99 FTW-K",
+    "socket": "LGA 2011-3",
+    "chipset": "Intel X99"
+  },
+  {
+    "name": "Gigabyte GA-Z170X-Gaming 5 Rev. 1.0",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "MSI X79A-GD45 (8D)",
+    "socket": "LGA 2011",
+    "chipset": "Intel X79"
+  },
+  {
+    "name": "MSI X99A SLI Krait Edition",
+    "socket": "LGA 2011-3",
+    "chipset": "Intel X99"
+  },
+  {
+    "name": "EVGA X79 Classified",
+    "socket": "LGA 2011",
+    "chipset": "Intel X79"
+  },
+  {
+    "name": "Asrock X299 Steel Legend",
+    "socket": "LGA 2066",
+    "chipset": "Intel X299"
+  },
+  {
+    "name": "MSI Z270 Gaming M5",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z270"
+  },
+  {
+    "name": "Asrock Z390 Phantom Gaming-ITX/ac",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z390"
+  },
+  {
+    "name": "ECS H110I-C4P",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "MSI B250M Bazooka Opt Boost",
+    "socket": "LGA 1151",
+    "chipset": "Intel B250"
+  },
+  {
+    "name": "Biostar Hi-Fi B150 PIO D4",
+    "socket": "LGA 1151",
+    "chipset": "Intel B150"
+  },
+  {
+    "name": "Asrock Fatal1ty Z170 Gaming K6",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "Asrock B150 Pro4/3.1",
+    "socket": "LGA 1151",
+    "chipset": "Intel B150"
+  },
+  {
+    "name": "Asus EX-B360M-V5",
+    "socket": "LGA 1151",
+    "chipset": "Intel B360"
+  },
+  {
+    "name": "Asrock H110M-ITX/D3",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "Asrock B150A-X1",
+    "socket": "LGA 1151",
+    "chipset": "Intel B150"
+  },
+  {
+    "name": "MSI B150M Gaming Pro",
+    "socket": "LGA 1151",
+    "chipset": "Intel B150"
+  },
+  {
+    "name": "MSI Z270 Gaming M6 AC",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z270"
+  },
+  {
+    "name": "Fujitsu D3410-B2",
+    "socket": "LGA 1151",
+    "chipset": "Intel B150"
+  },
+  {
+    "name": "Gigabyte GA-990FXA-UD5 Rev. 3.1",
+    "socket": "AM3+",
+    "chipset": "AMD 990FX"
+  },
+  {
+    "name": "Asrock IMB-198M",
+    "socket": "Onboard CPU",
+    "chipset": "SOC"
+  },
+  {
+    "name": "Gigabyte Z390 Aorus Pro",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z390"
+  },
+  {
+    "name": "MSI Z170A Gaming M7",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "Gigabyte GA-970A-UD3P Rev. 1.0",
+    "socket": "AM3+",
+    "chipset": "AMD 970"
+  },
+  {
+    "name": "Gigabyte H310M S2V",
+    "socket": "LGA 1151",
+    "chipset": "Intel H310"
+  },
+  {
+    "name": "MSI B250M Pro Opt Boost",
+    "socket": "LGA 1151",
+    "chipset": "Intel B250"
+  },
+  {
+    "name": "Biostar Gaming H170T",
+    "socket": "LGA 1151",
+    "chipset": "Intel H170"
+  },
+  {
+    "name": "Biostar B150GTN",
+    "socket": "LGA 1151",
+    "chipset": "Intel B150"
+  },
+  {
+    "name": "MSI Z370 SLI Plus",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z370"
+  },
+  {
+    "name": "Asrock IMB-199V",
+    "socket": "Onboard CPU",
+    "chipset": "SOC"
+  },
+  {
+    "name": "Asus Z170I Pro Gaming",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "Asrock H170A-X1/3.1",
+    "socket": "LGA 1151",
+    "chipset": "Intel H170"
+  },
+  {
+    "name": "MSI B360 Gaming Pro Carbon",
+    "socket": "LGA 1151",
+    "chipset": "Intel B360"
+  },
+  {
+    "name": "Asrock A320M-DVS R3.0",
+    "socket": "AM4",
+    "chipset": "AMD A320"
+  },
+  {
+    "name": "Gigabyte G1.Assassin",
+    "socket": "LGA 1366",
+    "chipset": "Intel X58"
+  },
+  {
+    "name": "Asus TUF Z390-Pro Gaming",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z390"
+  },
+  {
+    "name": "MSI MEG X399 Creation",
+    "socket": "TR4",
+    "chipset": "AMD X399"
+  },
+  {
+    "name": "Asrock Fatal1ty B150 Gaming K4/D3",
+    "socket": "LGA 1151",
+    "chipset": "Intel B150"
+  },
+  {
+    "name": "Asrock IMB-194-D",
+    "socket": "LGA 1151",
+    "chipset": "Intel Q170"
+  },
+  {
+    "name": "Maxsun MS-H110D4 DVR",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "Asus B150M-C",
+    "socket": "LGA 1151",
+    "chipset": "Intel B150"
+  },
+  {
+    "name": "Asrock H97M Anniversary",
+    "socket": "LGA 1150",
+    "chipset": "Intel H97"
+  },
+  {
+    "name": "Biostar TPower X79",
+    "socket": "LGA 2011",
+    "chipset": "Intel X79"
+  },
+  {
+    "name": "Gigabyte GA-970A-D3P Rev. 1.0",
+    "socket": "AM3+",
+    "chipset": "AMD 970"
+  },
+  {
+    "name": "Asus ROG Striker",
+    "socket": "LGA 775",
+    "chipset": "Nvidia 680i SLI"
+  },
+  {
+    "name": "Asus ROG Blitz Formula",
+    "socket": "LGA 775",
+    "chipset": "Intel P35"
+  },
+  {
+    "name": "Asrock Z170M Pro4",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "Gigabyte GA-970A-UD3 Rev. 1.0",
+    "socket": "AM3+",
+    "chipset": "AMD 970"
+  },
+  {
+    "name": "Biostar Hi-Fi B350S1",
+    "socket": "AM4",
+    "chipset": "AMD B350"
+  },
+  {
+    "name": "Asrock Fatal1ty Z170 Gaming-ITX/ac",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "Asrock H370M-ITX/ac",
+    "socket": "LGA 1151",
+    "chipset": "Intel H370"
+  },
+  {
+    "name": "Biostar X470GT8",
+    "socket": "AM4",
+    "chipset": "AMD X470"
+  },
+  {
+    "name": "Asrock X99 Extreme4",
+    "socket": "LGA 2011-3",
+    "chipset": "Intel X99"
+  },
+  {
+    "name": "Biostar Hi-Fi A70U3P Rev. 1.2",
+    "socket": "FM2+",
+    "chipset": "AMD A70M"
+  },
+  {
+    "name": "Asrock Q170M vPro+",
+    "socket": "LGA 1151",
+    "chipset": "Intel Q170"
+  },
+  {
+    "name": "Asrock B150A-X1/Hyper",
+    "socket": "LGA 1151",
+    "chipset": "Intel B150"
+  },
+  {
+    "name": "MSI Z97-G55 SLI",
+    "socket": "LGA 1150",
+    "chipset": "Intel Z97"
+  },
+  {
+    "name": "MSI X79A-GD45",
+    "socket": "LGA 2011",
+    "chipset": "Intel X79"
+  },
+  {
+    "name": "EVGA X99 FTW",
+    "socket": "LGA 2011-3",
+    "chipset": "Intel X99"
+  },
+  {
+    "name": "Biostar Z270GT6",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z270"
+  },
+  {
+    "name": "Biostar Z370GT6",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z370"
+  },
+  {
+    "name": "Gigabyte GA-AB350-Gaming",
+    "socket": "AM4",
+    "chipset": "AMD B350"
+  },
+  {
+    "name": "Asrock X399 Phantom Gaming 6",
+    "socket": "TR4",
+    "chipset": "AMD X399"
+  },
+  {
+    "name": "MSI B150M Grenade",
+    "socket": "LGA 1151",
+    "chipset": "Intel B150"
+  },
+  {
+    "name": "Gigabyte GA-H270-DS3H",
+    "socket": "LGA 1151",
+    "chipset": "Intel H270"
+  },
+  {
+    "name": "Asrock X99 WS",
+    "socket": "LGA 2011-3",
+    "chipset": "Intel X99"
+  },
+  {
+    "name": "Gigabyte GA-990XA-UD3 Rev. 3.1",
+    "socket": "AM3+",
+    "chipset": "AMD 990X"
+  },
+  {
+    "name": "Gigabyte GA-EX58-UD4",
+    "socket": "LGA 1366",
+    "chipset": "Intel X58"
+  },
+  {
+    "name": "Asus Prime X570-Pro",
+    "socket": "AM4",
+    "chipset": "AMD X570"
+  },
+  {
+    "name": "Asus ROG Maximus VIII Formula",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "MSI B360-F Pro",
+    "socket": "LGA 1151",
+    "chipset": "Intel B360"
+  },
+  {
+    "name": "Asus Sabertooth 990FX/GEN3 R2.0",
+    "socket": "AM3+",
+    "chipset": "AMD 990FX"
+  },
+  {
+    "name": "Asus E3-Pro V5",
+    "socket": "LGA 1151",
+    "chipset": "Intel C232"
+  },
+  {
+    "name": "Asrock 880GMH-LE/USB3",
+    "socket": "AM3",
+    "chipset": "AMD 880G"
+  },
+  {
+    "name": "Asus B250M-C Pro",
+    "socket": "LGA 1151",
+    "chipset": "Intel B250"
+  },
+  {
+    "name": "Asrock H110M-DGS R2.0",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "Asrock FM2A88X Extreme6+",
+    "socket": "FM2+",
+    "chipset": "AMD A88X"
+  },
+  {
+    "name": "Asrock 880GMH/U3S3",
+    "socket": "AM3+",
+    "chipset": "AMD 880G"
+  },
+  {
+    "name": "Asrock H110M-I",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "Asrock 870 Extreme3 R2.0",
+    "socket": "AM3+",
+    "chipset": "AMD 870"
+  },
+  {
+    "name": "Asrock H170 Pro4S",
+    "socket": "LGA 1151",
+    "chipset": "Intel H170"
+  },
+  {
+    "name": "ECS B150H4-M6",
+    "socket": "LGA 1151",
+    "chipset": "Intel B150"
+  },
+  {
+    "name": "Asus TUF B360-Pro Gaming",
+    "socket": "LGA 1151",
+    "chipset": "Intel B360"
+  },
+  {
+    "name": "Asus ROG Strix X470-I Gaming",
+    "socket": "AM4",
+    "chipset": "AMD X470"
+  },
+  {
+    "name": "Gigabyte GA-970-Gaming Rev. 1.0",
+    "socket": "AM3+",
+    "chipset": "AMD 970"
+  },
+  {
+    "name": "Asrock X399D8A-2T",
+    "socket": "TR4",
+    "chipset": "AMD X399"
+  },
+  {
+    "name": "Gigabyte Z490I Aorus Ultra",
+    "socket": "LGA 1200",
+    "chipset": "Intel Z490"
+  },
+  {
+    "name": "Biostar B350GT3",
+    "socket": "AM4",
+    "chipset": "AMD B350"
+  },
+  {
+    "name": "MSI B150M PRO-VD",
+    "socket": "LGA 1151",
+    "chipset": "Intel B150"
+  },
+  {
+    "name": "Asus ROG Crosshair VIII Formula",
+    "socket": "AM4",
+    "chipset": "AMD X570"
+  },
+  {
+    "name": "Asus ROG Maximus VIII Extreme/Assembly",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "ECS A990FXM-A Rev. 1.0",
+    "socket": "AM3+",
+    "chipset": "AMD 990FX"
+  },
+  {
+    "name": "Asus Prime H270M-Plus",
+    "socket": "LGA 1151",
+    "chipset": "Intel H270"
+  },
+  {
+    "name": "MSI Z170A MPower Gaming Titanium",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "Biostar B365MHC",
+    "socket": "LGA 1151",
+    "chipset": "Intel B365"
+  },
+  {
+    "name": "Asus A320M-C",
+    "socket": "AM4",
+    "chipset": "AMD A320"
+  },
+  {
+    "name": "MSI B150M PRO-VDH D3",
+    "socket": "LGA 1151",
+    "chipset": "Intel B150"
+  },
+  {
+    "name": "Gigabyte GA-970A-D3 Rev. 1.4",
+    "socket": "AM3+",
+    "chipset": "AMD 970"
+  },
+  {
+    "name": "Biostar Hi-Fi Z170Z5",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "EVGA Classified SR-2",
+    "socket": "2x LGA 1366",
+    "chipset": "Intel 5520"
+  },
+  {
+    "name": "ECS A320AM4-M3",
+    "socket": "AM4",
+    "chipset": "AMD A320"
+  },
+  {
+    "name": "Asrock Z97 OC Formula",
+    "socket": "LGA 1150",
+    "chipset": "Intel Z97"
+  },
+  {
+    "name": "Asrock Fatal1ty B450 Gaming-ITX/ac",
+    "socket": "AM4",
+    "chipset": "AMD B450"
+  },
+  {
+    "name": "Biostar H110MLC",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "Asrock Z170A-X1",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "MSI B360-A Pro",
+    "socket": "LGA 1151",
+    "chipset": "Intel B360"
+  },
+  {
+    "name": "Asrock H170 Pro4",
+    "socket": "LGA 1151",
+    "chipset": "Intel H170"
+  },
+  {
+    "name": "Asrock 890GM Pro3",
+    "socket": "AM3",
+    "chipset": "AMD 890GX"
+  },
+  {
+    "name": "MSI B150M PRO-VHL",
+    "socket": "LGA 1151",
+    "chipset": "Intel B150"
+  },
+  {
+    "name": "Asrock Z170 Extreme4+",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "Gigabyte GA-970A-D3 Rev. 1.3",
+    "socket": "AM3+",
+    "chipset": "AMD 970"
+  },
+  {
+    "name": "Gigabyte X299 Aorus Master",
+    "socket": "LGA 2066",
+    "chipset": "Intel X299"
+  },
+  {
+    "name": "Asus KNPA-U16",
+    "socket": "SP3",
+    "chipset": "None + None"
+  },
+  {
+    "name": "MSI X299 Gaming M7 ACK",
+    "socket": "LGA 2066",
+    "chipset": "Intel X299"
+  },
+  {
+    "name": "MSI Z270 Tomahawk",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z270"
+  },
+  {
+    "name": "Gigabyte GA-Z270-D3",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z270"
+  },
+  {
+    "name": "Asus ROG Crosshair VII Hero",
+    "socket": "AM4",
+    "chipset": "AMD X470"
+  },
+  {
+    "name": "Maxsun MS-Meterstone B250M Gaming",
+    "socket": "LGA 1151",
+    "chipset": "Intel B250"
+  },
+  {
+    "name": "Gigabyte GA-970A-D3 Rev. 1.2",
+    "socket": "AM3+",
+    "chipset": "AMD 970"
+  },
+  {
+    "name": "Gigabyte GA-B150M-D2V DDR3",
+    "socket": "LGA 1151",
+    "chipset": "Intel B150"
+  },
+  {
+    "name": "MSI X370 Gaming Pro Carbon AC",
+    "socket": "AM4",
+    "chipset": "AMD X370"
+  },
+  {
+    "name": "MSI C236M Workstation",
+    "socket": "LGA 1151",
+    "chipset": "Intel C236"
+  },
+  {
+    "name": "MSI B450M Gaming Plus",
+    "socket": "AM4",
+    "chipset": "AMD B450"
+  },
+  {
+    "name": "Asus TUF Z390M-Pro Gaming",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z390"
+  },
+  {
+    "name": "Gigabyte X399 Aorus Xtreme",
+    "socket": "TR4",
+    "chipset": "AMD X399"
+  },
+  {
+    "name": "Asrock Q370M vPro",
+    "socket": "LGA 1151",
+    "chipset": "Intel Q370"
+  },
+  {
+    "name": "MSI A320M Pro-VD",
+    "socket": "AM4",
+    "chipset": "AMD A320"
+  },
+  {
+    "name": "MSI B150M PRO-DH",
+    "socket": "LGA 1151",
+    "chipset": "Intel B150"
+  },
+  {
+    "name": "Asus ROG Crosshair VII Hero (Wi-Fi)",
+    "socket": "AM4",
+    "chipset": "AMD X470"
+  },
+  {
+    "name": "EVGA Z97 Stinger WiFi",
+    "socket": "LGA 1150",
+    "chipset": "Intel Z97"
+  },
+  {
+    "name": "MSI Z270 Gaming M3",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z270"
+  },
+  {
+    "name": "Jetway NF791",
+    "socket": "Onboard CPU",
+    "chipset": "SOC"
+  },
+  {
+    "name": "Asrock X399M Taichi",
+    "socket": "TR4",
+    "chipset": "AMD X399"
+  },
+  {
+    "name": "Asrock B150M-HDV/D3",
+    "socket": "LGA 1151",
+    "chipset": "Intel B150"
+  },
+  {
+    "name": "Jetway NF592-Q170",
+    "socket": "LGA 1151",
+    "chipset": "Intel Q170"
+  },
+  {
+    "name": "Maxsun MS-B250D4 Turbo M.2",
+    "socket": "LGA 1151",
+    "chipset": "Intel B250"
+  },
+  {
+    "name": "Asrock B550 Taichi",
+    "socket": "AM4",
+    "chipset": "AMD B550"
+  },
+  {
+    "name": "Gigabyte GA-970A-D3 Rev. 1.0",
+    "socket": "AM3+",
+    "chipset": "AMD 970"
+  },
+  {
+    "name": "Biostar B150GT5",
+    "socket": "LGA 1151",
+    "chipset": "Intel B150"
+  },
+  {
+    "name": "Gigabyte GA-B150N Phoenix",
+    "socket": "LGA 1151",
+    "chipset": "Intel B150"
+  },
+  {
+    "name": "MSI X79A-GD65 (8D)",
+    "socket": "LGA 2011",
+    "chipset": "Intel X79"
+  },
+  {
+    "name": "Gigabyte GA-Z170M-D3H",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "MSI B150M PRO-D",
+    "socket": "LGA 1151",
+    "chipset": "Intel B150"
+  },
+  {
+    "name": "Maxsun MS-Z270 Gaming Pro",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z270"
+  },
+  {
+    "name": "Gigabyte B360 Aorus Gaming 3 Wifi",
+    "socket": "LGA 1151",
+    "chipset": "Intel B360"
+  },
+  {
+    "name": "MSI Z170A Gaming M6",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "Asus H170-Pro",
+    "socket": "LGA 1151",
+    "chipset": "Intel H170"
+  },
+  {
+    "name": "Asrock X570 Extreme4 WiFi ax",
+    "socket": "AM4",
+    "chipset": "AMD X570"
+  },
+  {
+    "name": "Asrock B150 Pro4/D3",
+    "socket": "LGA 1151",
+    "chipset": "Intel B150"
+  },
+  {
+    "name": "MSI H170M PRO-DH",
+    "socket": "LGA 1151",
+    "chipset": "Intel H170"
+  },
+  {
+    "name": "Asrock Z490M Pro4",
+    "socket": "LGA 1200",
+    "chipset": "Intel Z490"
+  },
+  {
+    "name": "Biostar J3060NH",
+    "socket": "Onboard CPU",
+    "chipset": "SOC"
+  },
+  {
+    "name": "Asrock X99 OC Formula",
+    "socket": "LGA 2011-3",
+    "chipset": "Intel X99"
+  },
+  {
+    "name": "Gigabyte Z390 Aorus Xtreme",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z390"
+  },
+  {
+    "name": "MSI B150I Gaming Pro",
+    "socket": "LGA 1151",
+    "chipset": "Intel B150"
+  },
+  {
+    "name": "Gigabyte B360 Aorus Gaming 3",
+    "socket": "LGA 1151",
+    "chipset": "Intel B360"
+  },
+  {
+    "name": "Gigabyte X470 Aorus Gaming 7 Wifi Rev. 1.0",
+    "socket": "AM4",
+    "chipset": "AMD X470"
+  },
+  {
+    "name": "Maxsun MS-iCraft Z370 Gaming",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z370"
+  },
+  {
+    "name": "Asrock IMB-194-L",
+    "socket": "LGA 1151",
+    "chipset": "Intel Q170"
+  },
+  {
+    "name": "Asrock B550 Steel Legend",
+    "socket": "AM4",
+    "chipset": "AMD B550"
+  },
+  {
+    "name": "Asrock IMB-191",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "Asrock 870 Extreme3",
+    "socket": "AM3",
+    "chipset": "AMD 870"
+  },
+  {
+    "name": "Gigabyte B450 Aorus Pro",
+    "socket": "AM4",
+    "chipset": "AMD B450"
+  },
+  {
+    "name": "Maxsun MS-M3A77D",
+    "socket": "AM3",
+    "chipset": "AMD 770"
+  },
+  {
+    "name": "Asrock IMB-157D",
+    "socket": "Onboard CPU",
+    "chipset": "SOC"
+  },
+  {
+    "name": "Asrock H110M-ITX",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "MSI X299M Gaming Pro Carbon AC",
+    "socket": "LGA 2066",
+    "chipset": "Intel X299"
+  },
+  {
+    "name": "Asrock 880GXH/USB3",
+    "socket": "AM3",
+    "chipset": "AMD 880G"
+  },
+  {
+    "name": "Asus ROG Maximus XI Code",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z390"
+  },
+  {
+    "name": "Asrock Fatal1ty Z170 Gaming K6+",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "MSI Z170A Gaming M9 ACK",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "Asrock H110M-PIO",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "Asrock H310M-HDVP",
+    "socket": "LGA 1151",
+    "chipset": "Intel H310"
+  },
+  {
+    "name": "Biostar J3160MP",
+    "socket": "Onboard CPU",
+    "chipset": "SOC"
+  },
+  {
+    "name": "MSI H110I Pro",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "Biostar Z270GT9",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z270"
+  },
+  {
+    "name": "Biostar Z270GT4",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z270"
+  },
+  {
+    "name": "MSI X79MA-GD45",
+    "socket": "LGA 2011",
+    "chipset": "Intel X79"
+  },
+  {
+    "name": "Asrock Fatal1ty Z170 Gaming K4",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "Jetway NF594-Q170",
+    "socket": "LGA 1151",
+    "chipset": "Intel Q170"
+  },
+  {
+    "name": "Gigabyte GA-EX58-UD3R Rev. 1.7",
+    "socket": "LGA 1366",
+    "chipset": "Intel X58"
+  },
+  {
+    "name": "MSI Z97A SLI Krait Edition",
+    "socket": "LGA 1150",
+    "chipset": "Intel Z97"
+  },
+  {
+    "name": "Biostar Z170GT7",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "MSI X470 Gaming Pro",
+    "socket": "AM4",
+    "chipset": "AMD X470"
+  },
+  {
+    "name": "Asrock IMB-195",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "Asrock B460 Steel Legend",
+    "socket": "LGA 1200",
+    "chipset": "Intel B460"
+  },
+  {
+    "name": "Asrock IMB-391",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "Asus B150M-A/M.2",
+    "socket": "LGA 1151",
+    "chipset": "Intel B150"
+  },
+  {
+    "name": "Gigabyte H370N Wifi",
+    "socket": "LGA 1151",
+    "chipset": "Intel H370"
+  },
+  {
+    "name": "Asus Z170-E",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "MSI Z270I Gaming Pro Carbon AC",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z270"
+  },
+  {
+    "name": "Asrock IMB-195-D",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "Asrock X570 Extreme4",
+    "socket": "AM4",
+    "chipset": "AMD X570"
+  },
+  {
+    "name": "Gigabyte GA-AX370-Gaming",
+    "socket": "AM4",
+    "chipset": "AMD X370"
+  },
+  {
+    "name": "Asrock B150M-DVS R2.0",
+    "socket": "LGA 1151",
+    "chipset": "Intel B150"
+  },
+  {
+    "name": "Gigabyte GA-B150M-D3V DDR3",
+    "socket": "LGA 1151",
+    "chipset": "Intel B150"
+  },
+  {
+    "name": "Asus TUF B450-Pro Gaming",
+    "socket": "AM4",
+    "chipset": "AMD B450"
+  },
+  {
+    "name": "Asrock H97 Anniversary",
+    "socket": "LGA 1150",
+    "chipset": "Intel H97"
+  },
+  {
+    "name": "Asrock H470 Steel Legend",
+    "socket": "LGA 1200",
+    "chipset": "Intel H470"
+  },
+  {
+    "name": "ECS Q170H4-M6",
+    "socket": "LGA 1151",
+    "chipset": "Intel Q170"
+  },
+  {
+    "name": "Asus B150-Plus",
+    "socket": "LGA 1151",
+    "chipset": "Intel B150"
+  },
+  {
+    "name": "Gigabyte GA-EX58-DS4",
+    "socket": "LGA 1366",
+    "chipset": "Intel X58"
+  },
+  {
+    "name": "Biostar H110MGC",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "MSI Z370 Gaming Pro Carbon",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z370"
+  },
+  {
+    "name": "Gigabyte GA-Z170X-Gaming 6 Rev. 1.0",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "Asrock H97M Pro4",
+    "socket": "LGA 1150",
+    "chipset": "Intel H97"
+  },
+  {
+    "name": "Asrock H370 Pro4",
+    "socket": "LGA 1151",
+    "chipset": "Intel H370"
+  },
+  {
+    "name": "Asrock A320M-HDV R3.0",
+    "socket": "AM4",
+    "chipset": "AMD A320"
+  },
+  {
+    "name": "ECS Z270H4-I",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z270"
+  },
+  {
+    "name": "Asus Z170-Pro",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "Asus Prime X570-P",
+    "socket": "AM4",
+    "chipset": "AMD X570"
+  },
+  {
+    "name": "ECS Z170-Claymore",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "Gigabyte GA-990FXA-UD3 Rev. 1.1",
+    "socket": "AM3+",
+    "chipset": "AMD 990FX"
+  },
+  {
+    "name": "MSI Z170 Krait Gaming",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "MSI B150M PRO-DDP",
+    "socket": "LGA 1151",
+    "chipset": "Intel B150"
+  },
+  {
+    "name": "Biostar H110MDE",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "Gigabyte GA-B150-HD3 DDR3",
+    "socket": "LGA 1151",
+    "chipset": "Intel B150"
+  },
+  {
+    "name": "NZXT N7 Z390 Black",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z390"
+  },
+  {
+    "name": "Gigabyte GA-B150M-DS3P",
+    "socket": "LGA 1151",
+    "chipset": "Intel B150"
+  },
+  {
+    "name": "MSI X370 Gaming M7 ACK",
+    "socket": "AM4",
+    "chipset": "AMD X370"
+  },
+  {
+    "name": "Gigabyte GA-970A-UD3 Rev. 3.0",
+    "socket": "AM3+",
+    "chipset": "AMD 970"
+  },
+  {
+    "name": "ECS H110M4-C3V",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "Biostar Gaming Z170W",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "MSI H170M PRO-VDH D3",
+    "socket": "LGA 1151",
+    "chipset": "Intel H170"
+  },
+  {
+    "name": "Asrock Fatal1ty B150 Gaming K4",
+    "socket": "LGA 1151",
+    "chipset": "Intel B150"
+  },
+  {
+    "name": "Jetway NF693",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "Asrock Z97M OC Formula",
+    "socket": "LGA 1150",
+    "chipset": "Intel Z97"
+  },
+  {
+    "name": "Asrock E3V5 WS",
+    "socket": "LGA 1151",
+    "chipset": "Intel C232"
+  },
+  {
+    "name": "Gigabyte X299 Aorus Gaming",
+    "socket": "LGA 2066",
+    "chipset": "Intel X299"
+  },
+  {
+    "name": "Biostar H110MDS2 Pro D4",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "MSI Z170A SLI",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "Asus B150-Pro",
+    "socket": "LGA 1151",
+    "chipset": "Intel B150"
+  },
+  {
+    "name": "Maxsun MS-B150D4 Turbo",
+    "socket": "LGA 1151",
+    "chipset": "Intel B150"
+  },
+  {
+    "name": "Biostar J3160MD",
+    "socket": "Onboard CPU",
+    "chipset": "SOC"
+  },
+  {
+    "name": "SOYO SY-B250D4 V2.0",
+    "socket": "LGA 1151",
+    "chipset": "Intel B250"
+  },
+  {
+    "name": "Biostar B360MHD Pro",
+    "socket": "LGA 1151",
+    "chipset": "Intel B360"
+  },
+  {
+    "name": "MSI H310M Pro-VDH",
+    "socket": "LGA 1151",
+    "chipset": "Intel H310"
+  },
+  {
+    "name": "Asrock X99 WS-E",
+    "socket": "LGA 2011-3",
+    "chipset": "Intel X99"
+  },
+  {
+    "name": "Asrock X470 Taichi Ultimate",
+    "socket": "AM4",
+    "chipset": "AMD X470"
+  },
+  {
+    "name": "Biostar A70MGP",
+    "socket": "FM2+",
+    "chipset": "AMD A70M"
+  },
+  {
+    "name": "Jetway NF595-H110",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "Asus P10S-M WS",
+    "socket": "LGA 1151",
+    "chipset": "Intel C236"
+  },
+  {
+    "name": "Asus B150M-A",
+    "socket": "LGA 1151",
+    "chipset": "Intel B150"
+  },
+  {
+    "name": "Asrock IMB-193",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "Asrock Fatal1ty H97 Performance",
+    "socket": "LGA 1150",
+    "chipset": "Intel H97"
+  },
+  {
+    "name": "Asus Prime B250M-C",
+    "socket": "LGA 1151",
+    "chipset": "Intel B250"
+  },
+  {
+    "name": "Gigabyte GA-990FXA-UD3 Rev. 1.0",
+    "socket": "AM3+",
+    "chipset": "AMD 990FX"
+  },
+  {
+    "name": "MSI X370 Gaming Pro",
+    "socket": "AM4",
+    "chipset": "AMD X370"
+  },
+  {
+    "name": "Biostar Hi-Fi A70U3",
+    "socket": "FM2+",
+    "chipset": "AMD A70M"
+  },
+  {
+    "name": "Asrock X299M Extreme4",
+    "socket": "LGA 2066",
+    "chipset": "Intel X299"
+  },
+  {
+    "name": "Biostar P4M800-M7A Rev. 7.0",
+    "socket": "LGA 775",
+    "chipset": "VIA P4M800"
+  },
+  {
+    "name": "Gigabyte Z490 Vision D",
+    "socket": "LGA 1200",
+    "chipset": "Intel Z490"
+  },
+  {
+    "name": "MSI Z170A Gaming Pro",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "Asrock Fatal1ty H170 Performance/D3",
+    "socket": "LGA 1151",
+    "chipset": "Intel H170"
+  },
+  {
+    "name": "Biostar A68MD Pro Rev. 1.0",
+    "socket": "FM2+",
+    "chipset": "AMD A70M"
+  },
+  {
+    "name": "Asrock IMB-198P",
+    "socket": "Onboard CPU",
+    "chipset": "SOC"
+  },
+  {
+    "name": "Asus B150M-K",
+    "socket": "LGA 1151",
+    "chipset": "Intel B150"
+  },
+  {
+    "name": "MSI B150M ECO",
+    "socket": "LGA 1151",
+    "chipset": "Intel B150"
+  },
+  {
+    "name": "MSI H110M PRO-VDP",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "Asus ROG Maximus VIII Extreme",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "Maxsun MS-H110D4L HD",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "Asus TUF H370-Pro Gaming (Wi-Fi)",
+    "socket": "LGA 1151",
+    "chipset": "Intel H370"
+  },
+  {
+    "name": "MSI H370 Gaming Pro Carbon",
+    "socket": "LGA 1151",
+    "chipset": "Intel H370"
+  },
+  {
+    "name": "Biostar J4105TH",
+    "socket": "Onboard CPU",
+    "chipset": "SOC"
+  },
+  {
+    "name": "Supermicro C7Z270-CG-L",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z270"
+  },
+  {
+    "name": "Supermicro C7Z270-CG",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z270"
+  },
+  {
+    "name": "Asrock Fatal1ty H170 Performance/Hyper",
+    "socket": "LGA 1151",
+    "chipset": "Intel H170"
+  },
+  {
+    "name": "Gigabyte GA-970-Gaming SLI",
+    "socket": "AM3+",
+    "chipset": "AMD 970"
+  },
+  {
+    "name": "Asus H170M-E D3",
+    "socket": "LGA 1151",
+    "chipset": "Intel H170"
+  },
+  {
+    "name": "Asus B150-Plus D3",
+    "socket": "LGA 1151",
+    "chipset": "Intel B150"
+  },
+  {
+    "name": "Asrock B550 Extreme4",
+    "socket": "AM4",
+    "chipset": "AMD B550"
+  },
+  {
+    "name": "MSI H110M PRO-VDL D3",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "Asrock B550 Phantom Gaming 4/ac",
+    "socket": "AM4",
+    "chipset": "AMD B550"
+  },
+  {
+    "name": "MSI X299 Tomahawk",
+    "socket": "LGA 2066",
+    "chipset": "Intel X299"
+  },
+  {
+    "name": "Supermicro C7Q270-CB-ML",
+    "socket": "LGA 1151",
+    "chipset": "Intel Q270"
+  },
+  {
+    "name": "Biostar Z170GTN",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "Gigabyte B450M S2H",
+    "socket": "AM4",
+    "chipset": "AMD B450"
+  },
+  {
+    "name": "Biostar TB150 Pro",
+    "socket": "LGA 1151",
+    "chipset": "Intel B150"
+  },
+  {
+    "name": "MSI H170I Pro AC",
+    "socket": "LGA 1151",
+    "chipset": "Intel H170"
+  },
+  {
+    "name": "Asrock IMB-390-D",
+    "socket": "LGA 1151",
+    "chipset": "Intel Q170"
+  },
+  {
+    "name": "Asus ROG Strix B360-G Gaming",
+    "socket": "LGA 1151",
+    "chipset": "Intel B360"
+  },
+  {
+    "name": "Gigabyte GA-990XA-UD3 Rev. 1.0",
+    "socket": "AM3+",
+    "chipset": "AMD 990X"
+  },
+  {
+    "name": "Biostar B150MD Pro D4",
+    "socket": "LGA 1151",
+    "chipset": "Intel B150"
+  },
+  {
+    "name": "Asus ROG Strix B450-I Gaming",
+    "socket": "AM4",
+    "chipset": "AMD B450"
+  },
+  {
+    "name": "Biostar Hi-Fi B150S5",
+    "socket": "LGA 1151",
+    "chipset": "Intel B150"
+  },
+  {
+    "name": "MSI X99A Godlike Gaming",
+    "socket": "LGA 2011-3",
+    "chipset": "Intel X99"
+  },
+  {
+    "name": "Asus Prime B450-Plus",
+    "socket": "AM4",
+    "chipset": "AMD B450"
+  },
+  {
+    "name": "Jetway NF697",
+    "socket": "LGA 1151",
+    "chipset": "Intel Q170"
+  },
+  {
+    "name": "Asrock X470 Master SLI/ac",
+    "socket": "AM4",
+    "chipset": "AMD X470"
+  },
+  {
+    "name": "Asus Prime B450M-K",
+    "socket": "AM4",
+    "chipset": "AMD B450"
+  },
+  {
+    "name": "Asrock B150M-PIO2",
+    "socket": "LGA 1151",
+    "chipset": "Intel B150"
+  },
+  {
+    "name": "MSI C236A Workstation",
+    "socket": "LGA 1151",
+    "chipset": "Intel C236"
+  },
+  {
+    "name": "Asrock X299 Taichi CLX",
+    "socket": "LGA 2066",
+    "chipset": "Intel X299"
+  },
+  {
+    "name": "ECS Z270 Lightsaber",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z270"
+  },
+  {
+    "name": "Gigabyte Z490M Gaming X",
+    "socket": "LGA 1200",
+    "chipset": "Intel Z490"
+  },
+  {
+    "name": "Asrock Fatal1ty X470 Gaming K4",
+    "socket": "AM4",
+    "chipset": "AMD X470"
+  },
+  {
+    "name": "Gigabyte H310M DS2V",
+    "socket": "LGA 1151",
+    "chipset": "Intel H310"
+  },
+  {
+    "name": "Colorful Battle Axe C.AB350M-HD Plus V14A",
+    "socket": "AM4",
+    "chipset": "AMD B350"
+  },
+  {
+    "name": "Supermicro C7B250-CB-MK",
+    "socket": "LGA 1151",
+    "chipset": "Intel B250"
+  },
+  {
+    "name": "Asrock 890FX Deluxe3",
+    "socket": "AM3",
+    "chipset": "AMD 890FX"
+  },
+  {
+    "name": "Biostar B250MDC",
+    "socket": "LGA 1151",
+    "chipset": "Intel B250"
+  },
+  {
+    "name": "MSI E3 Krait Gaming V5",
+    "socket": "LGA 1151",
+    "chipset": "Intel C232"
+  },
+  {
+    "name": "Biostar Hi-Fi B150Z5",
+    "socket": "LGA 1151",
+    "chipset": "Intel B150"
+  },
+  {
+    "name": "Biostar H110MGV3",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "Biostar Hi-Fi B250S1",
+    "socket": "LGA 1151",
+    "chipset": "Intel B250"
+  },
+  {
+    "name": "Supermicro C7Z270-CG-M",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z270"
+  },
+  {
+    "name": "Biostar Hi-Fi H170S3H",
+    "socket": "LGA 1151",
+    "chipset": "Intel H170"
+  },
+  {
+    "name": "Asus ROG Strix H370-F Gaming",
+    "socket": "LGA 1151",
+    "chipset": "Intel H370"
+  },
+  {
+    "name": "Asrock 890GX Extreme4 R2.0",
+    "socket": "AM3+",
+    "chipset": "AMD 890GX"
+  },
+  {
+    "name": "Asrock IMB-192",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "Maxsun MS-B150D4 Turbo M.2",
+    "socket": "LGA 1151",
+    "chipset": "Intel B150"
+  },
+  {
+    "name": "Asrock IMB-156L",
+    "socket": "Onboard CPU",
+    "chipset": "SOC"
+  },
+  {
+    "name": "Biostar X470GTN",
+    "socket": "AM4",
+    "chipset": "AMD X470"
+  },
+  {
+    "name": "Asrock Z170M-PIO2",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "Asrock 880G Extreme3",
+    "socket": "AM3+",
+    "chipset": "AMD 880G"
+  },
+  {
+    "name": "Biostar H110MGC D4",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "Asrock IMB-190-E",
+    "socket": "LGA 1151",
+    "chipset": "Intel Q170"
+  },
+  {
+    "name": "Asus Q270M-CM-A",
+    "socket": "LGA 1151",
+    "chipset": "Intel Q270"
+  },
+  {
+    "name": "Asrock A320M Pro4 R2.0",
+    "socket": "AM4",
+    "chipset": "AMD A320"
+  },
+  {
+    "name": "Biostar TA70U3-LSP",
+    "socket": "FM2+",
+    "chipset": "AMD A70M"
+  },
+  {
+    "name": "Foxconn Quantumian 1",
+    "socket": "LGA 2011",
+    "chipset": "Intel X79"
+  },
+  {
+    "name": "MSI X470 Gaming Pro Carbon AC",
+    "socket": "AM4",
+    "chipset": "AMD X470"
+  },
+  {
+    "name": "Asrock Z390 Taichi Ultimate",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z390"
+  },
+  {
+    "name": "MSI H310M Gaming Plus",
+    "socket": "LGA 1151",
+    "chipset": "Intel H310"
+  },
+  {
+    "name": "Biostar Gaming Z170X",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "MSI B360M Pro-VH",
+    "socket": "LGA 1151",
+    "chipset": "Intel B360"
+  },
+  {
+    "name": "Supermicro C7C232-CB-ML",
+    "socket": "LGA 1151",
+    "chipset": "Intel C232"
+  },
+  {
+    "name": "Asus ROG Strix B450-E Gaming",
+    "socket": "AM4",
+    "chipset": "AMD B450"
+  },
+  {
+    "name": "Biostar TB250-BTC+",
+    "socket": "LGA 1151",
+    "chipset": "Intel B250"
+  },
+  {
+    "name": "Asus Prime H370-Plus",
+    "socket": "LGA 1151",
+    "chipset": "Intel H370"
+  },
+  {
+    "name": "EVGA X79 Dark",
+    "socket": "LGA 2011",
+    "chipset": "Intel X79"
+  },
+  {
+    "name": "MSI MEG X570 Ace",
+    "socket": "AM4",
+    "chipset": "AMD X570"
+  },
+  {
+    "name": "Gigabyte GA-990FXA-UD5 Rev. 1.0",
+    "socket": "AM3+",
+    "chipset": "AMD 990FX"
+  },
+  {
+    "name": "MSI H170M ECO",
+    "socket": "LGA 1151",
+    "chipset": "Intel H170"
+  },
+  {
+    "name": "Gigabyte MZ01-CE0",
+    "socket": "SP3",
+    "chipset": "None + None"
+  },
+  {
+    "name": "Biostar B150GT3",
+    "socket": "LGA 1151",
+    "chipset": "Intel B150"
+  },
+  {
+    "name": "Asrock IMB-156M",
+    "socket": "Onboard CPU",
+    "chipset": "SOC"
+  },
+  {
+    "name": "Gigabyte GA-X99-Phoenix SLI",
+    "socket": "LGA 2011-3",
+    "chipset": "Intel X99"
+  },
+  {
+    "name": "Asus E3M-ET V5",
+    "socket": "LGA 1151",
+    "chipset": "Intel C232"
+  },
+  {
+    "name": "MSI Z270 SLI",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z270"
+  },
+  {
+    "name": "Asrock 870iCafe",
+    "socket": "AM3",
+    "chipset": "AMD 870"
+  },
+  {
+    "name": "Asrock IMB-157M",
+    "socket": "Onboard CPU",
+    "chipset": "SOC"
+  },
+  {
+    "name": "Asrock 880GMH/USB3",
+    "socket": "AM3",
+    "chipset": "AMD 880G"
+  },
+  {
+    "name": "Gigabyte GA-990XA-UD3 R5",
+    "socket": "AM3+",
+    "chipset": "AMD 990X"
+  },
+  {
+    "name": "EVGA Z390 Dark",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z390"
+  },
+  {
+    "name": "Asus TUF B450-Plus Gaming",
+    "socket": "AM4",
+    "chipset": "AMD B450"
+  },
+  {
+    "name": "Asus ROG Crosshair VIII Hero (Wi-Fi)",
+    "socket": "AM4",
+    "chipset": "AMD X570"
+  },
+  {
+    "name": "Biostar Hi-Fi B150S1",
+    "socket": "LGA 1151",
+    "chipset": "Intel B150"
+  },
+  {
+    "name": "Gigabyte H370 HD3",
+    "socket": "LGA 1151",
+    "chipset": "Intel H370"
+  },
+  {
+    "name": "Gigabyte X570 Gaming X",
+    "socket": "AM4",
+    "chipset": "AMD X570"
+  },
+  {
+    "name": "ECS B250H4-M12",
+    "socket": "LGA 1151",
+    "chipset": "Intel B250"
+  },
+  {
+    "name": "Asus TUF Z390M-Pro Gaming (Wi-Fi)",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z390"
+  },
+  {
+    "name": "Colorful Battle AXE C.Z370M-DH V20",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z370"
+  },
+  {
+    "name": "Asrock Z390 Extreme4",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z390"
+  },
+  {
+    "name": "MSI Z270 Gaming Pro",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z270"
+  },
+  {
+    "name": "Colorful iGame Z170 Ymir-X",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "Gigabyte GA-990FXA-UD7 Rev. 1.0",
+    "socket": "AM3+",
+    "chipset": "AMD 990FX"
+  },
+  {
+    "name": "Gigabyte GA-EX58-UD3R Rev. 1.0",
+    "socket": "LGA 1366",
+    "chipset": "Intel X58"
+  },
+  {
+    "name": "Biostar H110MD Pro",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "Asus P10S-C/4L",
+    "socket": "LGA 1151",
+    "chipset": "Intel C232"
+  },
+  {
+    "name": "Biostar H110MD4",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "MSI B450I Gaming Plus AC",
+    "socket": "AM4",
+    "chipset": "AMD B450"
+  },
+  {
+    "name": "Gigabyte Z490 Vision G",
+    "socket": "LGA 1200",
+    "chipset": "Intel Z490"
+  },
+  {
+    "name": "Gigabyte GA-AX370-Gaming 3",
+    "socket": "AM4",
+    "chipset": "AMD X370"
+  },
+  {
+    "name": "Asrock B460M-HDV",
+    "socket": "LGA 1200",
+    "chipset": "Intel B460"
+  },
+  {
+    "name": "Biostar A70MG Pro",
+    "socket": "FM2+",
+    "chipset": "AMD A70M"
+  },
+  {
+    "name": "Gigabyte MZ01-CE1",
+    "socket": "SP3",
+    "chipset": "None + None"
+  },
+  {
+    "name": "Gigabyte GA-Q170TN",
+    "socket": "LGA 1151",
+    "chipset": "Intel Q170"
+  },
+  {
+    "name": "Asus ROG Crosshair VIII Hero",
+    "socket": "AM4",
+    "chipset": "AMD X570"
+  },
+  {
+    "name": "Asus TUF Z390-Plus Gaming (Wi-Fi)",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z390"
+  },
+  {
+    "name": "MSI X299 Gaming Pro Carbon",
+    "socket": "LGA 2066",
+    "chipset": "Intel X299"
+  },
+  {
+    "name": "Asus ROG Maximus XI Hero",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z390"
+  },
+  {
+    "name": "Maxsun MS-H110D4L Turbo M.1",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "Asrock 890GX Extreme3",
+    "socket": "AM3+",
+    "chipset": "AMD 890GX"
+  },
+  {
+    "name": "Asrock Z390 Taichi",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z390"
+  },
+  {
+    "name": "Asrock Z390 Phantom Gaming 9",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z390"
+  },
+  {
+    "name": "Gigabyte GA-H110TN-E",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "Asrock B450M Pro4-F",
+    "socket": "AM4",
+    "chipset": "AMD B450"
+  },
+  {
+    "name": "Biostar B150ET3",
+    "socket": "LGA 1151",
+    "chipset": "Intel B150"
+  },
+  {
+    "name": "Gigabyte GA-Q170M-MK",
+    "socket": "LGA 1151",
+    "chipset": "Intel Q170"
+  },
+  {
+    "name": "EVGA Z370 Classified K",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z370"
+  },
+  {
+    "name": "MSI B450M Mortar Titanium",
+    "socket": "AM4",
+    "chipset": "AMD B450"
+  },
+  {
+    "name": "Biostar N3050NH",
+    "socket": "Onboard CPU",
+    "chipset": "SOC"
+  },
+  {
+    "name": "EVGA B360 Micro Gaming",
+    "socket": "LGA 1151",
+    "chipset": "Intel B360"
+  },
+  {
+    "name": "Asrock 890FX Deluxe4",
+    "socket": "AM3+",
+    "chipset": "AMD 890FX"
+  },
+  {
+    "name": "Asrock 880G Pro3",
+    "socket": "AM3+",
+    "chipset": "AMD 880G"
+  },
+  {
+    "name": "ECS A960M-M4",
+    "socket": "AM3+",
+    "chipset": "AMD 760G"
+  },
+  {
+    "name": "ECS B250H4-M12T",
+    "socket": "LGA 1151",
+    "chipset": "Intel B250"
+  },
+  {
+    "name": "MSI X99S SLI Plus",
+    "socket": "LGA 2011-3",
+    "chipset": "Intel X99"
+  },
+  {
+    "name": "Asrock X299 Creator",
+    "socket": "LGA 2066",
+    "chipset": "Intel X299"
+  },
+  {
+    "name": "Colorful iGame X299 Vulcan X Black",
+    "socket": "LGA 2066",
+    "chipset": "Intel X299"
+  },
+  {
+    "name": "Asrock A320M Pro4-F",
+    "socket": "AM4",
+    "chipset": "AMD A320"
+  },
+  {
+    "name": "Asrock Z490 Phantom Gaming 4SR",
+    "socket": "LGA 1200",
+    "chipset": "Intel Z490"
+  },
+  {
+    "name": "MSI B350I Pro AC",
+    "socket": "AM4",
+    "chipset": "AMD B350"
+  },
+  {
+    "name": "Biostar B460GTA",
+    "socket": "LGA 1200",
+    "chipset": "Intel B460"
+  },
+  {
+    "name": "Asus Prime H310M-A R2.0",
+    "socket": "LGA 1151",
+    "chipset": "Intel H310"
+  },
+  {
+    "name": "ECS A890GXM-A2 Rev. 2.0",
+    "socket": "AM3+",
+    "chipset": "AMD 890GX"
+  },
+  {
+    "name": "MSI X470 Gaming M7 AC",
+    "socket": "AM4",
+    "chipset": "AMD X470"
+  },
+  {
+    "name": "Asrock Z490 Taichi",
+    "socket": "LGA 1200",
+    "chipset": "Intel Z490"
+  },
+  {
+    "name": "MSI Big Bang-XPower II",
+    "socket": "LGA 2011",
+    "chipset": "Intel X79"
+  },
+  {
+    "name": "Gigabyte MW50-SV0",
+    "socket": "LGA 2011-3",
+    "chipset": "Intel C612"
+  },
+  {
+    "name": "Colorful iGame Z270 Gamer Customization",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z270"
+  },
+  {
+    "name": "Biostar Z390GT5",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z390"
+  },
+  {
+    "name": "Asrock H470M-ITX/ac",
+    "socket": "LGA 1200",
+    "chipset": "Intel H470"
+  },
+  {
+    "name": "Asrock 880GMH/USB3 R2.0",
+    "socket": "AM3",
+    "chipset": "AMD 880G"
+  },
+  {
+    "name": "ECS B150M4-C43",
+    "socket": "LGA 1151",
+    "chipset": "Intel B150"
+  },
+  {
+    "name": "Biostar H110MG Pro",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "Asrock IMB-157L",
+    "socket": "Onboard CPU",
+    "chipset": "SOC"
+  },
+  {
+    "name": "Asrock 890FX Deluxe5",
+    "socket": "AM3+",
+    "chipset": "AMD 890FX"
+  },
+  {
+    "name": "Asrock 870iCafe R2.0",
+    "socket": "AM3+",
+    "chipset": "AMD 870"
+  },
+  {
+    "name": "MSI X99A Godlike Gaming Carbon",
+    "socket": "LGA 2011-3",
+    "chipset": "Intel X99"
+  },
+  {
+    "name": "Asus P10S-M-DC",
+    "socket": "LGA 1151",
+    "chipset": "Intel C232"
+  },
+  {
+    "name": "MSI X470 Gaming Pro Carbon",
+    "socket": "AM4",
+    "chipset": "AMD X470"
+  },
+  {
+    "name": "MSI X99S SLI Krait Edition",
+    "socket": "LGA 2011-3",
+    "chipset": "Intel X99"
+  },
+  {
+    "name": "Asrock X370 Pro4",
+    "socket": "AM4",
+    "chipset": "AMD X370"
+  },
+  {
+    "name": "Asrock 890GM Pro3 R2.0",
+    "socket": "AM3+",
+    "chipset": "AMD 890GX"
+  },
+  {
+    "name": "Asrock B550 Phantom Gaming 4",
+    "socket": "AM4",
+    "chipset": "AMD B550"
+  },
+  {
+    "name": "MSI B450M Bazooka",
+    "socket": "AM4",
+    "chipset": "AMD B450"
+  },
+  {
+    "name": "Supermicro C7H270-CG-ML",
+    "socket": "LGA 1151",
+    "chipset": "Intel H270"
+  },
+  {
+    "name": "Asrock Z390 Phantom Gaming SLI/ac",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z390"
+  },
+  {
+    "name": "EVGA SR-3 Dark",
+    "socket": "LGA 3647",
+    "chipset": "Intel C622"
+  },
+  {
+    "name": "Asus Prime H310M-D",
+    "socket": "LGA 1151",
+    "chipset": "Intel H310"
+  },
+  {
+    "name": "Asus P10S-M WS/IPMI-O",
+    "socket": "LGA 1151",
+    "chipset": "Intel C236"
+  },
+  {
+    "name": "Asus P10S-I",
+    "socket": "LGA 1151",
+    "chipset": "Intel C232"
+  },
+  {
+    "name": "Asus ROG Strix H370-I Gaming",
+    "socket": "LGA 1151",
+    "chipset": "Intel H370"
+  },
+  {
+    "name": "Colorful Battle Axe C.X370M-G Deluxe",
+    "socket": "AM4",
+    "chipset": "AMD X370"
+  },
+  {
+    "name": "MSI 990XA-GD55",
+    "socket": "AM3+",
+    "chipset": "AMD 990X"
+  },
+  {
+    "name": "ECS A990FXM-A Rev. 1.1",
+    "socket": "AM3+",
+    "chipset": "AMD 990FX"
+  },
+  {
+    "name": "Asrock Z390 Phantom Gaming X",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z390"
+  },
+  {
+    "name": "EVGA Z97 FTW",
+    "socket": "LGA 1150",
+    "chipset": "Intel Z97"
+  },
+  {
+    "name": "Biostar B360TH",
+    "socket": "LGA 1151",
+    "chipset": "Intel B360"
+  },
+  {
+    "name": "Gigabyte MD30-RS0",
+    "socket": "2x LGA 2011-3",
+    "chipset": "Intel C612"
+  },
+  {
+    "name": "EVGA X299 Micro ATX 2",
+    "socket": "LGA 2066",
+    "chipset": "Intel X299"
+  },
+  {
+    "name": "MSI MAG Z390 Tomahawk",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z390"
+  },
+  {
+    "name": "Gigabyte G1.Sniper",
+    "socket": "LGA 1366",
+    "chipset": "Intel X58"
+  },
+  {
+    "name": "Asrock Z390 Phantom Gaming 4S",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z390"
+  },
+  {
+    "name": "Asrock Z390 Phantom Gaming 6",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z390"
+  },
+  {
+    "name": "ECS B250H4-M12VT",
+    "socket": "LGA 1151",
+    "chipset": "Intel B250"
+  },
+  {
+    "name": "Gigabyte GA-EX58-UD3R-SLI",
+    "socket": "LGA 1366",
+    "chipset": "Intel X58"
+  },
+  {
+    "name": "Asrock Fatal1ty H97 Killer",
+    "socket": "LGA 1150",
+    "chipset": "Intel H97"
+  },
+  {
+    "name": "ECS B250H4-M8",
+    "socket": "LGA 1151",
+    "chipset": "Intel B250"
+  },
+  {
+    "name": "Asrock Z490 Pro4",
+    "socket": "LGA 1200",
+    "chipset": "Intel Z490"
+  },
+  {
+    "name": "Gigabyte Z370 Aorus Gaming 7-OP",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z370"
+  },
+  {
+    "name": "Gigabyte MU70-SU0",
+    "socket": "LGA 2011-3",
+    "chipset": "Intel C612"
+  },
+  {
+    "name": "Gigabyte H310M HD2",
+    "socket": "LGA 1151",
+    "chipset": "Intel H310"
+  },
+  {
+    "name": "Gigabyte H370M D3H",
+    "socket": "LGA 1151",
+    "chipset": "Intel H370"
+  },
+  {
+    "name": "Biostar B450MHC",
+    "socket": "AM4",
+    "chipset": "AMD B450"
+  },
+  {
+    "name": "ECS H110-SF100",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "Gigabyte GA-X99-Ultra Gaming Rev. 1.1",
+    "socket": "LGA 2011-3",
+    "chipset": "Intel X99"
+  },
+  {
+    "name": "Asus Prime H310M-E",
+    "socket": "LGA 1151",
+    "chipset": "Intel H310"
+  },
+  {
+    "name": "EVGA H370 Stinger",
+    "socket": "LGA 1151",
+    "chipset": "Intel H370"
+  },
+  {
+    "name": "Asrock Z390 Phantom Gaming 7",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z390"
+  },
+  {
+    "name": "Asrock Fatal1ty B360 Gaming K4",
+    "socket": "LGA 1151",
+    "chipset": "Intel B360"
+  },
+  {
+    "name": "Gigabyte H370M DS3H",
+    "socket": "LGA 1151",
+    "chipset": "Intel H370"
+  },
+  {
+    "name": "MSI X99A XPower Gaming Titanium",
+    "socket": "LGA 2011-3",
+    "chipset": "Intel X99"
+  },
+  {
+    "name": "Biostar B460GTQ",
+    "socket": "LGA 1200",
+    "chipset": "Intel B460"
+  },
+  {
+    "name": "Gigabyte GA-X99-SOC Force",
+    "socket": "LGA 2011-3",
+    "chipset": "Intel X99"
+  },
+  {
+    "name": "Asrock B550 PG Velocita",
+    "socket": "AM4",
+    "chipset": "AMD B550"
+  },
+  {
+    "name": "MSI E3M Workstation V5",
+    "socket": "LGA 1151",
+    "chipset": "Intel C232"
+  },
+  {
+    "name": "Asrock X470 Taichi",
+    "socket": "AM4",
+    "chipset": "AMD X470"
+  },
+  {
+    "name": "Asus ROG Strix B360-F Gaming",
+    "socket": "LGA 1151",
+    "chipset": "Intel B360"
+  },
+  {
+    "name": "MSI Z97 MPower",
+    "socket": "LGA 1150",
+    "chipset": "Intel Z97"
+  },
+  {
+    "name": "ECS H110M-C3V",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "Asrock H470M Pro4",
+    "socket": "LGA 1200",
+    "chipset": "Intel H470"
+  },
+  {
+    "name": "Gigabyte GA-X99-Ultra Gaming-EK",
+    "socket": "LGA 2011-3",
+    "chipset": "Intel X99"
+  },
+  {
+    "name": "ECS B150M-P73",
+    "socket": "LGA 1151",
+    "chipset": "Intel B150"
+  },
+  {
+    "name": "MSI B360 Gaming Arctic",
+    "socket": "LGA 1151",
+    "chipset": "Intel B360"
+  },
+  {
+    "name": "Gigabyte X399 Aorus Pro",
+    "socket": "TR4",
+    "chipset": "AMD X399"
+  },
+  {
+    "name": "Gigabyte X470 Aorus Gaming 5 Wifi",
+    "socket": "AM4",
+    "chipset": "AMD X470"
+  },
+  {
+    "name": "Gigabyte GA-H110TN",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "MSI X99A MPower",
+    "socket": "LGA 2011-3",
+    "chipset": "Intel X99"
+  },
+  {
+    "name": "MSI Z97 Gaming 9 AC",
+    "socket": "LGA 1150",
+    "chipset": "Intel Z97"
+  },
+  {
+    "name": "Gigabyte Z490 Aorus Ultra G2",
+    "socket": "LGA 1200",
+    "chipset": "Intel Z490"
+  },
+  {
+    "name": "Asrock H370M Pro4",
+    "socket": "LGA 1151",
+    "chipset": "Intel H370"
+  },
+  {
+    "name": "MSI X99A SLI",
+    "socket": "LGA 2011-3",
+    "chipset": "Intel X99"
+  },
+  {
+    "name": "Asus Prime H310M-A",
+    "socket": "LGA 1151",
+    "chipset": "Intel H310"
+  },
+  {
+    "name": "Asrock 890GMH/USB3",
+    "socket": "AM3",
+    "chipset": "AMD 890GX"
+  },
+  {
+    "name": "Gigabyte GA-H110M-M.2",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "Asus P10S WS",
+    "socket": "LGA 1151",
+    "chipset": "Intel C236"
+  },
+  {
+    "name": "Asus ROG Maximus XI Hero Wi-Fi - Black Ops 4 Edition",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z390"
+  },
+  {
+    "name": "Asus TUF B360-Pro Gaming (Wi-Fi)",
+    "socket": "LGA 1151",
+    "chipset": "Intel B360"
+  },
+  {
+    "name": "MSI X79A-GD65",
+    "socket": "LGA 2011",
+    "chipset": "Intel X79"
+  },
+  {
+    "name": "Asrock Z490 Phantom Gaming-ITX/TB3",
+    "socket": "LGA 1200",
+    "chipset": "Intel Z490"
+  },
+  {
+    "name": "ECS A890GXM-A2 Rev. 1.0",
+    "socket": "AM3",
+    "chipset": "AMD 890GX"
+  },
+  {
+    "name": "Asrock Z490 Extreme4",
+    "socket": "LGA 1200",
+    "chipset": "Intel Z490"
+  },
+  {
+    "name": "MSI MPG Z390 Gaming Pro Carbon",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z390"
+  },
+  {
+    "name": "Gigabyte Z370 Aorus Ultra Gaming Wifi",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z370"
+  },
+  {
+    "name": "MSI A320M Pro-VHL",
+    "socket": "AM4",
+    "chipset": "AMD A320"
+  },
+  {
+    "name": "Asus P10S-X",
+    "socket": "LGA 1151",
+    "chipset": "Intel C232"
+  },
+  {
+    "name": "MSI MPG Z390M Gaming Edge AC",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z390"
+  },
+  {
+    "name": "MSI Z97 Gaming 9 ACK",
+    "socket": "LGA 1150",
+    "chipset": "Intel Z97"
+  },
+  {
+    "name": "ECS Z170IU-C43",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "MSI MEG Z390 Ace",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z390"
+  },
+  {
+    "name": "MSI H310M Pro-VD",
+    "socket": "LGA 1151",
+    "chipset": "Intel H310"
+  },
+  {
+    "name": "EVGA Z97 Stinger Core3D",
+    "socket": "LGA 1150",
+    "chipset": "Intel Z97"
+  },
+  {
+    "name": "Gigabyte H310M D3",
+    "socket": "LGA 1151",
+    "chipset": "Intel H310"
+  },
+  {
+    "name": "Colorful iGame Z390 Vulcan X",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z390"
+  },
+  {
+    "name": "Asus P10S-V/4L",
+    "socket": "LGA 1151",
+    "chipset": "Intel C236"
+  },
+  {
+    "name": "Supermicro C9Z390-PGW",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z390"
+  },
+  {
+    "name": "Asus Prime B360M-A",
+    "socket": "LGA 1151",
+    "chipset": "Intel B360"
+  },
+  {
+    "name": "Asrock 890GX Extreme4",
+    "socket": "AM3",
+    "chipset": "AMD 890GX"
+  },
+  {
+    "name": "Asus ROG Strix B360-I Gaming",
+    "socket": "LGA 1151",
+    "chipset": "Intel B360"
+  },
+  {
+    "name": "Asrock 890GX Pro3",
+    "socket": "AM3+",
+    "chipset": "AMD 890GX"
+  },
+  {
+    "name": "Asrock Z490 PG Velocita",
+    "socket": "LGA 1200",
+    "chipset": "Intel Z490"
+  },
+  {
+    "name": "Biostar Z490GTA",
+    "socket": "LGA 1200",
+    "chipset": "Intel Z490"
+  },
+  {
+    "name": "Asus P10S-M",
+    "socket": "LGA 1151",
+    "chipset": "Intel C232"
+  },
+  {
+    "name": "ECS Z170 Lightsaber",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "MSI Z97 U3 Plus",
+    "socket": "LGA 1150",
+    "chipset": "Intel Z97"
+  },
+  {
+    "name": "Gigabyte GA-X99-Designare EX",
+    "socket": "LGA 2011-3",
+    "chipset": "Intel X99"
+  },
+  {
+    "name": "ECS A960M-MV Rev. 2.0",
+    "socket": "AM3+",
+    "chipset": "AMD 760G"
+  },
+  {
+    "name": "Biostar B450GT3",
+    "socket": "AM4",
+    "chipset": "AMD B450"
+  },
+  {
+    "name": "Gigabyte H310M DS2",
+    "socket": "LGA 1151",
+    "chipset": "Intel H310"
+  },
+  {
+    "name": "MSI Z97I Gaming ACK",
+    "socket": "LGA 1150",
+    "chipset": "Intel Z97"
+  },
+  {
+    "name": "Asrock Z490M-ITX/ac",
+    "socket": "LGA 1200",
+    "chipset": "Intel Z490"
+  },
+  {
+    "name": "Asus P10S-E/4L",
+    "socket": "LGA 1151",
+    "chipset": "Intel C236"
+  },
+  {
+    "name": "Gigabyte GA-X99-SOC Champion",
+    "socket": "LGA 2011-3",
+    "chipset": "Intel X99"
+  },
+  {
+    "name": "Gigabyte B360M DS3H",
+    "socket": "LGA 1151",
+    "chipset": "Intel B360"
+  },
+  {
+    "name": "Gigabyte B360M Aorus Gaming 3",
+    "socket": "LGA 1151",
+    "chipset": "Intel B360"
+  },
+  {
+    "name": "Asrock X299 Extreme4",
+    "socket": "LGA 2066",
+    "chipset": "Intel X299"
+  },
+  {
+    "name": "MSI X99A Gaming 7",
+    "socket": "LGA 2011-3",
+    "chipset": "Intel X99"
+  },
+  {
+    "name": "Asrock H310M-HDV",
+    "socket": "LGA 1151",
+    "chipset": "Intel H310"
+  },
+  {
+    "name": "MSI Z97 XPower AC",
+    "socket": "LGA 1150",
+    "chipset": "Intel Z97"
+  },
+  {
+    "name": "Gigabyte Z490 Aorus Xtreme",
+    "socket": "LGA 1200",
+    "chipset": "Intel Z490"
+  },
+  {
+    "name": "MSI B360M Mortar",
+    "socket": "LGA 1151",
+    "chipset": "Intel B360"
+  },
+  {
+    "name": "Gigabyte Z490 Aorus Xtreme Waterforce",
+    "socket": "LGA 1200",
+    "chipset": "Intel Z490"
+  },
+  {
+    "name": "Gigabyte Z490 Aorus Master",
+    "socket": "LGA 1200",
+    "chipset": "Intel Z490"
+  },
+  {
+    "name": "Gigabyte H370 Aorus Gaming 3 Wifi",
+    "socket": "LGA 1151",
+    "chipset": "Intel H370"
+  },
+  {
+    "name": "Colorful iGame Z370-X RNG Edition",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z370"
+  },
+  {
+    "name": "Biostar Z490GTA Evo",
+    "socket": "LGA 1200",
+    "chipset": "Intel Z490"
+  },
+  {
+    "name": "Gigabyte GA-H110M-D3H R2",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "Gigabyte Z370 Aorus Ultra Gaming Wifi-OP",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z370"
+  },
+  {
+    "name": "MSI MAG Z390M Mortar",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z390"
+  },
+  {
+    "name": "Gigabyte GA-H110TN-M",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "MSI H370 Gaming Plus",
+    "socket": "LGA 1151",
+    "chipset": "Intel H370"
+  },
+  {
+    "name": "Asrock Z390 Pro4",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z390"
+  },
+  {
+    "name": "Biostar 945GC-330",
+    "socket": "Onboard CPU",
+    "chipset": "Intel 945GC"
+  },
+  {
+    "name": "Gigabyte Z490 Gaming X",
+    "socket": "LGA 1200",
+    "chipset": "Intel Z490"
+  },
+  {
+    "name": "Supermicro C7C242-CB-M",
+    "socket": "LGA 1151",
+    "chipset": "Intel C242"
+  },
+  {
+    "name": "ECS Q170-SF100",
+    "socket": "LGA 1151",
+    "chipset": "Intel Q170"
+  },
+  {
+    "name": "Asrock B360 Pro4",
+    "socket": "LGA 1151",
+    "chipset": "Intel B360"
+  },
+  {
+    "name": "Supermicro C9Z390-CGW",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z390"
+  },
+  {
+    "name": "Asrock Fatal1ty B360M Performance",
+    "socket": "LGA 1151",
+    "chipset": "Intel B360"
+  },
+  {
+    "name": "Colorful iGame Z170 Ymir-U",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "ECS B250H4-M8S",
+    "socket": "LGA 1151",
+    "chipset": "Intel B250"
+  },
+  {
+    "name": "Gigabyte Z390 M",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z390"
+  },
+  {
+    "name": "Gigabyte B360M D3H",
+    "socket": "LGA 1151",
+    "chipset": "Intel B360"
+  },
+  {
+    "name": "MSI B360 Gaming Plus",
+    "socket": "LGA 1151",
+    "chipset": "Intel B360"
+  },
+  {
+    "name": "MSI X99A Gaming 9 ACK",
+    "socket": "LGA 2011-3",
+    "chipset": "Intel X99"
+  },
+  {
+    "name": "Colorful iGame Z170 Ymir-G",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "Asus X99-E",
+    "socket": "LGA 2011-3",
+    "chipset": "Intel X99"
+  },
+  {
+    "name": "Biostar TB360-BTC Pro",
+    "socket": "LGA 1151",
+    "chipset": "Intel B360"
+  },
+  {
+    "name": "Asus Sabertooth 990FX",
+    "socket": "AM3+",
+    "chipset": "AMD 990FX"
+  },
+  {
+    "name": "Asus E3M-Plus V5",
+    "socket": "LGA 1151",
+    "chipset": "Intel C232"
+  },
+  {
+    "name": "Asrock B360M-ITX/ac",
+    "socket": "LGA 1151",
+    "chipset": "Intel B360"
+  },
+  {
+    "name": "ECS H110I-C3D",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "EVGA Z390 FTW",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z390"
+  },
+  {
+    "name": "Biostar Z390GT3",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z390"
+  },
+  {
+    "name": "Biostar B450MH",
+    "socket": "AM4",
+    "chipset": "AMD B450"
+  },
+  {
+    "name": "Gigabyte Z490 Aorus Ultra",
+    "socket": "LGA 1200",
+    "chipset": "Intel Z490"
+  },
+  {
+    "name": "Gigabyte B360 M Aorus Pro",
+    "socket": "LGA 1151",
+    "chipset": "Intel B360"
+  },
+  {
+    "name": "Supermicro C7C242-CB-MW",
+    "socket": "LGA 1151",
+    "chipset": "Intel C242"
+  },
+  {
+    "name": "Asrock Z390 Phantom Gaming SLI",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z390"
+  },
+  {
+    "name": "Asrock Z490 Steel Legend",
+    "socket": "LGA 1200",
+    "chipset": "Intel Z490"
+  },
+  {
+    "name": "Asus Prime B360-Plus",
+    "socket": "LGA 1151",
+    "chipset": "Intel B360"
+  },
+  {
+    "name": "MSI 970A Gaming Pro Carbon",
+    "socket": "AM3+",
+    "chipset": "AMD 970"
+  },
+  {
+    "name": "Gigabyte Z490 Aorus Elite AC",
+    "socket": "LGA 1200",
+    "chipset": "Intel Z490"
+  },
+  {
+    "name": "ECS B250H4-M20",
+    "socket": "LGA 1151",
+    "chipset": "Intel B250"
+  },
+  {
+    "name": "MSI A320M Pro-VD Plus",
+    "socket": "AM4",
+    "chipset": "AMD A320"
+  },
+  {
+    "name": "MSI B360M Bazooka",
+    "socket": "LGA 1151",
+    "chipset": "Intel B360"
+  },
+  {
+    "name": "Biostar H410MH",
+    "socket": "LGA 1200",
+    "chipset": "Intel H410"
+  },
+  {
+    "name": "Gigabyte GA-Z97N-Wifi Rev. 1.1",
+    "socket": "LGA 1150",
+    "chipset": "Intel Z97"
+  },
+  {
+    "name": "Gigabyte GA-990FX-Gaming Rev. 1.1",
+    "socket": "AM3+",
+    "chipset": "AMD 990FX"
+  },
+  {
+    "name": "Asus Sabertooth X99",
+    "socket": "LGA 2011-3",
+    "chipset": "Intel X99"
+  },
+  {
+    "name": "Biostar 945GC-230",
+    "socket": "Onboard CPU",
+    "chipset": "Intel 945GC"
+  },
+  {
+    "name": "Gigabyte H310M S2H Rev. 1.1",
+    "socket": "LGA 1151",
+    "chipset": "Intel H310"
+  },
+  {
+    "name": "Gigabyte Z490 UD",
+    "socket": "LGA 1200",
+    "chipset": "Intel Z490"
+  },
+  {
+    "name": "EVGA Z170 Stinger",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "Asrock Fatal1ty Z97 Killer",
+    "socket": "LGA 1150",
+    "chipset": "Intel Z97"
+  },
+  {
+    "name": "Asrock H310CM-HDV",
+    "socket": "LGA 1151",
+    "chipset": "Intel H310"
+  },
+  {
+    "name": "MSI X299 Creation",
+    "socket": "LGA 2066",
+    "chipset": "Intel X299"
+  },
+  {
+    "name": "Asrock Z490 Phantom Gaming 4/ax",
+    "socket": "LGA 1200",
+    "chipset": "Intel Z490"
+  },
+  {
+    "name": "Asus Prime H310M-K",
+    "socket": "LGA 1151",
+    "chipset": "Intel H310"
+  },
+  {
+    "name": "MSI B360M Mortar Titanium",
+    "socket": "LGA 1151",
+    "chipset": "Intel B360"
+  },
+  {
+    "name": "Gigabyte Z390 Aorus Xtreme Waterforce",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z390"
+  },
+  {
+    "name": "Gigabyte B360 HD3",
+    "socket": "LGA 1151",
+    "chipset": "Intel B360"
+  },
+  {
+    "name": "Asrock Z490 Phantom Gaming 4",
+    "socket": "LGA 1200",
+    "chipset": "Intel Z490"
+  },
+  {
+    "name": "Asus Prime H310M-E R2.0",
+    "socket": "LGA 1151",
+    "chipset": "Intel H310"
+  },
+  {
+    "name": "Gigabyte GA-Z97N-Wifi Rev. 1.0",
+    "socket": "LGA 1150",
+    "chipset": "Intel Z97"
+  },
+  {
+    "name": "Asus Prime H370-A",
+    "socket": "LGA 1151",
+    "chipset": "Intel H370"
+  },
+  {
+    "name": "Biostar Z490GTN",
+    "socket": "LGA 1200",
+    "chipset": "Intel Z490"
+  },
+  {
+    "name": "MSI B360M Gaming Plus",
+    "socket": "LGA 1151",
+    "chipset": "Intel B360"
+  },
+  {
+    "name": "Asus X99-A",
+    "socket": "LGA 2011-3",
+    "chipset": "Intel X99"
+  },
+  {
+    "name": "Asrock B250M Dash",
+    "socket": "LGA 1151",
+    "chipset": "Intel B250"
+  },
+  {
+    "name": "Asus Prime H310-Plus",
+    "socket": "LGA 1151",
+    "chipset": "Intel H310"
+  },
+  {
+    "name": "Asus TUF H310-Plus Gaming",
+    "socket": "LGA 1151",
+    "chipset": "Intel H310"
+  },
+  {
+    "name": "Asrock H97M",
+    "socket": "LGA 1150",
+    "chipset": "Intel H97"
+  },
+  {
+    "name": "MSI B360I Gaming Pro AC",
+    "socket": "LGA 1151",
+    "chipset": "Intel B360"
+  },
+  {
+    "name": "Asus Prime H310M-K R2.0",
+    "socket": "LGA 1151",
+    "chipset": "Intel H310"
+  },
+  {
+    "name": "Gigabyte H310M S2H Rev. 1.0",
+    "socket": "LGA 1151",
+    "chipset": "Intel H310"
+  },
+  {
+    "name": "Asus WS X299 Pro/SE",
+    "socket": "LGA 2066",
+    "chipset": "Intel X299"
+  },
+  {
+    "name": "Asus Prime H310I-Plus R2.0",
+    "socket": "LGA 1151",
+    "chipset": "Intel H310"
+  },
+  {
+    "name": "Asrock Fatal1ty Z97M Killer",
+    "socket": "LGA 1150",
+    "chipset": "Intel Z97"
+  },
+  {
+    "name": "MSI Z97I Gaming AC",
+    "socket": "LGA 1150",
+    "chipset": "Intel Z97"
+  },
+  {
+    "name": "Gigabyte GA-H110M-S2H",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "Gigabyte Z490 UD AC",
+    "socket": "LGA 1200",
+    "chipset": "Intel Z490"
+  },
+  {
+    "name": "Biostar H410MHG",
+    "socket": "LGA 1200",
+    "chipset": "Intel H410"
+  },
+  {
+    "name": "Gigabyte H310M H",
+    "socket": "LGA 1151",
+    "chipset": "Intel H310"
+  },
+  {
+    "name": "Asus Prime H310T R2.0",
+    "socket": "LGA 1151",
+    "chipset": "Intel H310"
+  },
+  {
+    "name": "Asrock H310CM-HDV/M.2",
+    "socket": "LGA 1151",
+    "chipset": "Intel H310"
+  },
+  {
+    "name": "MSI Z97I AC",
+    "socket": "LGA 1150",
+    "chipset": "Intel Z97"
+  },
+  {
+    "name": "Gigabyte H310M A",
+    "socket": "LGA 1151",
+    "chipset": "Intel H310"
+  },
+  {
+    "name": "Asus TUF H310M-Plus Gaming",
+    "socket": "LGA 1151",
+    "chipset": "Intel H310"
+  },
+  {
+    "name": "EVGA Z170 FTW",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "Supermicro C9Z390-CGW",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z390"
+  },
+  {
+    "name": "Asrock Z97 Extreme4",
+    "socket": "LGA 1150",
+    "chipset": "Intel Z97"
+  },
+  {
+    "name": "Asrock Z97 Pro4",
+    "socket": "LGA 1150",
+    "chipset": "Intel Z97"
+  },
+  {
+    "name": "Asus X99-A/USB 3.1",
+    "socket": "LGA 2011-3",
+    "chipset": "Intel X99"
+  },
+  {
+    "name": "Gigabyte GA-H110N",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "Asrock H310M-G/M.2",
+    "socket": "LGA 1151",
+    "chipset": "Intel H310"
+  },
+  {
+    "name": "Gigabyte H310N",
+    "socket": "LGA 1151",
+    "chipset": "Intel H310"
+  },
+  {
+    "name": "MSI Z97M-G43",
+    "socket": "LGA 1150",
+    "chipset": "Intel Z97"
+  },
+  {
+    "name": "MSI 970A SLI Krait Edition",
+    "socket": "AM3+",
+    "chipset": "AMD 970"
+  },
+  {
+    "name": "Asus Prime H310-Plus R2.0",
+    "socket": "LGA 1151",
+    "chipset": "Intel H310"
+  },
+  {
+    "name": "Gigabyte GA-990FX-Gaming Rev. 1.0",
+    "socket": "AM3+",
+    "chipset": "AMD 990FX"
+  },
+  {
+    "name": "Gigabyte GA-X58A-UD7 Rev. 2.0",
+    "socket": "LGA 1366",
+    "chipset": "Intel X58"
+  },
+  {
+    "name": "Asus Prime H310M-C R2.0",
+    "socket": "LGA 1151",
+    "chipset": "Intel H310"
+  },
+  {
+    "name": "Asus Prime H310I-Plus",
+    "socket": "LGA 1151",
+    "chipset": "Intel H310"
+  },
+  {
+    "name": "Biostar N3150NH",
+    "socket": "Onboard CPU",
+    "chipset": "SOC"
+  },
+  {
+    "name": "MSI H310-A Pro",
+    "socket": "LGA 1151",
+    "chipset": "Intel H310"
+  },
+  {
+    "name": "MSI B360M Bazooka Plus",
+    "socket": "LGA 1151",
+    "chipset": "Intel B360"
+  },
+  {
+    "name": "MSI Z97 PC Mate",
+    "socket": "LGA 1150",
+    "chipset": "Intel Z97"
+  },
+  {
+    "name": "Asrock H310CM-ITX/ac",
+    "socket": "LGA 1151",
+    "chipset": "Intel H310"
+  },
+  {
+    "name": "Asrock Z490 Phantom Gaming 4/2.5G",
+    "socket": "LGA 1200",
+    "chipset": "Intel Z490"
+  },
+  {
+    "name": "Gigabyte H310M S2H 2.0",
+    "socket": "LGA 1151",
+    "chipset": "Intel H310"
+  },
+  {
+    "name": "ECS B150D-SF100",
+    "socket": "LGA 1151",
+    "chipset": "Intel B150"
+  },
+  {
+    "name": "MSI Z97 Gaming 5",
+    "socket": "LGA 1150",
+    "chipset": "Intel Z97"
+  },
+  {
+    "name": "Gigabyte GA-H110M-A",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "Gigabyte GA-P110-D3",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "Gigabyte GA-990FXA-UD5 R5",
+    "socket": "AM3+",
+    "chipset": "AMD 990FX"
+  },
+  {
+    "name": "Colorful Ab350M-K Pro",
+    "socket": "AM4",
+    "chipset": "AMD B350"
+  },
+  {
+    "name": "Asrock Z97 Extreme6",
+    "socket": "LGA 1150",
+    "chipset": "Intel Z97"
+  },
+  {
+    "name": "Gigabyte B360M HD3",
+    "socket": "LGA 1151",
+    "chipset": "Intel B360"
+  },
+  {
+    "name": "Gigabyte GA-990FXA-UD3 R5",
+    "socket": "AM3+",
+    "chipset": "AMD 990FX"
+  },
+  {
+    "name": "Asrock H310M-DGS",
+    "socket": "LGA 1151",
+    "chipset": "Intel H310"
+  },
+  {
+    "name": "Asrock H310CM-HDVP",
+    "socket": "LGA 1151",
+    "chipset": "Intel H310"
+  },
+  {
+    "name": "Asus Prime H310T",
+    "socket": "LGA 1151",
+    "chipset": "Intel H310"
+  },
+  {
+    "name": "Gigabyte GA-990FXA-UD3 Ultra",
+    "socket": "AM3+",
+    "chipset": "AMD 990FX"
+  },
+  {
+    "name": "Gigabyte GA-X58A-UD7 Rev. 1.0",
+    "socket": "LGA 1366",
+    "chipset": "Intel X58"
+  },
+  {
+    "name": "Gigabyte B360 HD3P",
+    "socket": "LGA 1151",
+    "chipset": "Intel B360"
+  },
+  {
+    "name": "Asrock H310M-ITX/ac",
+    "socket": "LGA 1151",
+    "chipset": "Intel H310"
+  },
+  {
+    "name": "Biostar TB360-BTC Expert",
+    "socket": "LGA 1151",
+    "chipset": "Intel H370"
+  },
+  {
+    "name": "Asrock Z490 Phantom Gaming 4/ac",
+    "socket": "LGA 1200",
+    "chipset": "Intel Z490"
+  },
+  {
+    "name": "Biostar B360GT3S",
+    "socket": "LGA 1151",
+    "chipset": "Intel B360"
+  },
+  {
+    "name": "Asrock H310CM-DVS",
+    "socket": "LGA 1151",
+    "chipset": "Intel H310"
+  },
+  {
+    "name": "MSI Z97 Gaming 3",
+    "socket": "LGA 1150",
+    "chipset": "Intel Z97"
+  },
+  {
+    "name": "Biostar B360GT5S",
+    "socket": "LGA 1151",
+    "chipset": "Intel B360"
+  },
+  {
+    "name": "Gigabyte GA-X58A-UD5 Rev. 2.0",
+    "socket": "LGA 1366",
+    "chipset": "Intel X58"
+  },
+  {
+    "name": "Gigabyte GA-H110M-S2V",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "Gigabyte Z370 HD3-OP",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z370"
+  },
+  {
+    "name": "Asrock Z97M Pro4",
+    "socket": "LGA 1150",
+    "chipset": "Intel Z97"
+  },
+  {
+    "name": "Asrock Z97M-ITX/ac",
+    "socket": "LGA 1150",
+    "chipset": "Intel Z97"
+  },
+  {
+    "name": "MSI Z97A Gaming 6",
+    "socket": "LGA 1150",
+    "chipset": "Intel Z97"
+  },
+  {
+    "name": "Gigabyte GA-H110M-S2V DDR3",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "Gigabyte GA-970A-DS3 Rev. 1.1",
+    "socket": "AM3+",
+    "chipset": "AMD 970"
+  },
+  {
+    "name": "MSI X99A Gaming Pro Carbon",
+    "socket": "LGA 2011-3",
+    "chipset": "Intel X99"
+  },
+  {
+    "name": "MSI H310I Pro",
+    "socket": "LGA 1151",
+    "chipset": "Intel H310"
+  },
+  {
+    "name": "Colorful Battle Flag C.X370 X5",
+    "socket": "AM4",
+    "chipset": "AMD X370"
+  },
+  {
+    "name": "Asrock Fatal1ty Z97X Killer/3.1",
+    "socket": "LGA 1150",
+    "chipset": "Intel Z97"
+  },
+  {
+    "name": "Biostar N3150MP",
+    "socket": "Onboard CPU",
+    "chipset": "SOC"
+  },
+  {
+    "name": "Asrock Fatal1ty Z97 Killer/3.1",
+    "socket": "LGA 1150",
+    "chipset": "Intel Z97"
+  },
+  {
+    "name": "Gigabyte GA-X58A-UD5 Rev. 1.0",
+    "socket": "LGA 1366",
+    "chipset": "Intel X58"
+  },
+  {
+    "name": "ECS H110M4-C33",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "MSI X99S Gaming 7",
+    "socket": "LGA 2011-3",
+    "chipset": "Intel X99"
+  },
+  {
+    "name": "Gigabyte H310M H 2.0",
+    "socket": "LGA 1151",
+    "chipset": "Intel H310"
+  },
+  {
+    "name": "Colorful Battle Ax C.Z370AK Plus",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z370"
+  },
+  {
+    "name": "Supermicro C9Z390-CG",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z390"
+  },
+  {
+    "name": "Gigabyte GA-H110M-D3H",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "Gigabyte GA-H110M-S2PV DDR3",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "Asrock Z97M Anniversary",
+    "socket": "LGA 1150",
+    "chipset": "Intel Z97"
+  },
+  {
+    "name": "MSI Z97-G43",
+    "socket": "LGA 1150",
+    "chipset": "Intel Z97"
+  },
+  {
+    "name": "Gigabyte GA-X99-UD4 Rev. 1.0",
+    "socket": "LGA 2011-3",
+    "chipset": "Intel X99"
+  },
+  {
+    "name": "MSI H310-F Pro",
+    "socket": "LGA 1151",
+    "chipset": "Intel H310"
+  },
+  {
+    "name": "Gigabyte H310M S2P",
+    "socket": "LGA 1151",
+    "chipset": "Intel H310"
+  },
+  {
+    "name": "Gigabyte H310M DS2 2.0",
+    "socket": "LGA 1151",
+    "chipset": "Intel H310"
+  },
+  {
+    "name": "Gigabyte H310M S2V 2.0",
+    "socket": "LGA 1151",
+    "chipset": "Intel H310"
+  },
+  {
+    "name": "Gigabyte H310M S2P 2.0",
+    "socket": "LGA 1151",
+    "chipset": "Intel H310"
+  },
+  {
+    "name": "MSI Z97A Gaming 9 ACK",
+    "socket": "LGA 1150",
+    "chipset": "Intel Z97"
+  },
+  {
+    "name": "MSI Z97M Gaming",
+    "socket": "LGA 1150",
+    "chipset": "Intel Z97"
+  },
+  {
+    "name": "Gigabyte GA-X99-UD3",
+    "socket": "LGA 2011-3",
+    "chipset": "Intel X99"
+  },
+  {
+    "name": "Gigabyte GA-X99-Gaming 5P",
+    "socket": "LGA 2011-3",
+    "chipset": "Intel X99"
+  },
+  {
+    "name": "Gigabyte H310M S2 2.0",
+    "socket": "LGA 1151",
+    "chipset": "Intel H310"
+  },
+  {
+    "name": "Asrock Z97 Extreme4/3.1",
+    "socket": "LGA 1150",
+    "chipset": "Intel Z97"
+  },
+  {
+    "name": "Asrock Z97 Anniversary",
+    "socket": "LGA 1150",
+    "chipset": "Intel Z97"
+  },
+  {
+    "name": "Asrock Z97 Pro3",
+    "socket": "LGA 1150",
+    "chipset": "Intel Z97"
+  },
+  {
+    "name": "MSI Z97 MPower Max AC",
+    "socket": "LGA 1150",
+    "chipset": "Intel Z97"
+  },
+  {
+    "name": "MSI Z97S SLI Krait Edition",
+    "socket": "LGA 1150",
+    "chipset": "Intel Z97"
+  },
+  {
+    "name": "ECS A990FXM-A Deluxe",
+    "socket": "AM3+",
+    "chipset": "AMD 990FX"
+  },
+  {
+    "name": "ECS H1104-SF100",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "ECS H110M-SI02",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "Gigabyte GA-H110M-S2HP",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "Gigabyte GA-H110M-DS2V",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "Gigabyte GA-H110M-DS2 DDR3",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "Gigabyte GA-H110M-S2 DDR3",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "Gigabyte GA-H110M-S2PH DDR3",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "Gigabyte GA-H110M-H DDR3",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "Gigabyte GA-H110M-S2H DDR3",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "Gigabyte B360M D3V",
+    "socket": "LGA 1151",
+    "chipset": "Intel B360"
+  },
+  {
+    "name": "MSI B360M Pro-VD",
+    "socket": "LGA 1151",
+    "chipset": "Intel B360"
+  },
+  {
+    "name": "Gigabyte GA-990FXA-D3",
+    "socket": "AM3+",
+    "chipset": "AMD 990FX"
+  },
+  {
+    "name": "Gigabyte GA-970A-DS3 Rev. 3.0",
+    "socket": "AM3+",
+    "chipset": "AMD 970"
+  },
+  {
+    "name": "EVGA Z170 Classified K",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "EVGA Z170 Classified 4-Way",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z170"
+  },
+  {
+    "name": "Biostar B360MHD Pro2",
+    "socket": "LGA 1151",
+    "chipset": "Intel B360"
+  },
+  {
+    "name": "Maxsun MS-Challenger B360M",
+    "socket": "LGA 1151",
+    "chipset": "Intel B360"
+  },
+  {
+    "name": "Gigabyte GA-X99-UD7 Wifi",
+    "socket": "LGA 2011-3",
+    "chipset": "Intel X99"
+  },
+  {
+    "name": "Gigabyte GA-X99-UD5 Wifi Rev. 1.0",
+    "socket": "LGA 2011-3",
+    "chipset": "Intel X99"
+  },
+  {
+    "name": "Gigabyte GA-X99-UD5 Wifi Rev. 1.1",
+    "socket": "LGA 2011-3",
+    "chipset": "Intel X99"
+  },
+  {
+    "name": "Gigabyte GA-X99-Gaming 7 Wifi",
+    "socket": "LGA 2011-3",
+    "chipset": "Intel X99"
+  },
+  {
+    "name": "Gigabyte H310M DS2V 2.0",
+    "socket": "LGA 1151",
+    "chipset": "Intel H310"
+  },
+  {
+    "name": "Gigabyte H310M HD3 2.0",
+    "socket": "LGA 1151",
+    "chipset": "Intel H310"
+  },
+  {
+    "name": "Gigabyte H370M D3H GSM",
+    "socket": "LGA 1151",
+    "chipset": "Intel H370"
+  },
+  {
+    "name": "Gigabyte Z370 Aorus Ultra Gaming 2.0-OP",
+    "socket": "LGA 1151",
+    "chipset": "Intel Z370"
+  },
+  {
+    "name": "Asus Prime H310M-C",
+    "socket": "LGA 1151",
+    "chipset": "Intel H310"
+  },
+  {
+    "name": "Asrock Z97 Extreme6/ac",
+    "socket": "LGA 1150",
+    "chipset": "Intel Z97"
+  },
+  {
+    "name": "Asrock Z97 Extreme6/3.1",
+    "socket": "LGA 1150",
+    "chipset": "Intel Z97"
+  },
+  {
+    "name": "Asrock Z97 Extreme3",
+    "socket": "LGA 1150",
+    "chipset": "Intel Z97"
+  },
+  {
+    "name": "Asrock Fatal1ty Z97 Professional",
+    "socket": "LGA 1150",
+    "chipset": "Intel Z97"
+  },
+  {
+    "name": "Asrock Fatal1ty Z97X Killer",
+    "socket": "LGA 1150",
+    "chipset": "Intel Z97"
+  },
+  {
+    "name": "MSI Z97 Gaming 7",
+    "socket": "LGA 1150",
+    "chipset": "Intel Z97"
+  },
+  {
+    "name": "MSI Z97A Gaming 7",
+    "socket": "LGA 1150",
+    "chipset": "Intel Z97"
+  },
+  {
+    "name": "MSI Z97S SLI Plus",
+    "socket": "LGA 1150",
+    "chipset": "Intel Z97"
+  },
+  {
+    "name": "ECS H110M4-C21",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "ECS H110M4-C23",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "ECS H110M4-C2D",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "ECS H110M4-C2H",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "Gigabyte GA-H110M-DS2V DDR3",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "Gigabyte GA-H110M-HD3 DDR3",
+    "socket": "LGA 1151",
+    "chipset": "Intel H110"
+  },
+  {
+    "name": "Gigabyte GA-970A-DS3 Rev. 1.0",
+    "socket": "AM3+",
+    "chipset": "AMD 970"
+  },
+  {
+    "name": "Gigabyte GA-X99-UD4 Rev. 1.1",
+    "socket": "LGA 2011-3",
+    "chipset": "Intel X99"
+  },
+  {
+    "name": "Gigabyte GA-X99-Gaming 5",
+    "socket": "LGA 2011-3",
+    "chipset": "Intel X99"
+  },
+  {
+    "name": "Gigabyte GA-X99-Gaming G1 Wifi",
+    "socket": "LGA 2011-3",
+    "chipset": "Intel X99"
+  },
+  {
+    "name": "Gigabyte GA-X99M-Gaming 5 Rev. 1.0",
+    "socket": "LGA 2011-3",
+    "chipset": "Intel X99"
+  },
+  {
+    "name": "Gigabyte GA-X99M-Gaming 5 Rev. 1.1",
+    "socket": "LGA 2011-3",
+    "chipset": "Intel X99"
+  },
+  {
+    "name": "Gigabyte GA-X99-UD3P",
+    "socket": "LGA 2011-3",
+    "chipset": "Intel X99"
+  },
+  {
+    "name": "Gigabyte GA-X99-UD4P",
+    "socket": "LGA 2011-3",
+    "chipset": "Intel X99"
+  },
+  {
+    "name": "Gigabyte GA-X99-SLI",
+    "socket": "LGA 2011-3",
+    "chipset": "Intel X99"
+  },
+  {
+    "name": "MSI X99S MPower",
+    "socket": "LGA 2011-3",
+    "chipset": "Intel X99"
+  },
+  {
+    "name": "MSI X99S XPower AC",
+    "socket": "LGA 2011-3",
+    "chipset": "Intel X99"
+  },
+  {
+    "name": "MSI H310M Pro-M2",
+    "socket": "LGA 1151",
+    "chipset": "Intel H310"
+  },
+  {
+    "name": "Gigabyte H310M DS2V 2.0",
+    "socket": "LGA 1151",
+    "chipset": "Intel H310"
+  },
+  {
+    "name": "Gigabyte GA-X99P-SLI",
+    "socket": "LGA 2011-3",
+    "chipset": "Intel X99"
+  },
+  {
+    "name": "MSI X99S Gaming 9 AC",
+    "socket": "LGA 2011-3",
+    "chipset": "Intel X99"
+  },
+  {
+    "name": "MSI X99A SLI Plus",
+    "socket": "LGA 2011-3",
+    "chipset": "Intel X99"
+  },
+  {
+    "name": "MSI X99A Tomahawk",
+    "socket": "LGA 2011-3",
+    "chipset": "Intel X99"
+  },
+  {
+    "name": "MSI X99A Workstation",
+    "socket": "LGA 2011-3",
+    "chipset": "Intel X99"
+  },
+  {
+    "name": "MSI X99A XPower AC",
+    "socket": "LGA 2011-3",
+    "chipset": "Intel X99"
+  },
+  {
+    "name": "MSI H310M Pro-D",
+    "socket": "LGA 1151",
+    "chipset": "Intel H310"
+  }
+]
